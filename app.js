@@ -95,12 +95,16 @@
       }
     } catch(e) {}
 
-    // Fallback: try old-style chapters.json / chapters_ru.json
-    var fallback = currentLang === 'ru' ? 'chapters_ru.json' : 'chapters.json';
-    try {
-      var resp2 = await fetch(fallback);
-      chapters = await resp2.json();
-    } catch(e) {
+    // Fallback only for book-of-aeliss (backward compat with old chapters.json)
+    if (currentWork === 'book-of-aeliss') {
+      var fallback = currentLang === 'ru' ? 'chapters_ru.json' : 'chapters.json';
+      try {
+        var resp2 = await fetch(fallback);
+        chapters = await resp2.json();
+      } catch(e) {}
+    }
+
+    if (!chapters.length) {
       console.error('Failed to load manifest for', currentWork, currentLang);
     }
   }
