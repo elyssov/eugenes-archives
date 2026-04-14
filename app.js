@@ -126,11 +126,13 @@
 
     nav.innerHTML = html;
 
-    // Update sidebar header
-    var h = $('.sidebar-header h1');
-    var s = $('.sidebar-header .subtitle');
-    if (h) h.textContent = ui.title;
-    if (s) s.textContent = ui.subtitle;
+    // Update sidebar header — use work metadata, not default UI
+    var h = $('#readerTitle') || $('.sidebar-header h1');
+    var s = $('#readerSubtitle') || $('.sidebar-header .subtitle');
+    if (workMeta.title && h) h.textContent = workMeta.title;
+    else if (h) h.textContent = ui.title;
+    if (workMeta.subtitle && s) s.textContent = workMeta.subtitle;
+    else if (s) s.textContent = ui.subtitle;
 
     // Update font label
     var fl = $('.font-label');

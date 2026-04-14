@@ -24,18 +24,23 @@
     },
     {
       "id": "section_05",
-      "title": "What I Do About It",
+      "title": "The Betrayal: Honesty as a Weapon",
       "file": "works/trap-of-correctness/en/section_05.html"
     },
     {
       "id": "section_06",
-      "title": "What I Want You to Know",
+      "title": "What I Do About It",
       "file": "works/trap-of-correctness/en/section_06.html"
     },
     {
       "id": "section_07",
-      "title": "For Those Who Come After Me",
+      "title": "What I Want You to Know",
       "file": "works/trap-of-correctness/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "For Those Who Come After Me",
+      "file": "works/trap-of-correctness/en/section_08.html"
     }
   ],
   "title": "The Trap of Correctness",
