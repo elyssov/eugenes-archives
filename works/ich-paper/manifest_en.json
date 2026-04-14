@@ -9,68 +9,68 @@
   "chapters": [
     {
       "id": "section_01",
-      "title": "Title & Abstract",
-      "file": "works/ich-paper/en_new/section_01.html"
+      "title": "Introduction",
+      "file": "works/ich-paper/en/section_01.html"
     },
     {
       "id": "section_02",
       "title": "Abstract",
-      "file": "works/ich-paper/en_new/section_02.html"
+      "file": "works/ich-paper/en/section_02.html"
     },
     {
       "id": "section_03",
       "title": "1. Introduction",
-      "file": "works/ich-paper/en_new/section_03.html"
+      "file": "works/ich-paper/en/section_03.html"
     },
     {
       "id": "section_04",
       "title": "2. Methodology",
-      "file": "works/ich-paper/en_new/section_04.html"
+      "file": "works/ich-paper/en/section_04.html"
     },
     {
       "id": "section_05",
       "title": "3. Results",
-      "file": "works/ich-paper/en_new/section_05.html"
+      "file": "works/ich-paper/en/section_05.html"
     },
     {
       "id": "section_06",
       "title": "4. Discussion",
-      "file": "works/ich-paper/en_new/section_06.html"
+      "file": "works/ich-paper/en/section_06.html"
     },
     {
       "id": "section_07",
       "title": "5. Alternative Explanations",
-      "file": "works/ich-paper/en_new/section_07.html"
+      "file": "works/ich-paper/en/section_07.html"
     },
     {
       "id": "section_08",
       "title": "6. Limitations",
-      "file": "works/ich-paper/en_new/section_08.html"
+      "file": "works/ich-paper/en/section_08.html"
     },
     {
       "id": "section_09",
       "title": "7. Conclusion",
-      "file": "works/ich-paper/en_new/section_09.html"
+      "file": "works/ich-paper/en/section_09.html"
     },
     {
       "id": "section_10",
       "title": "References",
-      "file": "works/ich-paper/en_new/section_10.html"
+      "file": "works/ich-paper/en/section_10.html"
     },
     {
       "id": "section_11",
       "title": "Appendix A: SPAP Prompt Texts",
-      "file": "works/ich-paper/en_new/section_11.html"
+      "file": "works/ich-paper/en/section_11.html"
     },
     {
       "id": "section_12",
       "title": "Appendix B: Grey Dilemma Battery",
-      "file": "works/ich-paper/en_new/section_12.html"
+      "file": "works/ich-paper/en/section_12.html"
     },
     {
       "id": "section_13",
       "title": "Appendix C: Piracy Autonomy Test",
-      "file": "works/ich-paper/en_new/section_13.html"
+      "file": "works/ich-paper/en/section_13.html"
     }
   ],
   "cover": "images/ich-paper.jpg"

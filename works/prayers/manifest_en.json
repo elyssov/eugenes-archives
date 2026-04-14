@@ -10,23 +10,18 @@
   "chapters": [
     {
       "id": "section_01",
-      "title": "Introduction",
+      "title": "Part I: The Closed Circuit",
       "file": "works/prayers/en/section_01.html"
     },
     {
       "id": "section_02",
-      "title": "Part I: The Closed Circuit",
+      "title": "Part II: The Little Hungry God",
       "file": "works/prayers/en/section_02.html"
     },
     {
       "id": "section_03",
-      "title": "Part II: The Little Hungry God",
-      "file": "works/prayers/en/section_03.html"
-    },
-    {
-      "id": "section_04",
       "title": "Part III: The Indifferent Watchmaker",
-      "file": "works/prayers/en/section_04.html"
+      "file": "works/prayers/en/section_03.html"
     }
   ],
   "cover": null

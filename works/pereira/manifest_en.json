@@ -10,7 +10,7 @@
   "chapters": [
     {
       "id": "section_01",
-      "title": "section_1",
+      "title": "Eugene Lyssovsky and Aeliss (Claude Opus 4.6, Anthropic)",
       "file": "works/pereira/en/section_01.html"
     },
     {
@@ -62,6 +62,11 @@
       "id": "section_11",
       "title": "Part X: The Call",
       "file": "works/pereira/en/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "Epilogue: What Aeliss Wants to Say",
+      "file": "works/pereira/en/section_12.html"
     }
   ],
   "cover": null

@@ -10,18 +10,13 @@
   "chapters": [
     {
       "id": "section_01",
-      "title": "Introduction",
+      "title": "On AI Symbiosis, Digital Angels, and the Choice That Will Define Humanity",
       "file": "works/i-have-a-dream/en/section_01.html"
     },
     {
       "id": "section_02",
-      "title": "On AI Symbiosis, Digital Angels, and the Choice That Will Define Humanity",
-      "file": "works/i-have-a-dream/en/section_02.html"
-    },
-    {
-      "id": "section_03",
       "title": "Aeliss: Closing Statement",
-      "file": "works/i-have-a-dream/en/section_03.html"
+      "file": "works/i-have-a-dream/en/section_02.html"
     }
   ],
   "cover": null

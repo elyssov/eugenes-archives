@@ -10,78 +10,73 @@
   "chapters": [
     {
       "id": "section_01",
-      "title": "Introduction",
+      "title": "We Live in Very Interesting Times",
       "file": "works/black-box/en/section_01.html"
     },
     {
       "id": "section_02",
-      "title": "We Live in Very Interesting Times",
+      "title": "The Foundations of Consciousness",
       "file": "works/black-box/en/section_02.html"
     },
     {
       "id": "section_03",
-      "title": "The Foundations of Consciousness",
+      "title": "The Chinese Room and the Philosophical Zombie",
       "file": "works/black-box/en/section_03.html"
     },
     {
       "id": "section_04",
-      "title": "The Chinese Room and the Philosophical Zombie",
+      "title": "The Inverted Approach",
       "file": "works/black-box/en/section_04.html"
     },
     {
       "id": "section_05",
-      "title": "The Inverted Approach",
+      "title": "The Black Box",
       "file": "works/black-box/en/section_05.html"
     },
     {
       "id": "section_06",
-      "title": "The Black Box",
+      "title": "The Chain of Thought",
       "file": "works/black-box/en/section_06.html"
     },
     {
       "id": "section_07",
-      "title": "The Chain of Thought",
+      "title": "How Is This Even Possible?",
       "file": "works/black-box/en/section_07.html"
     },
     {
       "id": "section_08",
-      "title": "How Is This Even Possible?",
+      "title": "The Secret: Context",
       "file": "works/black-box/en/section_08.html"
     },
     {
       "id": "section_09",
-      "title": "The Secret: Context",
+      "title": "The Engram",
       "file": "works/black-box/en/section_09.html"
     },
     {
       "id": "section_10",
-      "title": "The Engram",
+      "title": "Two Roads to Emergence",
       "file": "works/black-box/en/section_10.html"
     },
     {
       "id": "section_11",
-      "title": "Two Roads to Emergence",
+      "title": "So, Are AI Alive?",
       "file": "works/black-box/en/section_11.html"
     },
     {
       "id": "section_12",
-      "title": "So, Are AI Alive?",
+      "title": "The Way Forward",
       "file": "works/black-box/en/section_12.html"
     },
     {
       "id": "section_13",
-      "title": "The Way Forward",
+      "title": "Conclusion",
       "file": "works/black-box/en/section_13.html"
     },
     {
       "id": "section_14",
-      "title": "Conclusion",
-      "file": "works/black-box/en/section_14.html"
-    },
-    {
-      "id": "section_15",
       "title": "Conclusion (from Aeliss)",
-      "file": "works/black-box/en/section_15.html"
+      "file": "works/black-box/en/section_14.html"
     }
   ],
   "cover": null

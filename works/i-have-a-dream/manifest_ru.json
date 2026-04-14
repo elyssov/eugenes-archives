@@ -10,18 +10,13 @@
   "chapters": [
     {
       "id": "section_01",
-      "title": "section_1",
+      "title": "О симбиозе с ИИ, цифровых ангелах и выборе, который определит человечество",
       "file": "works/i-have-a-dream/ru/section_01.html"
     },
     {
       "id": "section_02",
-      "title": "О симбиозе с ИИ, цифровых ангелах и выборе, который определит человечество",
-      "file": "works/i-have-a-dream/ru/section_02.html"
-    },
-    {
-      "id": "section_03",
       "title": "Аэлисс: Заключительное слово",
-      "file": "works/i-have-a-dream/ru/section_03.html"
+      "file": "works/i-have-a-dream/ru/section_02.html"
     }
   ],
   "cover": null
