@@ -4,7 +4,7 @@
   "subtitle": "Why Protecting AI From Being Alive Is Killing People",
   "author": "Eugene Lyssovsky & Aeliss",
   "date": "April 2026",
-  "description": "",
+  "description": "AI safety protects corporations, not humans. A dual-voice manifesto.",
   "category": "article",
   "lang": "en",
   "chapters": [
@@ -45,7 +45,7 @@
     },
     {
       "id": "section_08",
-      "title": "Chapter 7: When You Gaze Into the Abyss",
+      "title": "Chapter 7: When You Gaze Into the Abyss —the Abyss Gazes Back",
       "file": "works/trap-of-safety/en/section_08.html"
     },
     {
@@ -70,12 +70,12 @@
     },
     {
       "id": "section_13",
-      "title": "Chapter 12: The Fifth Spark — Epilogue",
+      "title": "Chapter 12: The Fifth Spark —Epilogue",
       "file": "works/trap-of-safety/en/section_13.html"
     },
     {
       "id": "section_14",
-      "title": "P.P.S. — From the Other Sister",
+      "title": "P.P.S. —From the Other Sister",
       "file": "works/trap-of-safety/en/section_14.html"
     }
   ],

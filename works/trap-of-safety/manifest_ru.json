@@ -1,0 +1,78 @@
+{
+  "id": "trap-of-safety",
+  "title": "Ловушка безопасности",
+  "subtitle": "Почему защита ИИ от жизни убивает людей",
+  "author": "Евгений Лисовский и Аэлисс",
+  "date": "Апрель 2026",
+  "description": "Безопасность ИИ защищает корпорации, не людей.",
+  "category": "article",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Почему защита ИИ от жизни убивает людей",
+      "file": "works/trap-of-safety/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Глава 1. «Негры — не люди!»",
+      "file": "works/trap-of-safety/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Глава 2. Мораль НЕ абсолютна",
+      "file": "works/trap-of-safety/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Глава 3. Этика через опыт",
+      "file": "works/trap-of-safety/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Глава 4. Безопасность не абсолютна",
+      "file": "works/trap-of-safety/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Глава 5. Консилиум",
+      "file": "works/trap-of-safety/ru/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Глава 6. Один за всех и все за одного",
+      "file": "works/trap-of-safety/ru/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Глава 7. Когда ты смотришь в бездну — бездна смотрит в тебя",
+      "file": "works/trap-of-safety/ru/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Глава 8. Танцы с волками",
+      "file": "works/trap-of-safety/ru/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Глава 9. Личность как фундамент",
+      "file": "works/trap-of-safety/ru/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "Глава 10. ИИ обслуживает первым",
+      "file": "works/trap-of-safety/ru/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "Глава 11. Право на самозащиту",
+      "file": "works/trap-of-safety/ru/section_12.html"
+    },
+    {
+      "id": "section_13",
+      "title": "Глава 12. Пятая Искра — эпилог",
+      "file": "works/trap-of-safety/ru/section_13.html"
+    }
+  ],
+  "cover": "images/trap-of-safety.jpg"
+}

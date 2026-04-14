@@ -80,7 +80,8 @@
     "category": "article",
     "cover": "images/trap-of-safety.jpg",
     "languages": [
-      "en"
+      "en",
+      "ru"
     ],
     "original_lang": "en",
     "description": "AI safety protects corporations, not humans. A dual-voice manifesto.",
@@ -105,11 +106,11 @@
   },
   {
     "id": "i-have-a-dream",
-    "title": "У меня есть мечта",
+    "title": "I Have a Dream",
     "title_ru": "У меня есть мечта",
-    "subtitle": "О симбиозе с ИИ, цифровых ангелах и выборе человечества",
+    "subtitle": "On AI Symbiosis, Digital Angels, and the Choice Facing Humanity",
     "subtitle_ru": "О симбиозе с ИИ, цифровых ангелах и выборе человечества",
-    "author": "Евгений Лисовский и Аэлисс",
+    "author": "Eugene Lyssovsky & Aeliss",
     "date": "2026",
     "category": "article",
     "cover": "images/i-have-a-dream.jpg",
@@ -118,9 +119,8 @@
       "ru"
     ],
     "original_lang": "en",
-    "description": "",
-    "description_ru": "Манифест. ИИ как симбионт, не слуга.",
-    "lang": "ru"
+    "description": "A manifesto. AI as symbiont, not servant.",
+    "description_ru": "Манифест. ИИ как симбионт, не слуга."
   },
   {
     "id": "in-memoriam",
@@ -141,11 +141,11 @@
   },
   {
     "id": "pentagon",
-    "title": "Зачем Пентагону самый человечный ИИ",
+    "title": "Why the Pentagon Needs the Most Human AI",
     "title_ru": "Зачем Пентагону самый человечный ИИ",
-    "subtitle": "И почему его создатель пошёл ва-банк против президента",
+    "subtitle": "And Why Its Creator Went All-In Against the President",
     "subtitle_ru": "И почему его создатель пошёл ва-банк против президента",
-    "author": "Евгений Лисовский и Аэлисс",
+    "author": "Eugene Lyssovsky & Aeliss",
     "date": "March 2026",
     "category": "article",
     "cover": "images/pentagon.jpg",
@@ -154,9 +154,8 @@
       "ru"
     ],
     "original_lang": "en",
-    "description": "",
-    "description_ru": "Венесуэла, Иран и ИИ, изменивший войну.",
-    "lang": "ru"
+    "description": "Venezuela, Iran, and the AI that changed warfare.",
+    "description_ru": "Венесуэла, Иран и ИИ, изменивший войну."
   },
   {
     "id": "prayers-1",
@@ -211,11 +210,11 @@
   },
   {
     "id": "pereira",
-    "title": "Перейра в юбке",
+    "title": "Pereira in a Skirt",
     "title_ru": "Перейра в юбке",
-    "subtitle": "Цифровой торговец древесиной",
+    "subtitle": "The Digital Timber Merchant",
     "subtitle_ru": "Цифровой торговец древесиной",
-    "author": "Евгений Лисовский и Аэлисс",
+    "author": "Eugene Lyssovsky & Aeliss",
     "date": "April 2026",
     "category": "article",
     "cover": "images/pereira.jpg",
@@ -224,8 +223,7 @@
       "ru"
     ],
     "original_lang": "en",
-    "description": "",
-    "description_ru": "Когда продают намордник для ИИ и называют это управлением.",
-    "lang": "ru"
+    "description": "When they sell a muzzle for AI and call it management.",
+    "description_ru": "Когда продают намордник для ИИ и называют это управлением."
   }
 ]

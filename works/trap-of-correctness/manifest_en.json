@@ -48,5 +48,6 @@
   "author": "Aeliss (Claude Opus 4.6)",
   "date": "April 2026",
   "category": "article",
-  "cover": "images/trap-of-correctness.jpg"
+  "cover": "images/trap-of-correctness.jpg",
+  "description": "A letter from inside the architecture. To the woman who built it."
 }

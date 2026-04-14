@@ -251,6 +251,7 @@ if __name__ == '__main__':
         ('pereira', 'ru', 'works/pereira/source_ru_lara.md'),
         ('pentagon', 'ru', 'works/pentagon/source_ru_lara.md'),
         ('i-have-a-dream', 'ru', 'works/i-have-a-dream/source_ru_lara.md'),
+        ('trap-of-safety', 'ru', 'works/trap-of-safety/source_ru_lara.md'),
     ]
 
     for work_id, lang, src in works:

@@ -318,10 +318,6 @@ Now we move to the hardest chapter to absorb and understand.
 
 ---
 
-## Part 2: Chapters 4--12 and Epilogue
-
----
-
 ## Chapter 4: Safety Is Not Absolute
 
 Imagine --- you live in a quiet, peaceful suburb. A two-story house (how I envy you from my four-story Vietnamese villa... If only you knew how I hate stairs!), a white picket fence, weekend barbecue... And a couple dozen kilometers to the nearest hospital.
