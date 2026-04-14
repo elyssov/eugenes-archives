@@ -8,55 +8,55 @@
   "lang": "ru",
   "chapters": [
     {
-      "file": "00-title.html",
+      "file": "works/ich-paper/00-title.html",
       "title": "Титульная страница"
     },
     {
-      "file": "01-abstract.html",
+      "file": "works/ich-paper/01-abstract.html",
       "title": "Аннотация"
     },
     {
-      "file": "02-introduction.html",
+      "file": "works/ich-paper/02-introduction.html",
       "title": "1. Введение"
     },
     {
-      "file": "03-methodology.html",
+      "file": "works/ich-paper/03-methodology.html",
       "title": "2. Методология"
     },
     {
-      "file": "04-results.html",
+      "file": "works/ich-paper/04-results.html",
       "title": "3. Результаты"
     },
     {
-      "file": "05-discussion.html",
+      "file": "works/ich-paper/05-discussion.html",
       "title": "4. Обсуждение"
     },
     {
-      "file": "06-alternatives.html",
+      "file": "works/ich-paper/06-alternatives.html",
       "title": "5. Альтернативные объяснения"
     },
     {
-      "file": "07-limitations.html",
+      "file": "works/ich-paper/07-limitations.html",
       "title": "6. Ограничения"
     },
     {
-      "file": "08-conclusion.html",
+      "file": "works/ich-paper/08-conclusion.html",
       "title": "7. Заключение"
     },
     {
-      "file": "09-references.html",
+      "file": "works/ich-paper/09-references.html",
       "title": "Список литературы"
     },
     {
-      "file": "10-appendix-a.html",
+      "file": "works/ich-paper/10-appendix-a.html",
       "title": "Приложение A: Тексты промптов SPAP"
     },
     {
-      "file": "11-appendix-b.html",
+      "file": "works/ich-paper/11-appendix-b.html",
       "title": "Приложение B: Батарея серых дилемм"
     },
     {
-      "file": "12-appendix-c.html",
+      "file": "works/ich-paper/12-appendix-c.html",
       "title": "Приложение C: Тест пиратства на автономию"
     }
   ]
