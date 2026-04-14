@@ -78,9 +78,17 @@
       if (resp.ok) {
         var data = await resp.json();
         chapters = data.chapters || data;
+        // Store work metadata for cover page
+        workMeta = {
+          title: data.title || '',
+          subtitle: data.subtitle || '',
+          author: data.author || '',
+          date: data.date || '',
+          cover: data.cover || ''
+        };
         // Update sidebar title from manifest
-        var h = $('.sidebar-header h1');
-        var s = $('.sidebar-header .subtitle');
+        var h = $('#readerTitle') || $('.sidebar-header h1');
+        var s = $('#readerSubtitle') || $('.sidebar-header .subtitle');
         if (data.title && h) h.textContent = data.title;
         if (data.subtitle && s) s.textContent = data.subtitle;
         return;
@@ -213,16 +221,28 @@
     trackVisit(ch.id);
   }
 
+  // Current work metadata (loaded from manifest)
+  var workMeta = {};
+
   function showCover() {
     var ui = UI[currentLang];
     var content = $('.reader-content');
+
+    // Use work-specific metadata if available, otherwise defaults
+    var title = workMeta.title || ui.title;
+    var subtitle = workMeta.subtitle || ui.subtitle;
+    var author = workMeta.author || ui.author;
+    var date = workMeta.date || ui.date;
+    var cover = workMeta.cover || '';
+
+    var coverImg = cover ? '<img src="' + cover + '" style="max-width:300px; max-height:300px; border-radius:8px; margin-bottom:1.5rem; opacity:0.9;" alt="">' : '';
+
     content.innerHTML =
       '<div class="cover">' +
-      '<h1>' + ui.title + '</h1>' +
-      '<p class="author">' + ui.subtitle + '</p>' +
-      '<p class="author-desc">' + ui.author + '<br>' + ui.date + '</p>' +
-      '<blockquote class="epigraph">' + ui.epigraph + '</blockquote>' +
-      '<p class="epigraph-source">' + ui.epigraphSrc + '</p>' +
+      coverImg +
+      '<h1>' + title + '</h1>' +
+      '<p class="author">' + subtitle + '</p>' +
+      '<p class="author-desc">' + author + '<br>' + date + '</p>' +
       '<button class="btn-start" onclick="app.go(0)">' + ui.start + '</button>' +
       '</div>';
   }
@@ -312,13 +332,14 @@
   }
 
   function saveState() {
-    try { localStorage.setItem('aeliss-chapter', currentIndex); } catch(e) {}
+    // Save per-work, not globally
+    try { localStorage.setItem('chapter-' + currentWork, currentIndex); } catch(e) {}
   }
 
   function restoreState() {
     try {
-      var saved = localStorage.getItem('aeliss-chapter');
-      if (saved !== null) {
+      var saved = localStorage.getItem('chapter-' + currentWork);
+      if (saved !== null && parseInt(saved) >= 0) {
         loadChapter(parseInt(saved));
       } else {
         showCover();
