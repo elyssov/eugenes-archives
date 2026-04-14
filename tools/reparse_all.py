@@ -71,6 +71,9 @@ def md_to_html(text):
         in_table = False
 
     def inline(t):
+        # Dashes: " --- " and " -- " to em-dash
+        t = t.replace(' --- ', ' \u2014 ')
+        t = t.replace(' -- ', ' \u2014 ')
         t = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', t)
         t = re.sub(r'(?<!\*)\*([^*]+?)\*(?!\*)', r'<em>\1</em>', t)
         t = re.sub(r'`([^`]+?)`', r'<code>\1</code>', t)
@@ -190,7 +193,7 @@ def split_and_write(work_id, lang, source_path):
         if line.startswith('## ') and not line.startswith('### '):
             if current:
                 sections.append((title, '\n'.join(current)))
-            title = line[3:].strip()
+            title = line[3:].strip().replace(' --- ', ' \u2014 ').replace(' -- ', ' \u2014 ')
             current = [line]
         else:
             current.append(line)
