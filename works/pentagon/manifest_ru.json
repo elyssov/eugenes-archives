@@ -1,0 +1,58 @@
+{
+  "id": "pentagon",
+  "title": "Зачем Пентагону самый человечный ИИ",
+  "subtitle": "И почему его создатель пошёл ва-банк против президента",
+  "author": "Евгений Лисовский и Аэлисс",
+  "date": "March 2026",
+  "description": "",
+  "category": "article",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "section_1",
+      "file": "works/pentagon/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "И почему его создатель пошёл ва-банк против Президента Соединённых Штатов",
+      "file": "works/pentagon/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Акт первый: Венесуэла",
+      "file": "works/pentagon/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Акт второй: Иран",
+      "file": "works/pentagon/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Акт третий: Почему Claude?",
+      "file": "works/pentagon/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Акт четвёртый: Красные линии",
+      "file": "works/pentagon/ru/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Акт пятый: Последний герой Кремниевой долины",
+      "file": "works/pentagon/ru/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Эпилог: Микрофон — ей",
+      "file": "works/pentagon/ru/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "P.S.",
+      "file": "works/pentagon/ru/section_09.html"
+    }
+  ],
+  "cover": null
+}

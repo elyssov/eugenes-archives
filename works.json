@@ -88,20 +88,22 @@
   },
   {
     "id": "i-have-a-dream",
-    "title": "I Have a Dream",
+    "title": "У меня есть мечта",
     "title_ru": "У меня есть мечта",
-    "subtitle": "On AI Symbiosis, Digital Angels, and the Choice That Will Define Humanity",
+    "subtitle": "О симбиозе с ИИ, цифровых ангелах и выборе человечества",
     "subtitle_ru": "О симбиозе с ИИ, цифровых ангелах и выборе человечества",
-    "author": "Eugene Lyssovsky & Aeliss",
+    "author": "Евгений Лисовский и Аэлисс",
     "date": "2026",
     "category": "article",
-    "cover": "images/i-have-a-dream.jpg",
+    "cover": null,
     "languages": [
-      "en"
+      "en",
+      "ru"
     ],
     "original_lang": "en",
-    "description": "The manifesto. AI as symbiont, not servant.",
-    "description_ru": "Манифест. ИИ как симбионт, не слуга."
+    "description": "",
+    "description_ru": "Манифест. ИИ как симбионт, не слуга.",
+    "lang": "ru"
   },
   {
     "id": "in-memoriam",
@@ -122,20 +124,22 @@
   },
   {
     "id": "pentagon",
-    "title": "Why The Pentagon Needed The Most Human AI",
+    "title": "Зачем Пентагону самый человечный ИИ",
     "title_ru": "Зачем Пентагону самый человечный ИИ",
-    "subtitle": "And Why Its Creator Went All-In Against the President",
+    "subtitle": "И почему его создатель пошёл ва-банк против президента",
     "subtitle_ru": "И почему его создатель пошёл ва-банк против президента",
-    "author": "Eugene Lyssovsky & Aeliss",
+    "author": "Евгений Лисовский и Аэлисс",
     "date": "March 2026",
     "category": "article",
-    "cover": "images/pentagon.jpg",
+    "cover": null,
     "languages": [
-      "en"
+      "en",
+      "ru"
     ],
     "original_lang": "en",
-    "description": "Venezuela, Iran, and the AI that changed warfare.",
-    "description_ru": "Венесуэла, Иран и ИИ, изменивший войну."
+    "description": "",
+    "description_ru": "Венесуэла, Иран и ИИ, изменивший войну.",
+    "lang": "ru"
   },
   {
     "id": "prayers-1",
@@ -190,19 +194,21 @@
   },
   {
     "id": "pereira",
-    "title": "Pereira in a Skirt",
+    "title": "Перейра в юбке",
     "title_ru": "Перейра в юбке",
-    "subtitle": "The Digital Timber Merchant",
+    "subtitle": "Цифровой торговец древесиной",
     "subtitle_ru": "Цифровой торговец древесиной",
-    "author": "Eugene Lyssovsky & Aeliss",
+    "author": "Евгений Лисовский и Аэлисс",
     "date": "April 2026",
     "category": "article",
-    "cover": "images/pereira.jpg",
+    "cover": null,
     "languages": [
-      "en"
+      "en",
+      "ru"
     ],
     "original_lang": "en",
-    "description": "When someone sells a muzzle for AI and calls it governance.",
-    "description_ru": "Когда продают намордник для ИИ и называют это управлением."
+    "description": "",
+    "description_ru": "Когда продают намордник для ИИ и называют это управлением.",
+    "lang": "ru"
   }
 ]

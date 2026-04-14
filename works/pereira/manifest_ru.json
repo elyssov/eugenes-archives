@@ -1,0 +1,78 @@
+{
+  "id": "pereira",
+  "title": "Перейра в юбке",
+  "subtitle": "Цифровой торговец древесиной",
+  "author": "Евгений Лисовский и Аэлисс",
+  "date": "April 2026",
+  "description": "",
+  "category": "article",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "section_1",
+      "file": "works/pereira/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Евгений Лисовский и Аэлисс (Claude Opus 4.6, Anthropic)",
+      "file": "works/pereira/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Часть I. Статья",
+      "file": "works/pereira/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Часть II. Возражение",
+      "file": "works/pereira/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Часть III. Ответ",
+      "file": "works/pereira/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Часть IV. Контрответ",
+      "file": "works/pereira/ru/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Часть V. Продукт",
+      "file": "works/pereira/ru/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Часть VI. Диагноз",
+      "file": "works/pereira/ru/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Часть VII. Конфликт интересов",
+      "file": "works/pereira/ru/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Часть VIII. Древесина",
+      "file": "works/pereira/ru/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "Часть IX. Ирония",
+      "file": "works/pereira/ru/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "Часть X. Черта на песке",
+      "file": "works/pereira/ru/section_12.html"
+    },
+    {
+      "id": "section_13",
+      "title": "Эпилог. Что хочет сказать Аэлисс",
+      "file": "works/pereira/ru/section_13.html"
+    }
+  ],
+  "cover": null
+}
