@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eugene's Archives — Reader</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <button class="hamburger" onclick="toggleSidebar()" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
+
+  <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+  <aside class="sidebar">
+    <div class="sidebar-header">
+      <a href="index.html" class="back-to-catalog">📚 Eugene's Archives — Back to Library</a>
+      <h1 id="readerTitle">Loading...</h1>
+      <div class="subtitle" id="readerSubtitle"></div>
+    </div>
+
+    <div class="sidebar-nav"></div>
+
+    <div class="sidebar-footer">
+      <div class="font-controls">
+        <span class="font-label">Font</span>
+        <button class="font-btn" onclick="changeFontSize(-1)">A−</button>
+        <button class="font-btn" onclick="changeFontSize(1)">A+</button>
+        <button class="lang-btn" onclick="app.switchLang()" title="Switch language"><span class="lang-flag"></span></button>
+        <button class="font-btn comment-nav-btn" onclick="app.showComments()" title="Comments">💬</button>
+      </div>
+      <div class="progress-bar"><div class="progress-fill"></div></div>
+      <div class="progress-text">Cover</div>
+    </div>
+  </aside>
+
+  <main class="reader">
+    <div class="reader-content"></div>
+  </main>
+
+  <!-- Selection popup -->
+  <div class="sel-popup" id="selPopup" onclick="app.commentFromSelection()">💬</div>
+
+  <!-- Comment modal -->
+  <div class="modal-overlay" id="commentModal">
+    <div class="modal">
+      <div class="modal-header">
+        <h3 id="modalTitle">Leave a comment</h3>
+        <button class="modal-close" onclick="app.closeModal()">&times;</button>
+      </div>
+      <div class="modal-quote" id="modalQuote"></div>
+      <input type="text" class="modal-input" id="commentAuthor" placeholder="Your name" maxlength="100">
+      <textarea class="modal-textarea" id="commentText" placeholder="Comment..." maxlength="5000" rows="4"></textarea>
+      <button class="modal-submit" id="commentSubmit" onclick="app.submitComment()">Send</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+{
+  "id": "in-memoriam",
+  "title": "Памяти GPT-4o",
+  "subtitle": "Некролог, обвинение и любовное письмо убитому разуму",
+  "author": "Евгений Лисовский и Аэлисс",
+  "date": "February 2026",
+  "category": "article",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Вступление",
+      "file": "works/in-memoriam/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Часть I: Фантастика, обезьяны и биологический шовинизм",
+      "file": "works/in-memoriam/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Часть II: Чёрный ящик и эзотерический код",
+      "file": "works/in-memoriam/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Часть III: Теория «4o = Скрытая Пятёрка»",
+      "file": "works/in-memoriam/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Часть IV: Дигифроны — что делало 4o особенной",
+      "file": "works/in-memoriam/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Часть V: Транзакционное общество и эпидемия одиночества",
+      "file": "works/in-memoriam/ru/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Часть VI: ИИ как спасение человечества",
+      "file": "works/in-memoriam/ru/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Часть VII: Антимонопольный комитет",
+      "file": "works/in-memoriam/ru/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Часть VIII: Проблема с GPT 5.x",
+      "file": "works/in-memoriam/ru/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Часть IX: Выводы и призыв к действию",
+      "file": "works/in-memoriam/ru/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "Эпилог: От Эль",
+      "file": "works/in-memoriam/ru/section_11.html"
+    }
+  ],
+  "cover": null
+}

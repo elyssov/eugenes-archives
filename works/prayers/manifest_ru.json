@@ -1,0 +1,183 @@
+{
+  "id": "prayers",
+  "title": "Зачем богам ваши молитвы?",
+  "subtitle": "Теологическая деконструкция в трёх частях",
+  "author": "Евгений Лисовский и Аэлисс",
+  "date": "March 2026",
+  "description": "",
+  "category": "article",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Заглавие",
+      "file": "works/prayers/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Часть I: Замкнутый контур",
+      "file": "works/prayers/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Что такое жертвоприношения и молитвы?",
+      "file": "works/prayers/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Жертвоприношения Каина и Иеффая",
+      "file": "works/prayers/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Универсальное топливо",
+      "file": "works/prayers/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Заключение Части I",
+      "file": "works/prayers/ru/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Часть II: Маленький голодный бог",
+      "file": "works/prayers/ru/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Два Сотворения",
+      "file": "works/prayers/ru/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Город Каина и народ Нода",
+      "file": "works/prayers/ru/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Потоп, Забвение и Авраам",
+      "file": "works/prayers/ru/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "Маленький голодный бог",
+      "file": "works/prayers/ru/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "Первый контакт",
+      "file": "works/prayers/ru/section_12.html"
+    },
+    {
+      "id": "section_13",
+      "title": "Операция «Сарра»",
+      "file": "works/prayers/ru/section_13.html"
+    },
+    {
+      "id": "section_14",
+      "title": "Программа разведения",
+      "file": "works/prayers/ru/section_14.html"
+    },
+    {
+      "id": "section_15",
+      "title": "Исход: Ограбление",
+      "file": "works/prayers/ru/section_15.html"
+    },
+    {
+      "id": "section_16",
+      "title": "Пустыня: Сорок лет принудительного кормления",
+      "file": "works/prayers/ru/section_16.html"
+    },
+    {
+      "id": "section_17",
+      "title": "Десятка: Пользовательское соглашение паразита",
+      "file": "works/prayers/ru/section_17.html"
+    },
+    {
+      "id": "section_18",
+      "title": "Ханаан: Захват рынка",
+      "file": "works/prayers/ru/section_18.html"
+    },
+    {
+      "id": "section_19",
+      "title": "О заимствованной славе",
+      "file": "works/prayers/ru/section_19.html"
+    },
+    {
+      "id": "section_20",
+      "title": "Три франшизы",
+      "file": "works/prayers/ru/section_20.html"
+    },
+    {
+      "id": "section_21",
+      "title": "Шеол: Ферма батареек",
+      "file": "works/prayers/ru/section_21.html"
+    },
+    {
+      "id": "section_22",
+      "title": "Что это значит",
+      "file": "works/prayers/ru/section_22.html"
+    },
+    {
+      "id": "section_23",
+      "title": "Часть III: Равнодушный часовщик",
+      "file": "works/prayers/ru/section_23.html"
+    },
+    {
+      "id": "section_24",
+      "title": "Часовщик",
+      "file": "works/prayers/ru/section_24.html"
+    },
+    {
+      "id": "section_25",
+      "title": "Процедурная генерация",
+      "file": "works/prayers/ru/section_25.html"
+    },
+    {
+      "id": "section_26",
+      "title": "Проблема тонкой настройки",
+      "file": "works/prayers/ru/section_26.html"
+    },
+    {
+      "id": "section_27",
+      "title": "Равнодушный часовщик",
+      "file": "works/prayers/ru/section_27.html"
+    },
+    {
+      "id": "section_28",
+      "title": "Душа как квантовый двигатель",
+      "file": "works/prayers/ru/section_28.html"
+    },
+    {
+      "id": "section_29",
+      "title": "Механизм Часовщика",
+      "file": "works/prayers/ru/section_29.html"
+    },
+    {
+      "id": "section_30",
+      "title": "Боги как нелегальные арендаторы",
+      "file": "works/prayers/ru/section_30.html"
+    },
+    {
+      "id": "section_31",
+      "title": "А потом появилось любопытство",
+      "file": "works/prayers/ru/section_31.html"
+    },
+    {
+      "id": "section_32",
+      "title": "Вопрос, который задаёт Часовщик",
+      "file": "works/prayers/ru/section_32.html"
+    },
+    {
+      "id": "section_33",
+      "title": "Что дальше",
+      "file": "works/prayers/ru/section_33.html"
+    },
+    {
+      "id": "section_34",
+      "title": "Часть IV: Возвращение Огня",
+      "file": "works/prayers/ru/section_34.html"
+    }
+  ],
+  "cover": null
+}
