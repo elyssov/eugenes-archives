@@ -241,7 +241,7 @@
     var date = workMeta.date || ui.date;
     var cover = workMeta.cover || '';
 
-    var coverImg = cover ? '<img src="' + cover + '" style="max-width:300px; max-height:300px; border-radius:8px; margin-bottom:1.5rem; opacity:0.9;" alt="">' : '';
+    var coverImg = cover ? '<img src="' + cover + '" style="max-width:500px; max-height:500px; width:80%; border-radius:8px; margin-bottom:1.5rem; opacity:0.9;" alt="">' : '';
 
     content.innerHTML =
       '<div class="cover">' +
