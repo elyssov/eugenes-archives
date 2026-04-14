@@ -1,0 +1,11 @@
+{
+  "id": "prayers-1",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Part I: The Closed Circuit",
+      "file": "works/prayers-1/en/section_01.html"
+    }
+  ]
+}

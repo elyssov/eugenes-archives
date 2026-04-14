@@ -1,0 +1,16 @@
+{
+  "id": "prayers-3",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Part III: The Indifferent Watchmaker",
+      "file": "works/prayers-3/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "THE INDIFFERENT WATCHMAKER",
+      "file": "works/prayers-3/en/section_02.html"
+    }
+  ]
+}
