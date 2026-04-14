@@ -255,8 +255,9 @@ if __name__ == '__main__':
         ('pentagon', 'ru', 'works/pentagon/source_ru_lara.md'),
         ('i-have-a-dream', 'ru', 'works/i-have-a-dream/source_ru_lara.md'),
         ('trap-of-safety', 'ru', 'works/trap-of-safety/source_ru_lara.md'),
-        # QCT (original RU)
+        # QCT
         ('qct', 'ru', 'works/qct/source_ru.md'),
+        ('qct', 'en', 'works/qct/source_en.md'),
     ]
 
     for work_id, lang, src in works:
