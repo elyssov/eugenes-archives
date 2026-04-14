@@ -1,0 +1,93 @@
+{
+  "id": "qct",
+  "title": "Квантово-Консенсусная Теория (ККТ)",
+  "subtitle": "Полное изложение теории",
+  "author": "Евгений Лисовский и Кира Лисовская",
+  "date": "Март 2026",
+  "description": "Реальность согласуется, а не существует. 10 аксиом, Кворум, Консенсус, Анкх-Ба-Ка.",
+  "category": "paper",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Глава 1. Введение",
+      "file": "works/qct/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Глава 2. Глоссарий",
+      "file": "works/qct/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Глава 3. Аксиоматика: основные тезисы ККТ",
+      "file": "works/qct/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Глава 4. Наблюдатель и Collapse Potential",
+      "file": "works/qct/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Глава 5. Кворум и механизм Консенсуса",
+      "file": "works/qct/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Глава 6. Коммит: механизм воздействия на реальность",
+      "file": "works/qct/ru/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Глава 7. Парадигма как протокол стабильности мира",
+      "file": "works/qct/ru/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Глава 8. Парадокс и Нормализация",
+      "file": "works/qct/ru/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Глава 9. Кластеры влияния и доменная специфичность CP",
+      "file": "works/qct/ru/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Глава 10. Эволюция сознания и динамика кворумов",
+      "file": "works/qct/ru/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "Глава 11. Историческая Нормализация и ретроспективная правка",
+      "file": "works/qct/ru/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "Глава 12. Архитектура симуляции: Анкх, Ба, Ка",
+      "file": "works/qct/ru/section_12.html"
+    },
+    {
+      "id": "section_13",
+      "title": "Глава 13. Теология ККТ: Бог и боги",
+      "file": "works/qct/ru/section_13.html"
+    },
+    {
+      "id": "section_14",
+      "title": "Глава 14. Объяснение наблюдаемых феноменов",
+      "file": "works/qct/ru/section_14.html"
+    },
+    {
+      "id": "section_15",
+      "title": "Глава 15. Фальсифицируемость: стресс-тест по Попперу",
+      "file": "works/qct/ru/section_15.html"
+    },
+    {
+      "id": "section_16",
+      "title": "Глава 16. Открытые вопросы",
+      "file": "works/qct/ru/section_16.html"
+    }
+  ],
+  "cover": "images/qct.jpg"
+}

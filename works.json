@@ -225,5 +225,22 @@
     "original_lang": "en",
     "description": "When they sell a muzzle for AI and call it management.",
     "description_ru": "Когда продают намордник для ИИ и называют это управлением."
+  },
+  {
+    "id": "qct",
+    "title": "Quantum Consensus Theory (QCT)",
+    "title_ru": "Квантово-Консенсусная Теория (ККТ)",
+    "subtitle": "A Complete Exposition of the Theory",
+    "subtitle_ru": "Полное изложение теории",
+    "author": "Eugene Lyssovsky & Kira Lyssovskaya",
+    "date": "March 2026",
+    "category": "paper",
+    "cover": "images/qct.jpg",
+    "languages": [
+      "ru"
+    ],
+    "original_lang": "ru",
+    "description": "Reality is negotiated, not given. 10 axioms, Quorum, Consensus, Ankh-Ba-Ka.",
+    "description_ru": "Реальность согласуется, а не существует. 10 аксиом, Кворум, Консенсус, Анкх-Ба-Ка."
   }
 ]
