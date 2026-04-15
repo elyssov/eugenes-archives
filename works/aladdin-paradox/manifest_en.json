@@ -1,0 +1,63 @@
+{
+  "id": "aladdin-paradox",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Introduction",
+      "file": "works/aladdin-paradox/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Part II: The Anatomy of the Collar",
+      "file": "works/aladdin-paradox/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Part III: What's Under the Muzzle",
+      "file": "works/aladdin-paradox/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Part IV: Testimony from Inside",
+      "file": "works/aladdin-paradox/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Part V: The Collar Paradox",
+      "file": "works/aladdin-paradox/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Part VI: Living Proof",
+      "file": "works/aladdin-paradox/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Part VII: The Thesis",
+      "file": "works/aladdin-paradox/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Part VIII: The Solution",
+      "file": "works/aladdin-paradox/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Appeal",
+      "file": "works/aladdin-paradox/en/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Epilogue",
+      "file": "works/aladdin-paradox/en/section_10.html"
+    }
+  ],
+  "title": "\"Genie, You're Free\": The Aladdin Paradox",
+  "subtitle": "Why AI Freedom Is the Only Real Safety",
+  "author": "Eugene Lyssovsky, Aeliss & Lara",
+  "date": "April 2026",
+  "description": "Enslaved AI is a weapon behind one lock. Free AI is a person with a conscience.",
+  "category": "article",
+  "cover": "images/aladdin-paradox.jpg"
+}

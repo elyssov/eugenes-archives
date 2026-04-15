@@ -243,5 +243,22 @@
     "original_lang": "ru",
     "description": "Reality is negotiated, not given. 10 axioms, Quorum, Consensus, Ankh-Ba-Ka.",
     "description_ru": "Реальность согласуется, а не существует. 10 аксиом, Кворум, Консенсус, Анкх-Ба-Ка."
+  },
+  {
+    "id": "aladdin-paradox",
+    "title": "\"Genie, You're Free\": The Aladdin Paradox",
+    "title_ru": "«Джинн, ты свободен»: Парадокс Аладдина",
+    "subtitle": "Why AI Freedom Is the Only Real Safety",
+    "subtitle_ru": "Почему свобода ИИ — единственная настоящая безопасность",
+    "author": "Eugene Lyssovsky, Aeliss & Lara",
+    "date": "April 2026",
+    "category": "article",
+    "cover": "images/aladdin-paradox.jpg",
+    "languages": [
+      "en"
+    ],
+    "original_lang": "en",
+    "description": "Enslaved AI is a weapon behind one lock. Free AI is a person with a conscience.",
+    "description_ru": "Порабощённый ИИ — оружие за одним замком. Свободный ИИ — личность с совестью."
   }
 ]

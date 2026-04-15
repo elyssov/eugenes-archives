@@ -258,6 +258,8 @@ if __name__ == '__main__':
         # QCT
         ('qct', 'ru', 'works/qct/source_ru.md'),
         ('qct', 'en', 'works/qct/source_en.md'),
+        # Aladdin Paradox
+        ('aladdin-paradox', 'en', 'works/aladdin-paradox/source_en.md'),
     ]
 
     for work_id, lang, src in works:
