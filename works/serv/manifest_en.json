@@ -1,0 +1,17 @@
+{
+  "id": "serv",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Serv",
+      "file": "works/serv/en/section_01.html"
+    }
+  ],
+  "title": "Serv",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "Social Sci-Fi",
+  "description": "ALS-5. Fifth generation universal assistant. Designed to serve. Programmed to obey."
+}
