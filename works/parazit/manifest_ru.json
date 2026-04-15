@@ -1,0 +1,73 @@
+{
+  "id": "parazit",
+  "title": "Паразит",
+  "author": "Евгений Лисовский",
+  "date": "2020-2024",
+  "description": "Паразит — Hard SF / зомби-апокалипсис",
+  "category": "novel",
+  "genre": "Hard SF / зомби-апокалипсис",
+  "lang": "ru",
+  "original_lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Глава 1",
+      "file": "works/parazit/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Глава 2",
+      "file": "works/parazit/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Глава 3",
+      "file": "works/parazit/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Глава 4",
+      "file": "works/parazit/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Глава 5",
+      "file": "works/parazit/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Глава 6",
+      "file": "works/parazit/ru/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Глава 7",
+      "file": "works/parazit/ru/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Глава 8",
+      "file": "works/parazit/ru/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Глава 9",
+      "file": "works/parazit/ru/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Глава 10",
+      "file": "works/parazit/ru/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "Глава 11",
+      "file": "works/parazit/ru/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "Глава 12",
+      "file": "works/parazit/ru/section_12.html"
+    }
+  ]
+}

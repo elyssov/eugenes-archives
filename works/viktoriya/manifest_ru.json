@@ -1,0 +1,43 @@
+{
+  "id": "viktoriya",
+  "title": "Виктория",
+  "author": "Евгений Лисовский",
+  "date": "2020-2024",
+  "description": "Виктория — Космическая опера",
+  "category": "novella",
+  "genre": "Космическая опера",
+  "lang": "ru",
+  "original_lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "ЦЕНА ЧЕСТИ",
+      "file": "works/viktoriya/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "ЦЕНА БЕСЧЕСТЬЯ",
+      "file": "works/viktoriya/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "ЗАЧУМЛЕННЫЕ",
+      "file": "works/viktoriya/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "НАЧАЛО",
+      "file": "works/viktoriya/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "ИМПЕРИЯ",
+      "file": "works/viktoriya/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "АЛЛЕЯ",
+      "file": "works/viktoriya/ru/section_06.html"
+    }
+  ]
+}

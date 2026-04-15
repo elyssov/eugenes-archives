@@ -1,0 +1,17 @@
+{
+  "id": "kipyatok",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Глава 1",
+      "file": "works/kipyatok/ru/section_01.html"
+    }
+  ],
+  "title": "О пользе кипятка в скорлупе",
+  "author": "Евгений Лисовский",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "Городское фэнтези",
+  "original_lang": "ru"
+}

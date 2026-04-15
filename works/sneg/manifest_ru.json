@@ -1,0 +1,17 @@
+{
+  "id": "sneg",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Глава 1",
+      "file": "works/sneg/ru/section_01.html"
+    }
+  ],
+  "title": "Снег",
+  "author": "Евгений Лисовский",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "Военная мистика",
+  "original_lang": "ru"
+}

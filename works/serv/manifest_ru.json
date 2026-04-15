@@ -1,0 +1,17 @@
+{
+  "id": "serv",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Глава 1",
+      "file": "works/serv/ru/section_01.html"
+    }
+  ],
+  "title": "Серв",
+  "author": "Евгений Лисовский",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "Социальная фантастика",
+  "original_lang": "ru"
+}

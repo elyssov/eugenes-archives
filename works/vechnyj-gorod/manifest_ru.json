@@ -1,0 +1,16 @@
+{
+  "id": "vechnyj-gorod",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Предисловие",
+      "file": "works/vechnyj-gorod/ru/section_01.html"
+    }
+  ],
+  "title": "Вечный Город: Пробуждение",
+  "author": "Евгений Лисовский",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "Эпик-фэнтези"
+}

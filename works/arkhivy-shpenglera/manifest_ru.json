@@ -1,0 +1,41 @@
+{
+  "id": "arkhivy-shpenglera",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Буга",
+      "file": "works/arkhivy-shpenglera/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Кулон",
+      "file": "works/arkhivy-shpenglera/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Нефилим",
+      "file": "works/arkhivy-shpenglera/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Печать",
+      "file": "works/arkhivy-shpenglera/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Кащей",
+      "file": "works/arkhivy-shpenglera/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Три месяца спустя",
+      "file": "works/arkhivy-shpenglera/ru/section_06.html"
+    }
+  ],
+  "title": "Архивы фон Шпенглера: Кащей",
+  "author": "Евгений Лисовский",
+  "date": "2020-2024",
+  "category": "novel",
+  "genre": "Городское фэнтези / уютный хоррор"
+}

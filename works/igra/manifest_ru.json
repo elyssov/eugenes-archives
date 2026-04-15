@@ -1,0 +1,17 @@
+{
+  "id": "igra",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Глава 1",
+      "file": "works/igra/ru/section_01.html"
+    }
+  ],
+  "title": "Игра",
+  "author": "Евгений Лисовский",
+  "date": "2020-2024",
+  "category": "novella",
+  "genre": "Survival horror",
+  "original_lang": "ru"
+}

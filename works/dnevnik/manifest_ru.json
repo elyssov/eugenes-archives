@@ -1,0 +1,18 @@
+{
+  "id": "dnevnik",
+  "title": "Дневник конца света",
+  "author": "Евгений Лисовский",
+  "date": "2020-2024",
+  "description": "Дневник конца света — Ядерный постапокалипсис",
+  "category": "short",
+  "genre": "Ядерный постапокалипсис",
+  "lang": "ru",
+  "original_lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Глава 1",
+      "file": "works/dnevnik/ru/section_01.html"
+    }
+  ]
+}

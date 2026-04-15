@@ -1,0 +1,41 @@
+{
+  "id": "blagoslovennaya-eres",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Глава 1",
+      "file": "works/blagoslovennaya-eres/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Глава 2",
+      "file": "works/blagoslovennaya-eres/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Глава 3",
+      "file": "works/blagoslovennaya-eres/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Глава 4",
+      "file": "works/blagoslovennaya-eres/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Глава 5",
+      "file": "works/blagoslovennaya-eres/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Глава 6",
+      "file": "works/blagoslovennaya-eres/ru/section_06.html"
+    }
+  ],
+  "title": "Благословенная ересь",
+  "author": "Евгений Лисовский",
+  "date": "2020-2024",
+  "category": "novella",
+  "genre": "Warhammer 40K фанфикшн"
+}

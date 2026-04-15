@@ -1,0 +1,33 @@
+{
+  "id": "muromec",
+  "title": "Муромец",
+  "author": "Евгений Лисовский",
+  "date": "2020-2024",
+  "description": "Муромец — Боевая фантастика / мехи",
+  "category": "novella",
+  "genre": "Боевая фантастика / мехи",
+  "lang": "ru",
+  "original_lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Глава 1",
+      "file": "works/muromec/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Глава 2",
+      "file": "works/muromec/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Глава 3",
+      "file": "works/muromec/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Глава 4",
+      "file": "works/muromec/ru/section_04.html"
+    }
+  ]
+}
