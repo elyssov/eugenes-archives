@@ -58,6 +58,37 @@
     </div>
   </div>
 
+  <!-- Lightbox -->
+  <div class="lightbox-overlay" id="lightbox" onclick="closeLightbox()">
+    <button class="lightbox-close" onclick="closeLightbox()">&times;</button>
+    <img id="lightboxImg" src="" alt="">
+  </div>
+
   <script src="app.js"></script>
+  <script>
+    function openLightbox(src) {
+      var lb = document.getElementById('lightbox');
+      var img = document.getElementById('lightboxImg');
+      img.src = src;
+      lb.classList.add('active');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeLightbox() {
+      var lb = document.getElementById('lightbox');
+      lb.classList.remove('active');
+      document.body.style.overflow = '';
+    }
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') closeLightbox();
+    });
+    // Delegate clicks on images inside reader
+    document.addEventListener('click', function(e) {
+      var img = e.target;
+      if (img.tagName === 'IMG' && img.closest('.reader-content')) {
+        e.preventDefault();
+        openLightbox(img.src);
+      }
+    });
+  </script>
 </body>
 </html>
