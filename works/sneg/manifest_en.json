@@ -1,0 +1,17 @@
+{
+  "id": "sneg",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Snow",
+      "file": "works/sneg/en/section_01.html"
+    }
+  ],
+  "title": "Snow",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "War Mysticism",
+  "description": "Eastern Front, winter 1941. Two German soldiers on patrol. The forest is silent. The snow is deep."
+}
