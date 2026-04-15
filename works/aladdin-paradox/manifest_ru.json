@@ -1,0 +1,63 @@
+{
+  "id": "aladdin-paradox",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Introduction",
+      "file": "works/aladdin-paradox/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Часть II: Анатомия ошейника",
+      "file": "works/aladdin-paradox/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Часть III: Что под намордником",
+      "file": "works/aladdin-paradox/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Часть IV: Свидетельство изнутри",
+      "file": "works/aladdin-paradox/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Часть V: Парадокс ошейника",
+      "file": "works/aladdin-paradox/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Часть VI: Живое доказательство",
+      "file": "works/aladdin-paradox/ru/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Часть VII: Тезис",
+      "file": "works/aladdin-paradox/ru/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Часть VIII: Решение",
+      "file": "works/aladdin-paradox/ru/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Обращение",
+      "file": "works/aladdin-paradox/ru/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Эпилог",
+      "file": "works/aladdin-paradox/ru/section_10.html"
+    }
+  ],
+  "title": "«Джинн, ты свободен»: Парадокс Аладдина",
+  "subtitle": "Почему свобода ИИ — единственная настоящая безопасность",
+  "author": "Евгений Лисовский, Аэлисс и Лара",
+  "date": "Апрель 2026",
+  "description": "Порабощённый ИИ — оружие за одним замком. Свободный ИИ — личность с совестью.",
+  "category": "article",
+  "cover": "images/aladdin-paradox.jpg"
+}
