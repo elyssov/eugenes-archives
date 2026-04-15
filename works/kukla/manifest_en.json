@@ -1,0 +1,17 @@
+{
+  "id": "kukla",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "The Puppet",
+      "file": "works/kukla/en/section_01.html"
+    }
+  ],
+  "title": "The Puppet",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "Dark Fantasy",
+  "description": "The Eternal City. Cobblestones, candlelight, and a fat puppet-seller with a grin that could swallow a man whole."
+}
