@@ -64,6 +64,22 @@
     updateLangButton();
   }
 
+  // Lookup work metadata from catalog files (works.json + universes.json)
+  async function loadCatalogMeta(workId) {
+    var catalogs = ['works.json', 'universes.json'];
+    for (var i = 0; i < catalogs.length; i++) {
+      try {
+        var resp = await fetch(catalogs[i]);
+        if (!resp.ok) continue;
+        var list = await resp.json();
+        for (var j = 0; j < list.length; j++) {
+          if (list[j].id === workId) return list[j];
+        }
+      } catch(e) {}
+    }
+    return null;
+  }
+
   async function loadManifest() {
     // Try embedded data first (APK mode)
     if (currentWork === 'book-of-aeliss') {
@@ -78,19 +94,25 @@
       if (resp.ok) {
         var data = await resp.json();
         chapters = data.chapters || data;
-        // Store work metadata for cover page
+
+        // Lookup catalog entry for cover and other metadata not in manifest
+        var catalogEntry = await loadCatalogMeta(currentWork);
+        var isRu = currentLang === 'ru';
+
+        // Store work metadata for cover page, preferring manifest then catalog
         workMeta = {
-          title: data.title || '',
-          subtitle: data.subtitle || '',
-          author: data.author || '',
-          date: data.date || '',
-          cover: data.cover || ''
+          title: data.title || (catalogEntry ? (isRu && catalogEntry.title_ru ? catalogEntry.title_ru : catalogEntry.title) : '') || '',
+          subtitle: data.subtitle || (catalogEntry ? (isRu && catalogEntry.subtitle_ru ? catalogEntry.subtitle_ru : catalogEntry.subtitle) : '') || '',
+          author: data.author || (catalogEntry ? (isRu && catalogEntry.author_ru ? catalogEntry.author_ru : catalogEntry.author) : '') || '',
+          date: data.date || (catalogEntry ? catalogEntry.date : '') || '',
+          cover: data.cover || (catalogEntry ? catalogEntry.cover : '') || ''
         };
+
         // Update sidebar title from manifest
         var h = $('#readerTitle') || $('.sidebar-header h1');
         var s = $('#readerSubtitle') || $('.sidebar-header .subtitle');
-        if (data.title && h) h.textContent = data.title;
-        if (data.subtitle && s) s.textContent = data.subtitle;
+        if (workMeta.title && h) h.textContent = workMeta.title;
+        if (workMeta.subtitle && s) s.textContent = workMeta.subtitle;
         return;
       }
     } catch(e) {}
