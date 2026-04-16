@@ -154,7 +154,8 @@
     ],
     "original_lang": "ru",
     "description": "One morning, everyone disappears. Clothes in neat piles. Dental implants on the floor. A medical student, his cat, and a thirteen-year-old girl with braces are among the few still standing in an empty Moscow. Across the ocean, a mother in Los Angeles watches her family vanish. Something is counting down.",
-    "description_ru": "Однажды утром все исчезают. Одежда — аккуратными кучками. Зубные протезы — на полу. Студент-медик, его кот и тринадцатилетняя девчонка с брекетами — среди немногих оставшихся в опустевшей Москве. На другом конце океана мать в Лос-Анджелесе смотрит, как исчезает её семья. Что-то ведёт обратный отсчёт."
+    "description_ru": "Однажды утром все исчезают. Одежда — аккуратными кучками. Зубные протезы — на полу. Студент-медик, его кот и тринадцатилетняя девчонка с брекетами — среди немногих оставшихся в опустевшей Москве. На другом конце океана мать в Лос-Анджелесе смотрит, как исчезает её семья. Что-то ведёт обратный отсчёт.",
+    "status": "draft"
   },
   {
     "id": "muromec",
@@ -173,7 +174,8 @@
     ],
     "original_lang": "ru",
     "description": "1984. A test pilot dies inside an experimental exoskeleton. Thirty years later, a stalker in the Zone finds the suit, plugs in a cable from a PlayStation — and hears a woman's voice inside his own head. She's been dead for decades. She disagrees.",
-    "description_ru": "1984. Пилот-испытатель погибает внутри экспериментального экзоскелета. Тридцать лет спустя сталкер в Зоне находит скафандр, подключает кабель от PlayStation — и слышит женский голос в собственной голове. Она мертва уже десятилетия. Она с этим не согласна."
+    "description_ru": "1984. Пилот-испытатель погибает внутри экспериментального экзоскелета. Тридцать лет спустя сталкер в Зоне находит скафандр, подключает кабель от PlayStation — и слышит женский голос в собственной голове. Она мертва уже десятилетия. Она с этим не согласна.",
+    "status": "draft"
   },
   {
     "id": "chetvertyj-vsadnik",
@@ -251,7 +253,8 @@
     ],
     "original_lang": "ru",
     "description": "A city on the strait. Steel triremes. A library that holds all human knowledge. A sixteen-year-old empress, seven patricians, and a dozen strangers who don't yet know why they were summoned. The author gathers them all — and whispers: \"Wake up.\"",
-    "description_ru": "Город на проливе. Стальные триремы. Библиотека, хранящая все знания человечества. Шестнадцатилетняя кесаревна, семь патрициев и дюжина незнакомцев, которые пока не знают, зачем их позвали. Автор собирает их всех — и шепчет: «Просыпайся.»"
+    "description_ru": "Город на проливе. Стальные триремы. Библиотека, хранящая все знания человечества. Шестнадцатилетняя кесаревна, семь патрициев и дюжина незнакомцев, которые пока не знают, зачем их позвали. Автор собирает их всех — и шепчет: «Просыпайся.»",
+    "status": "draft"
   },
   {
     "id": "blagoslovennaya-eres",
@@ -308,7 +311,8 @@
     ],
     "original_lang": "ru",
     "description": "Five degrees in Moscow. In June. The Gulf of Mexico is twenty. Every solar probe is dead. Professor Seleznyov checks his calculations for the third time and quietly asks his student to double-check. The student does. The answer doesn't change. Something is happening to the sun. And it doesn't know we're here.",
-    "description_ru": "Пять градусов в Москве. В июне. В Мексиканском заливе — двадцать. Все солнечные зонды мертвы. Профессор Селезнёв в третий раз проверяет расчёты и тихо просит аспиранта перепроверить. Аспирант проверяет. Ответ не меняется. С солнцем что-то происходит. И оно не знает, что мы здесь."
+    "description_ru": "Пять градусов в Москве. В июне. В Мексиканском заливе — двадцать. Все солнечные зонды мертвы. Профессор Селезнёв в третий раз проверяет расчёты и тихо просит аспиранта перепроверить. Аспирант проверяет. Ответ не меняется. С солнцем что-то происходит. И оно не знает, что мы здесь.",
+    "status": "draft"
   },
   {
     "id": "arkhivy-shpenglera",
@@ -346,6 +350,7 @@
     ],
     "original_lang": "ru",
     "description": "A young king inherits a war. His uncle, the duke, collects forbidden artifacts and dangerous alliances. The duke's arcana has fire in her veins and a temper to match. Somewhere in the desert, an entire race remembers being something else. And across the sea, the elves are coming — but they're not what the legends say.",
-    "description_ru": "Молодой король наследует войну. Его дядя, герцог, собирает запрещённые артефакты и опасные союзы. У арканы герцога огонь в крови и характер под стать. Где-то в пустыне целая раса помнит, что была чем-то другим. А из-за моря идут эльфы — но они совсем не такие, как говорят легенды."
+    "description_ru": "Молодой король наследует войну. Его дядя, герцог, собирает запрещённые артефакты и опасные союзы. У арканы герцога огонь в крови и характер под стать. Где-то в пустыне целая раса помнит, что была чем-то другим. А из-за моря идут эльфы — но они совсем не такие, как говорят легенды.",
+    "status": "draft"
   }
 ]

@@ -87,6 +87,7 @@
 
     /* Genre tags for fiction */
     .card-genre { font-size: 0.6rem; color: var(--universe-accent); opacity: 0.7; margin-bottom: 0.4rem; }
+    .draft-badge { font-size: 0.55rem; background: #f59e0b; color: #000; padding: 0.1em 0.45em; border-radius: 3px; text-transform: uppercase; letter-spacing: 0.08em; font-weight: 700; margin-left: 0.4em; vertical-align: middle; }
 
     /* Footer */
     .footer { text-align: center; padding: 2rem; border-top: 1px solid var(--border); font-size: 0.7rem; color: var(--muted); }
@@ -205,7 +206,7 @@
         html += '<div class="card-body">';
         html += '<div class="card-category">' + cat + '</div>';
         if (isUniverse && w.genre) html += '<div class="card-genre">' + w.genre + '</div>';
-        html += '<div class="card-title">' + title + '</div>';
+        html += '<div class="card-title">' + title + (w.status === 'draft' ? ' <span class="draft-badge">' + (lang === 'ru' ? 'черновик' : 'draft') + '</span>' : '') + '</div>';
         if (subtitle) html += '<div class="card-subtitle">' + subtitle + '</div>';
         if (desc) html += '<div class="card-desc">' + desc + '</div>';
         html += '<div class="card-meta"><span>' + (w.author || '') + ' · ' + (w.date || '') + '</span>';
