@@ -1,0 +1,16 @@
+{
+  "id": "muromec",
+  "lang": "en",
+  "chapters": [
+    {"id": "section_01", "title": "Chapter 1", "file": "works/muromec/en/section_01.html"},
+    {"id": "section_02", "title": "Chapter 2", "file": "works/muromec/en/section_02.html"},
+    {"id": "section_03", "title": "Chapter 3", "file": "works/muromec/en/section_03.html"},
+    {"id": "section_04", "title": "Chapter 4", "file": "works/muromec/en/section_04.html"}
+  ],
+  "title": "Muromets",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "novella",
+  "genre": "Mech Sci-Fi",
+  "description": "1984. A test pilot dies inside an experimental exoskeleton. Thirty years later, a stalker plugs the suit into a PlayStation cable — and hears a woman's voice inside his own head."
+}
