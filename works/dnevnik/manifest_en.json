@@ -1,0 +1,17 @@
+{
+  "id": "dnevnik",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Diary of the End of the World",
+      "file": "works/dnevnik/en/section_01.html"
+    }
+  ],
+  "title": "Diary of the End of the World",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "Nuclear Post-Apocalypse",
+  "description": "Day minus one: barbecue, traffic on the Minsk highway, the cat stole the kebab."
+}
