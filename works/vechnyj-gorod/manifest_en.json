@@ -1,0 +1,17 @@
+{
+  "id": "vechnyj-gorod",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Foreword",
+      "file": "works/vechnyj-gorod/en/section_01.html"
+    }
+  ],
+  "title": "The Eternal City: Awakening",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "Epic Fantasy",
+  "description": "A city on the strait. Steel triremes. A library that holds all human knowledge."
+}
