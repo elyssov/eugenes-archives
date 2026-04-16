@@ -1,0 +1,17 @@
+{
+  "id": "igra",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "The Game",
+      "file": "works/igra/en/section_01.html"
+    }
+  ],
+  "title": "The Game",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "novella",
+  "genre": "Survival Horror",
+  "description": "An airsoft team enters an abandoned asylum for a weekend exercise. By midnight, the rules have changed."
+}
