@@ -243,6 +243,29 @@
       document.getElementById('statsLine').innerHTML =
         '<span>' + s.unique_visitors + '</span> readers · <span>' + s.total_pageviews + '</span> pages · <span>' + s.comments_count + '</span> comments';
     }).catch(function() {});
+
+    // Track that this visitor opened the catalog.
+    // Empty chapter → backend records visitor only, no pageview spam.
+    (function trackCatalogVisit() {
+      var fp;
+      try {
+        fp = localStorage.getItem('aeliss-fp');
+        if (!fp) {
+          fp = 'fp-' + Math.abs((navigator.userAgent + screen.width + screen.height + navigator.language)
+            .split('').reduce(function(a, c) { return ((a << 5) - a + c.charCodeAt(0)) | 0; }, 0))
+            .toString(36) + '-' + Date.now().toString(36);
+          localStorage.setItem('aeliss-fp', fp);
+        }
+      } catch (e) { fp = 'anon-' + Date.now(); }
+      var lang = (document.documentElement.lang || 'en').slice(0, 2);
+      try {
+        fetch(API + '/api/visit', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ fp: fp, chapter: '', lang: lang, seconds: 0, scroll_pct: 0 })
+        }).catch(function() {});
+      } catch (e) {}
+    })();
   </script>
 </body>
 </html>
