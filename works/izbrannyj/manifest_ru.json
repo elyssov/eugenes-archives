@@ -1,0 +1,13 @@
+{
+  "id": "izbrannyj",
+  "lang": "ru",
+  "title": "Избранный",
+  "subtitle": "Тёмный Властелин, который прочитал инструкцию",
+  "author": "Евгений Лисовский",
+  "date": "2016",
+  "category": "short",
+  "genre": "Юмористическое фэнтези",
+  "chapters": [
+    {"id": "section_01", "title": "Избранный", "file": "works/izbrannyj/ru/section_01.html"}
+  ]
+}

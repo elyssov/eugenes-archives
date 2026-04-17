@@ -374,5 +374,24 @@
     "description": "A young king inherits a war. His uncle, the duke, collects forbidden artifacts and dangerous alliances. The duke's arcana has fire in her veins and a temper to match. Somewhere in the desert, an entire race remembers being something else. And across the sea, the elves are coming — but they're not what the legends say.",
     "description_ru": "Молодой король наследует войну. Его дядя, герцог, собирает запрещённые артефакты и опасные союзы. У арканы герцога огонь в крови и характер под стать. Где-то в пустыне целая раса помнит, что была чем-то другим. А из-за моря идут эльфы — но они совсем не такие, как говорят легенды.",
     "status": "draft"
+  },
+  {
+    "id": "izbrannyj",
+    "title": "The Chosen One",
+    "title_ru": "Избранный",
+    "subtitle": "The Dark Lord who read the manual",
+    "subtitle_ru": "Тёмный Властелин, который прочитал инструкцию",
+    "author": "Eugene Lyssovsky",
+    "author_ru": "Евгений Лисовский",
+    "date": "2016",
+    "category": "short",
+    "genre": "Comedy Fantasy",
+    "cover": null,
+    "languages": [
+      "ru"
+    ],
+    "original_lang": "ru",
+    "description": "A prophecy says the Chosen One will defeat the Dark Lord. Previous Dark Lords tried killing the baby, hunting the hero, cursing the bloodline — and lost. This one takes a different approach: he finds the Chosen One and gives him a mansion, servants, and a spot in the Imperial War Academy. Why fight destiny when you can promote it?",
+    "description_ru": "Пророчество гласит: Избранный свергнет Тёмного Властелина. Предыдущие Тёмные Лорды пытались убить младенца, устроить охоту на героя, проклясть род — и проиграли. Этот поступил иначе: нашёл Избранного и дал ему дворец, наложниц и место в Высшей Стратегической Школе. Зачем бороться с судьбой, если можно её повысить в звании?"
   }
 ]
