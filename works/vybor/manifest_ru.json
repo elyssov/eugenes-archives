@@ -1,0 +1,18 @@
+{
+  "id": "vybor",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Выбор",
+      "file": "works/vybor/ru/section_01.html"
+    }
+  ],
+  "title": "Выбор",
+  "author": "Евгений Лисовский",
+  "date": "2010-2016",
+  "category": "short",
+  "genre": "Sci-Fi",
+  "description": "Командующий дальней космической станцией должен принять решение: спасти 2000 детей наверняка или рискнуть ради 5000.",
+  "original_lang": "ru"
+}

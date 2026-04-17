@@ -1,0 +1,19 @@
+{
+  "id": "instructors",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Инструкторы ОС",
+      "file": "works/instructors/ru/section_01.html"
+    }
+  ],
+  "title": "Инструкторы ОС",
+  "subtitle": "Если бы операционные системы были инструкторами по вождению",
+  "author": "Евгений Лисовский",
+  "date": "2010 / 2026",
+  "category": "article",
+  "genre": "Humor",
+  "description": "Каждая операционная система — инструктор по вождению. DOS преподаёт на «Москвиче», macOS — на белом Porsche, а Arch Linux даёт вам гору запчастей и инструкцию на 47 языках.",
+  "original_lang": "ru"
+}

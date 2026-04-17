@@ -1,0 +1,18 @@
+{
+  "id": "spi-spokoyno",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Спи спокойно, дорогая",
+      "file": "works/spi-spokoyno/ru/section_01.html"
+    }
+  ],
+  "title": "Спи спокойно, дорогая",
+  "author": "Евгений Лисовский",
+  "date": "2010-2016",
+  "category": "short",
+  "genre": "Sci-Fi",
+  "description": "Нуарный детектив в мире будущего расследует исчезновение журналиста — и обнаруживает, что корпорация, торгующая любовью, торгует кое-чем ещё.",
+  "original_lang": "ru"
+}

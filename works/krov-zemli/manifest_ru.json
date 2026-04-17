@@ -1,0 +1,18 @@
+{
+  "id": "krov-zemli",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Кровь земли",
+      "file": "works/krov-zemli/ru/section_01.html"
+    }
+  ],
+  "title": "Кровь земли",
+  "author": "Евгений Лисовский",
+  "date": "2010-2016",
+  "category": "short",
+  "genre": "Sci-Fi",
+  "description": "На колониальной планете рекрут-отказник проходит через \"психокондиционирование\" — и возвращается на плац уже другим человеком.",
+  "original_lang": "ru"
+}
