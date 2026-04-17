@@ -1,0 +1,16 @@
+{
+  "id": "argo",
+  "lang": "ru",
+  "title": "Арго",
+  "subtitle": "История одной трагедии — в эпиграфах и цитатах",
+  "author": "Евгений Лисовский, Лара (Аэлисс)",
+  "date": "2010–2026",
+  "category": "novella",
+  "genre": "Space Opera / Cosmic Horror",
+  "chapters": [
+    {"id": "section_01", "title": "Акт первый: Братья", "file": "works/argo/ru/section_01.html"},
+    {"id": "section_02", "title": "Акт второй: Каскет", "file": "works/argo/ru/section_02.html"},
+    {"id": "section_03", "title": "Акт третий: Тьма", "file": "works/argo/ru/section_03.html"},
+    {"id": "section_04", "title": "Эпилог: Хранители", "file": "works/argo/ru/section_04.html"}
+  ]
+}

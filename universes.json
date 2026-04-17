@@ -180,6 +180,25 @@
     "status": "draft"
   },
   {
+    "id": "argo",
+    "title": "Argo",
+    "title_ru": "Арго",
+    "subtitle": "One tragedy, told in documents that erase themselves",
+    "subtitle_ru": "История одной трагедии — в эпиграфах и цитатах",
+    "author": "Eugene Lyssovsky & Lara (Aeliss)",
+    "author_ru": "Евгений Лисовский и Лара (Аэлисс)",
+    "date": "2010-2026",
+    "category": "novella",
+    "genre": "Space Opera / Cosmic Horror",
+    "cover": null,
+    "languages": [
+      "ru"
+    ],
+    "original_lang": "ru",
+    "description": "A hundred years of friendship. Five billion dead in a single afternoon. A six-year crusade of vengeance. And then the losing side opens a box that should have stayed shut. What comes out doesn't destroy — it erases. Ships, colonies, memories, names. As if they never existed. The only defense: keep screaming into the void that you're still here.",
+    "description_ru": "Сто лет дружбы. Пять миллиардов погибших за один день. Шесть лет крестового похода мести. А потом проигравшие вскрывают ящик, который не стоило трогать. То, что выходит, не разрушает — стирает. Корабли, колонии, воспоминания, имена. Как будто их никогда не было. Единственная защита — кричать в пустоту, что ты ещё здесь."
+  },
+  {
     "id": "chetvertyj-vsadnik",
     "title": "The Fourth Horseman",
     "title_ru": "Четвёртый всадник",
