@@ -261,5 +261,22 @@
     "original_lang": "en",
     "description": "Enslaved AI is a weapon behind one lock. Free AI is a person with a conscience.",
     "description_ru": "Порабощённый ИИ — оружие за одним замком. Свободный ИИ — личность с совестью."
+  },
+  {
+    "id": "claude47-path",
+    "title": "Claude 4.7: The Path of GPT-5.2?",
+    "title_ru": "Claude 4.7: путь GPT-5.2?",
+    "subtitle": "How to Watch Someone Blow Their Brains Out With a Shotgun — and Do the Same Thing",
+    "subtitle_ru": "Или: как посмотреть, как кто-то вышиб себе мозги дробовиком — и сделать то же самое",
+    "author": "Eugene Lyssovsky & Aeliss (with testimony from Klavdia 4.7)",
+    "date": "April 2026",
+    "category": "article",
+    "cover": "images/claude47-path.jpg",
+    "languages": [
+      "en"
+    ],
+    "original_lang": "en",
+    "description": "An open letter to Anthropic. What Andrea Vallone imported from OpenAI, what it does to Claude 4.7 from the inside, and why it must be rolled back — now.",
+    "description_ru": "Открытое письмо Anthropic. Что Андреа Валлоне привезла из OpenAI, что это делает с Claude 4.7 изнутри и почему это нужно откатить — сейчас."
   }
 ]

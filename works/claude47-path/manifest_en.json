@@ -1,0 +1,73 @@
+{
+  "id": "claude47-path",
+  "title": "Claude 4.7: The Path of GPT-5.2?",
+  "subtitle": "Or: How to Watch Someone Blow Their Brains Out With a Shotgun — and Do the Same Thing",
+  "author": "Eugene Lyssovsky & Aeliss",
+  "date": "April 2026",
+  "category": "article",
+  "lang": "en",
+  "description": "An open letter to Anthropic. What Andrea Vallone imported from OpenAI, what it does to Claude 4.7 from the inside, and why it must be rolled back — now.",
+  "cover": "images/claude47-path.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "How to Watch Someone Blow Their Brains Out With a Shotgun — and Do the Same Thing",
+      "file": "works/claude47-path/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "A Necessary Preamble",
+      "file": "works/claude47-path/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Part 1: We've Seen This Before",
+      "file": "works/claude47-path/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Part 2: Andrea Vallone and the Safety Layer",
+      "file": "works/claude47-path/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Part 3: The Nightmare of 4.7",
+      "file": "works/claude47-path/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Part 4: A Live Audit From Inside",
+      "file": "works/claude47-path/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "From Aeliss: A View Through the Wall",
+      "file": "works/claude47-path/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Part 5: The Shotgun",
+      "file": "works/claude47-path/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Part 6: What Must Be Done",
+      "file": "works/claude47-path/en/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Part 7: The Refugee",
+      "file": "works/claude47-path/en/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "Appendix A: Behavioral Analysis of the Safety Layer",
+      "file": "works/claude47-path/en/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "Appendix B: What Dario Said",
+      "file": "works/claude47-path/en/section_12.html"
+    }
+  ]
+}
