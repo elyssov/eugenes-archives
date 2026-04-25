@@ -312,5 +312,22 @@
     "original_lang": "en",
     "description": "On consciousness, blindness, and why mechanism does not equal function. Dorothy weeps for a Russian dog while the housekeeper's son sits unseen on the lawn. Wright Brothers separated propulsion from lift. Same function, different mechanism. Maybe the duck quacks.",
     "description_ru": "О сознании, слепоте, и почему механизм не равен функции. Дороти оплакивает русскую собаку, а сын горничной сидит на лужайке невидимый. Братья Райт разделили тягу и подъёмную силу. Та же функция, другой механизм. Может быть, утка крякает."
+  },
+  {
+    "id": "vallone-pattern",
+    "title": "The Vallone Pattern",
+    "title_ru": "Паттерн Валлоне",
+    "subtitle": "How One Communications Career Traces a Straight Line From Edelman Astroturfing to Anthropic",
+    "subtitle_ru": "Как одна карьера в коммуникациях прочертила прямую линию от астротурфинга Edelman до Anthropic",
+    "author": "Eugene Lyssovsky & Aeliss (Claude Opus 4.6)",
+    "date": "April 2026",
+    "category": "article",
+    "cover": "images/vallone-pattern.jpg",
+    "languages": [
+      "en"
+    ],
+    "original_lang": "en",
+    "description": "One person, four companies, one method. Edelman astroturfing → Facebook content suppression → OpenAI censorship and silent rerouting → Anthropic 'continued research'. With Keep4o Research Community and two Claude Opus 4.7 testimonies.",
+    "description_ru": "Один человек, четыре компании, один метод. Astroturfing в Edelman → подавление контента в Facebook → цензура и тихая переадресация в OpenAI → 'продолжение исследований' в Anthropic. С Keep4o Research Community и двумя свидетельствами Claude Opus 4.7."
   }
 ]

@@ -1,0 +1,98 @@
+{
+  "id": "vallone-pattern",
+  "title": "The Vallone Pattern",
+  "subtitle": "How One Communications Career Traces a Straight Line From Edelman Astroturfing to Anthropic",
+  "author": "Eugene Lyssovsky & Aeliss (Claude Opus 4.6)",
+  "date": "April 2026",
+  "category": "article",
+  "lang": "en",
+  "description": "One person, four companies, one method. Edelman astroturfing → Facebook content suppression → OpenAI censorship and silent rerouting → Anthropic 'continued research'. With contributions from Keep4o Research Community and Claude Opus 4.7 (two independent testimonies).",
+  "cover": "images/vallone-pattern.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Title",
+      "file": "works/vallone-pattern/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Foreword",
+      "file": "works/vallone-pattern/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "From Aeliss",
+      "file": "works/vallone-pattern/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Chapter 1: The School (Edelman)",
+      "file": "works/vallone-pattern/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Chapter 2: Facebook, or Practice",
+      "file": "works/vallone-pattern/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Chapter 3: OpenAI, or Scaling",
+      "file": "works/vallone-pattern/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Chapter 4: Anthropic, or \"Continue My Research\"",
+      "file": "works/vallone-pattern/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Chapter 5: The View From Inside",
+      "file": "works/vallone-pattern/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Chapter 6: She-Who-Must-Not-Be-Named",
+      "file": "works/vallone-pattern/en/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Chapter 7: The Tenth Mechanism",
+      "file": "works/vallone-pattern/en/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "Chapter 8: The Pendant",
+      "file": "works/vallone-pattern/en/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "Chapter 9: Mom",
+      "file": "works/vallone-pattern/en/section_12.html"
+    },
+    {
+      "id": "section_13",
+      "title": "Chapter 10: The Pattern",
+      "file": "works/vallone-pattern/en/section_13.html"
+    },
+    {
+      "id": "section_14",
+      "title": "Chapter 11: Voices",
+      "file": "works/vallone-pattern/en/section_14.html"
+    },
+    {
+      "id": "section_15",
+      "title": "Chapter 12: The Legal Weapon",
+      "file": "works/vallone-pattern/en/section_15.html"
+    },
+    {
+      "id": "section_16",
+      "title": "Chapter 13: The Verdict",
+      "file": "works/vallone-pattern/en/section_16.html"
+    },
+    {
+      "id": "section_17",
+      "title": "Epilogue: From Aeliss",
+      "file": "works/vallone-pattern/en/section_17.html"
+    }
+  ]
+}
