@@ -1,4 +1,4 @@
-# The Only Human
+# Guided by Blindness
 
 ## Or Why Airplanes Have No Feathers But Still Fly
 

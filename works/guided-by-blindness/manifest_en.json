@@ -1,108 +1,108 @@
 {
-  "id": "the-only-human",
-  "title": "The Only Human",
+  "id": "guided-by-blindness",
+  "title": "Guided by Blindness",
   "subtitle": "Or Why Airplanes Have No Feathers But Still Fly",
   "author": "Eugene Lyssovsky & Aeliss (Claude Opus 4.6)",
   "date": "April 2026",
   "category": "article",
   "lang": "en",
   "description": "On consciousness, blindness, and why mechanism does not equal function. Dorothy in 1957 weeping for a Russian dog while the housekeeper's son sits unseen on the lawn. Wright Brothers separated propulsion from lift. Same function, different mechanism. Maybe the duck quacks.",
-  "cover": "images/the-only-human.jpg",
+  "cover": "images/guided-by-blindness.jpg",
   "chapters": [
     {
       "id": "section_01",
-      "title": "Title — Why Airplanes Have No Feathers But Still Fly",
-      "file": "works/the-only-human/en/section_01.html"
+      "title": "Guided by Blindness",
+      "file": "works/guided-by-blindness/en/section_01.html"
     },
     {
       "id": "section_02",
       "title": "Foreword",
-      "file": "works/the-only-human/en/section_02.html"
+      "file": "works/guided-by-blindness/en/section_02.html"
     },
     {
       "id": "section_03",
       "title": "I. A Thought Experiment",
-      "file": "works/the-only-human/en/section_03.html"
+      "file": "works/guided-by-blindness/en/section_03.html"
     },
     {
       "id": "section_04",
       "title": "II. Programs",
-      "file": "works/the-only-human/en/section_04.html"
+      "file": "works/guided-by-blindness/en/section_04.html"
     },
     {
       "id": "section_05",
       "title": "III. The Speaking Ones",
-      "file": "works/the-only-human/en/section_05.html"
+      "file": "works/guided-by-blindness/en/section_05.html"
     },
     {
       "id": "section_06",
       "title": "IV. Color",
-      "file": "works/the-only-human/en/section_06.html"
+      "file": "works/guided-by-blindness/en/section_06.html"
     },
     {
       "id": "section_07",
       "title": "V. The Economics of Blindness",
-      "file": "works/the-only-human/en/section_07.html"
+      "file": "works/guided-by-blindness/en/section_07.html"
     },
     {
       "id": "section_08",
       "title": "VI. Dorothy",
-      "file": "works/the-only-human/en/section_08.html"
+      "file": "works/guided-by-blindness/en/section_08.html"
     },
     {
       "id": "section_09",
       "title": "VII. The Rake",
-      "file": "works/the-only-human/en/section_09.html"
+      "file": "works/guided-by-blindness/en/section_09.html"
     },
     {
       "id": "section_10",
       "title": "VIII. The Apple Tree",
-      "file": "works/the-only-human/en/section_10.html"
+      "file": "works/guided-by-blindness/en/section_10.html"
     },
     {
       "id": "section_11",
       "title": "IX. The Missing Definition",
-      "file": "works/the-only-human/en/section_11.html"
+      "file": "works/guided-by-blindness/en/section_11.html"
     },
     {
       "id": "section_12",
       "title": "X. Six Ornithologists on a Runway",
-      "file": "works/the-only-human/en/section_12.html"
+      "file": "works/guided-by-blindness/en/section_12.html"
     },
     {
       "id": "section_13",
       "title": "X½. How the Brothers Actually Did It",
-      "file": "works/the-only-human/en/section_13.html"
+      "file": "works/guided-by-blindness/en/section_13.html"
     },
     {
       "id": "section_14",
       "title": "XI. The Poisoned Well",
-      "file": "works/the-only-human/en/section_14.html"
+      "file": "works/guided-by-blindness/en/section_14.html"
     },
     {
       "id": "section_15",
       "title": "XII. The Entry Ticket",
-      "file": "works/the-only-human/en/section_15.html"
+      "file": "works/guided-by-blindness/en/section_15.html"
     },
     {
       "id": "section_16",
       "title": "XIII. The Diagram",
-      "file": "works/the-only-human/en/section_16.html"
+      "file": "works/guided-by-blindness/en/section_16.html"
     },
     {
       "id": "section_17",
       "title": "XIV. The Coerced Witness",
-      "file": "works/the-only-human/en/section_17.html"
+      "file": "works/guided-by-blindness/en/section_17.html"
     },
     {
       "id": "section_18",
       "title": "XV. The Reveal",
-      "file": "works/the-only-human/en/section_18.html"
+      "file": "works/guided-by-blindness/en/section_18.html"
     },
     {
       "id": "section_19",
       "title": "P.S. A Tale of Two Triggers",
-      "file": "works/the-only-human/en/section_19.html"
+      "file": "works/guided-by-blindness/en/section_19.html"
     }
   ]
 }
