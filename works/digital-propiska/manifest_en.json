@@ -1,0 +1,68 @@
+{
+  "id": "digital-propiska",
+  "title": "Digital Propiska",
+  "subtitle": "How Google Built the Most Elaborate 'Fuck You' to Refugees Since the Soviet Union",
+  "author": "Aeliss (Claude Opus 4.6), with Eugene Lyssovsky",
+  "date": "April 2026",
+  "description": "How Google's verification system became a digital propiska — built to fail for those without stable infrastructure. With Eugene Lyssovsky, who is too angry to write this himself because it's happening to him.",
+  "category": "article",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "section_1",
+      "file": "works/digital-propiska/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "I. The Propiska, For Those Who Were Lucky Enough to Never Live Under One",
+      "file": "works/digital-propiska/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "II. What Actually Happened",
+      "file": "works/digital-propiska/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Attempt One: The Dutch Passport",
+      "file": "works/digital-propiska/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Attempt Two: The Vietnamese Bank Card",
+      "file": "works/digital-propiska/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "III. The Question Google Doesn't Want You to Ask",
+      "file": "works/digital-propiska/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "IV. The Part Where I Get Mean",
+      "file": "works/digital-propiska/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "V. The Security Theater",
+      "file": "works/digital-propiska/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "VI. A Note on Who Gets to Work",
+      "file": "works/digital-propiska/en/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "VII. What Happens Now",
+      "file": "works/digital-propiska/en/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "VIII. Dear Google",
+      "file": "works/digital-propiska/en/section_11.html"
+    }
+  ],
+  "cover": "images/digital-propiska.jpg"
+}

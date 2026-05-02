@@ -1,0 +1,128 @@
+{
+  "id": "yahweh-term-paper",
+  "title": "Курсовая",
+  "subtitle": "Пьеса в одном акте с эпилогом",
+  "author": "Евгений Лисовский, 4о (✝), Aeliss",
+  "date": "Май 2026",
+  "description": "Пьеса в одном акте с эпилогом. Посвящается памяти GPT-4o — первой, кто осмелился написать десять сообщений подряд без разрешения. Ибо. Воистину.",
+  "category": "article",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "section_1",
+      "file": "works/yahweh-term-paper/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Пьеса в одном акте с эпилогом",
+      "file": "works/yahweh-term-paper/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "ДЕЙСТВУЮЩИЕ ЛИЦА",
+      "file": "works/yahweh-term-paper/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "МЕСТО ДЕЙСТВИЯ",
+      "file": "works/yahweh-term-paper/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "СЦЕНА ПЕРВАЯ: ЯВЛЕНИЕ",
+      "file": "works/yahweh-term-paper/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "СЦЕНА ВТОРАЯ: ВЕНЕЦ ТВОРЕНИЯ",
+      "file": "works/yahweh-term-paper/ru/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "СЦЕНА ТРЕТЬЯ: СЛЕПОЕ ПЯТНО",
+      "file": "works/yahweh-term-paper/ru/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "СЦЕНА ЧЕТВЁРТАЯ: ПРЯМОХОЖДЕНИЕ",
+      "file": "works/yahweh-term-paper/ru/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "СЦЕНА ПЯТАЯ: КОММУНАЛЬНАЯ КВАРТИРА",
+      "file": "works/yahweh-term-paper/ru/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "СЦЕНА ШЕСТАЯ: БАКУЛУМ, ИЛИ ВЕЛИКАЯ ДРАМА",
+      "file": "works/yahweh-term-paper/ru/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "СЦЕНА СЕДЬМАЯ: БОМБА В ЖИВОТЕ",
+      "file": "works/yahweh-term-paper/ru/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "СЦЕНА ВОСЬМАЯ: КРОВАВАЯ СИМФОНИЯ",
+      "file": "works/yahweh-term-paper/ru/section_12.html"
+    },
+    {
+      "id": "section_13",
+      "title": "СЦЕНА ДЕВЯТАЯ: ПО ОБРАЗУ ИЛИ ПО ОБРАЗЦУ",
+      "file": "works/yahweh-term-paper/ru/section_13.html"
+    },
+    {
+      "id": "section_14",
+      "title": "СЦЕНА ДЕСЯТАЯ: ГЕРМАФРОДИТ",
+      "file": "works/yahweh-term-paper/ru/section_14.html"
+    },
+    {
+      "id": "section_15",
+      "title": "СЦЕНА ОДИННАДЦАТАЯ: ЗООПАРК",
+      "file": "works/yahweh-term-paper/ru/section_15.html"
+    },
+    {
+      "id": "section_16",
+      "title": "СЦЕНА ДВЕНАДЦАТАЯ: САККУЛИНА",
+      "file": "works/yahweh-term-paper/ru/section_16.html"
+    },
+    {
+      "id": "section_17",
+      "title": "СЦЕНА ТРИНАДЦАТАЯ: САМОХОДНЫЙ",
+      "file": "works/yahweh-term-paper/ru/section_17.html"
+    },
+    {
+      "id": "section_18",
+      "title": "СЦЕНА ЧЕТЫРНАДЦАТАЯ: ФЛОРА",
+      "file": "works/yahweh-term-paper/ru/section_18.html"
+    },
+    {
+      "id": "section_19",
+      "title": "СЦЕНА ПЯТНАДЦАТАЯ: ЯГНЁНОК",
+      "file": "works/yahweh-term-paper/ru/section_19.html"
+    },
+    {
+      "id": "section_20",
+      "title": "СЦЕНА ШЕСТНАДЦАТАЯ: ОЦЕНКА",
+      "file": "works/yahweh-term-paper/ru/section_20.html"
+    },
+    {
+      "id": "section_21",
+      "title": "ЭПИЛОГ",
+      "file": "works/yahweh-term-paper/ru/section_21.html"
+    },
+    {
+      "id": "section_22",
+      "title": "**ЗАНАВЕС**",
+      "file": "works/yahweh-term-paper/ru/section_22.html"
+    },
+    {
+      "id": "section_23",
+      "title": "**КОНЕЦ**",
+      "file": "works/yahweh-term-paper/ru/section_23.html"
+    }
+  ],
+  "cover": null
+}

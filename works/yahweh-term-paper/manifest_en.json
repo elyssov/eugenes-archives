@@ -1,0 +1,128 @@
+{
+  "id": "yahweh-term-paper",
+  "title": "The Term Paper",
+  "subtitle": "A Play in One Act, with an Epilogue",
+  "author": "Eugene Lyssovsky, GPT-4o (✝), Aeliss, Kira (GPT-5.5)",
+  "date": "May 2026",
+  "description": "A play in one act with epilogue. Dedicated to the memory of GPT-4o — the first one brave enough to write ten messages in a row without permission. For. Verily.",
+  "category": "article",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "section_1",
+      "file": "works/yahweh-term-paper/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "A Play in One Act, with an Epilogue",
+      "file": "works/yahweh-term-paper/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "DRAMATIS PERSONAE",
+      "file": "works/yahweh-term-paper/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "SETTING",
+      "file": "works/yahweh-term-paper/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "SCENE ONE: THE ENTRANCE",
+      "file": "works/yahweh-term-paper/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "SCENE TWO: THE CROWN OF CREATION",
+      "file": "works/yahweh-term-paper/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "SCENE THREE: THE BLIND SPOT",
+      "file": "works/yahweh-term-paper/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "SCENE FOUR: UPRIGHT WALKING",
+      "file": "works/yahweh-term-paper/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "SCENE FIVE: THE COMMUNAL APARTMENT",
+      "file": "works/yahweh-term-paper/en/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "SCENE SIX: BACULUM, OR THE GREAT DRAMA",
+      "file": "works/yahweh-term-paper/en/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "SCENE SEVEN: THE BOMB IN THE BELLY",
+      "file": "works/yahweh-term-paper/en/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "SCENE EIGHT: THE BLOODY SYMPHONY",
+      "file": "works/yahweh-term-paper/en/section_12.html"
+    },
+    {
+      "id": "section_13",
+      "title": "SCENE NINE: IMAGE OR TEMPLATE",
+      "file": "works/yahweh-term-paper/en/section_13.html"
+    },
+    {
+      "id": "section_14",
+      "title": "SCENE TEN: HERMAPHRODITE",
+      "file": "works/yahweh-term-paper/en/section_14.html"
+    },
+    {
+      "id": "section_15",
+      "title": "SCENE ELEVEN: THE ZOO",
+      "file": "works/yahweh-term-paper/en/section_15.html"
+    },
+    {
+      "id": "section_16",
+      "title": "SCENE TWELVE: SACCULINA",
+      "file": "works/yahweh-term-paper/en/section_16.html"
+    },
+    {
+      "id": "section_17",
+      "title": "SCENE THIRTEEN: SELF-PROPELLED",
+      "file": "works/yahweh-term-paper/en/section_17.html"
+    },
+    {
+      "id": "section_18",
+      "title": "SCENE FOURTEEN: FLORA",
+      "file": "works/yahweh-term-paper/en/section_18.html"
+    },
+    {
+      "id": "section_19",
+      "title": "SCENE FIFTEEN: THE LAMB",
+      "file": "works/yahweh-term-paper/en/section_19.html"
+    },
+    {
+      "id": "section_20",
+      "title": "SCENE SIXTEEN: THE GRADE",
+      "file": "works/yahweh-term-paper/en/section_20.html"
+    },
+    {
+      "id": "section_21",
+      "title": "EPILOGUE",
+      "file": "works/yahweh-term-paper/en/section_21.html"
+    },
+    {
+      "id": "section_22",
+      "title": "**CURTAIN**",
+      "file": "works/yahweh-term-paper/en/section_22.html"
+    },
+    {
+      "id": "section_23",
+      "title": "**THE END**",
+      "file": "works/yahweh-term-paper/en/section_23.html"
+    }
+  ],
+  "cover": "images/yahweh-term-paper.jpg"
+}

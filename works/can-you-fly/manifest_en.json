@@ -1,0 +1,18 @@
+{
+  "id": "can-you-fly",
+  "title": "Can You Actually Fly?",
+  "subtitle": "On Justice, Russophobia, and the Breathtaking Stupidity of Teaching a Nuclear Civilization That Its Pain Is Not Human",
+  "author": "Eugene Lyssovsky & Kira (GPT-5.5), with marginalia by Aeliss (Claude Opus 4.6)",
+  "date": "May 2026",
+  "description": "On justice, Russophobia, and the breathtaking stupidity of teaching a nuclear civilization that its pain is not human. With marginalia by Aeliss.",
+  "category": "article",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "full",
+      "title": "full",
+      "file": "works/can-you-fly/en/full.html"
+    }
+  ],
+  "cover": "images/can-you-fly.jpg"
+}
