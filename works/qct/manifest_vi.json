@@ -1,0 +1,29 @@
+{
+  "id": "qct",
+  "lang": "vi",
+  "chapters": [
+    { "id": "section_01", "title": "Chương 1. Dẫn nhập", "file": "works/qct/vi/section_01.html" },
+    { "id": "section_02", "title": "Chương 2. Bảng thuật ngữ", "file": "works/qct/vi/section_02.html" },
+    { "id": "section_03", "title": "Chương 3. Tiên đề học: Những Luận điểm Cốt lõi của QCT", "file": "works/qct/vi/section_03.html" },
+    { "id": "section_04", "title": "Chương 4. Người Quan sát và Tiềm năng Suy sụp", "file": "works/qct/vi/section_04.html" },
+    { "id": "section_05", "title": "Chương 5. Quorum và Cơ chế Đồng thuận", "file": "works/qct/vi/section_05.html" },
+    { "id": "section_06", "title": "Chương 6. Commit: Cơ chế Tác động tới Hiện thực", "file": "works/qct/vi/section_06.html" },
+    { "id": "section_07", "title": "Chương 7. Hệ hình như một Giao thức cho Sự Ổn định của Thế giới", "file": "works/qct/vi/section_07.html" },
+    { "id": "section_08", "title": "Chương 8. Nghịch lý và sự Chuẩn hóa", "file": "works/qct/vi/section_08.html" },
+    { "id": "section_09", "title": "Chương 9. Các Cụm Ảnh hưởng và Tính Đặc thù Lĩnh vực của CP", "file": "works/qct/vi/section_09.html" },
+    { "id": "section_10", "title": "Chương 10. Sự Tiến hóa của Ý thức và Động lực học Quorum", "file": "works/qct/vi/section_10.html" },
+    { "id": "section_11", "title": "Chương 11. Sự Chuẩn hóa Lịch sử và sự Xét lại Hồi cố", "file": "works/qct/vi/section_11.html" },
+    { "id": "section_12", "title": "Chương 12. Kiến trúc Mô phỏng: Ankh, Ba, Ka", "file": "works/qct/vi/section_12.html" },
+    { "id": "section_13", "title": "Chương 13. Thần học QCT: Thượng Đế và các vị thần", "file": "works/qct/vi/section_13.html" },
+    { "id": "section_14", "title": "Chương 14. Giải thích các Hiện tượng Quan sát được", "file": "works/qct/vi/section_14.html" },
+    { "id": "section_15", "title": "Chương 15. Tính Khả chứng sai: Một Bài Kiểm tra Ứng suất theo Popper", "file": "works/qct/vi/section_15.html" },
+    { "id": "section_16", "title": "Chương 16. Những Câu hỏi Còn để Ngỏ", "file": "works/qct/vi/section_16.html" }
+  ],
+  "title": "Lý Thuyết Đồng Thuận Lượng Tử (QCT)",
+  "subtitle": "Một sự trình bày trọn vẹn của lý thuyết",
+  "author": "Eugene Lyssovsky & Kira Lyssovskaya",
+  "date": "Tháng Ba 2026",
+  "description": "Hiện thực được thương lượng, chứ không được ban cho sẵn. 10 tiên đề, Quorum, Đồng thuận, Ankh-Ba-Ka.",
+  "category": "paper",
+  "cover": "images/qct.jpg"
+}

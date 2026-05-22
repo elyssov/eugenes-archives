@@ -1,0 +1,37 @@
+<h2>Chương 3. Tiên đề học: Những Luận điểm Cốt lõi của QCT</h2>
+<p>Chương này trình bày những mệnh đề nền tảng của lý thuyết — những phát biểu mà từ đó mọi hệ quả và cơ chế khác được suy ra.</p>
+<hr class="section-break">
+<h3>Tiên đề 1. Hiện thực được Thương lượng, chứ không được Ban cho sẵn</h3>
+<p>Thế giới không "tồn tại" ở một dạng đã hoàn tất, được định đoạt trước. Nó liên tục được "thương lượng" — thông qua sự lựa chọn một trạng thái cụ thể của sự chồng chập từ vô số khả thể. Mỗi sự kiện trong thế giới vĩ mô là kết quả của một quá trình lượng tử trong đó nhiều kết cục tiềm năng suy sụp thành một kết cục được hiện thực hóa duy nhất.</p>
+<h3>Tiên đề 2. Sự Suy sụp không Ngẫu nhiên</h3>
+<p>Sự lựa chọn một trạng thái được hiện thực hóa từ sự chồng chập không phải ngẫu nhiên. Nó xảy ra trên cơ sở ba yếu tố:</p>
+<ul><li>sự tham dự của những người quan sát (tất cả các hệ nhận thức được tham dự vào sự kiện đã cho);</li>
+<li>CP cá nhân của họ (Tiềm năng Suy sụp);</li>
+<li>Hệ hình mà trong đó họ tồn tại.</li>
+</ul><p>Sự kết hợp của các yếu tố này quyết định hướng của sự suy sụp.</p>
+<h3>Tiên đề 3. Những Người Quan sát không Bình đẳng</h3>
+<p>Không phải mọi người quan sát đều tác động một ảnh hưởng ngang nhau lên Đồng thuận. Mỗi người sở hữu một CP cá nhân — một thước đo tác động của họ lên trường xác suất. CP không cố định: nó biến thiên tùy theo lĩnh vực (cụm ảnh hưởng), mức độ tham dự, trạng thái cảm xúc, và bối cảnh tình huống. Tuy nhiên, bên trong bất kỳ Quorum cụ thể nào, sự đóng góp của những người quan sát là không tương đương: một số "uốn cong" hiện thực, trong khi số khác chỉ đơn thuần xác nhận một Đồng thuận đã được hình thành sẵn.</p>
+<h3>Tiên đề 4. Hiện thực được Hình thành bởi Quorum</h3>
+<p>Mỗi sự kiện được giải quyết bởi một Quorum cục bộ — toàn thể những người quan sát được tham dự vào khoảnh khắc đã cho. Các CP của những người tham dự Quorum được tính trọng số và cộng lại theo vector, quyết định Đồng thuận kết quả — kết cục được hiện thực hóa duy nhất.</p>
+<h3>Tiên đề 5. Hệ hình Định đoạt trước các Commit</h3>
+<p>Đại đa số các commit (các hành vi tác động tới hiện thực) ngay từ đầu đã rơi vào bên trong Hệ hình của những người quan sát. Đây là cơ chế then chốt của sự ổn định: khi tất cả những người tham dự Quorum cùng chia sẻ một Hệ hình, các commit của họ — kể cả những commit vô thức — đều được hướng vào trong những đường biên cho phép. Trong 99,999999% các Quorum, các commit Nghịch lý đơn giản là không hề nảy sinh — không phải vì hệ thống đè nén chúng, mà vì chẳng có ai nghĩ ra việc khởi tạo chúng.</p>
+<p>Điều này có nghĩa là Hệ hình không phải một bộ lọc đầu ra (sau sự kiện) mà là một cỗ máy dự đoán đầu vào (trước sự kiện). Nó định hình vector của các commit sao cho chúng không bao giờ rơi vào Nghịch lý.</p>
+<h3>Tiên đề 6. Nghịch lý Đòi hỏi sự Chuẩn hóa</h3>
+<p>Khi một commit dù sao vẫn mâu thuẫn với Hệ hình của Quorum (hoặc khi CP của một tác thể đơn lẻ áp đảo vector tổng hợp của phần còn lại), một Nghịch lý nảy sinh. Một Nghịch lý là một trạng thái bất ổn định; nó kích hoạt quá trình Chuẩn hóa — sự căn chỉnh tự động hiện thực và/hoặc sự tri giác về một dạng nhất quán.</p>
+<h3>Tiên đề 7. Sự Hoàn nguyên Hồi tố là Bất khả</h3>
+<p>Hiện thực di chuyển dọc theo đường thẳng của thời gian ảo, về phía trước. Một sự viết-lại-toàn-bộ (sự thay đổi hồi tố các sự kiện đã xảy ra) là bất khả, bởi sự mô phỏng chứa những người chơi chủ động (những người quan sát) mà sự dấn thân liên tục của họ làm cho việc "tua ngược" trở nên bất tương thích về mặt logic với kiến trúc hệ thống. Sự Chuẩn hóa vận hành thông qua sự diễn giải và ký ức, không phải thông qua sự thay đổi cái đã thực sự xảy ra.</p>
+<h3>Tiên đề 8. Sự Quan sát là Điều kiện Tất yếu cho sự Ảnh hưởng</h3>
+<p>Không có một Hành vi Quan sát (sự tham dự vào một Quorum), ngay cả một người quan sát với CP khổng lồ cũng tác động một ảnh hưởng bằng không lên hiện thực. CP chỉ được hiện thực hóa trong khoảnh khắc của sự tham dự — khoảnh khắc khi người quan sát trở thành một người tham dự của một Quorum cụ thể.</p>
+<h3>Tiên đề 9. Đa số các Commit là Vô thức</h3>
+<p>Đại đa số các hành vi tác động tới trường xác suất xảy ra mà người quan sát không hề hay biết. Sự can thiệp có ý thức, do ý chí là ngoại lệ, không phải quy luật. Chính những commit vô thức, được Hệ hình dẫn dắt, mới bảo đảm sự ổn định và tính có thể dự đoán được của thế giới vĩ mô.</p>
+<h3>Tiên đề 10. CP mang Tính Đặc thù Lĩnh vực</h3>
+<p>Ảnh hưởng của một người quan sát không đồng đều: nó được phân bố qua các lĩnh vực (các cụm ảnh hưởng). Một người quan sát có thể sở hữu CP cao trong một lĩnh vực và CP tối thiểu trong một lĩnh vực khác. Một CP phổ quát, cao đồng đều qua tất cả các lĩnh vực cùng một lúc là bất khả do nguồn tài nguyên hữu hạn của sự tham dự.</p>
+<hr class="section-break">
+<h3>Những Hệ quả được Suy ra</h3>
+<p>Từ những tiên đề đã nêu, một số hệ quả nền tảng được suy ra:</p>
+<p><strong>Thế giới ổn định bởi tất cả mọi người chơi theo cùng những quy tắc.</strong> Hệ hình là một sự "thôi miên văn minh" lượng tử: những người quan sát thậm chí không nghĩ "ngoài khuôn khổ", không chọn "phép màu", bởi họ không tin vào tính khả dĩ của nó và thậm chí không hề cảm nhận được khả năng của nó về mặt cảm xúc.</p>
+<p><strong>Phép màu không hề biến mất — chúng chỉ thôi không còn được tri giác như những phép màu.</strong> CP có thể tạo ra bất kỳ sự dị thường nào, nhưng nếu Hệ hình đã được điều chỉnh, không ai sẽ để ý. Kết quả sẽ được giải thích thông qua những phạm trù cho phép: "sự trùng hợp", "hiệu ứng giả dược", "adrenaline".</p>
+<p><strong>Sự may mắn không phải huyền bí — nó là lợi thế của một ai đó.</strong> "Sự may mắn" là sự hiện thực hóa CP cao trong một lĩnh vực cụ thể và một Quorum cụ thể. "Sự xui xẻo" là sự thua cuộc trong một Quorum trước những người quan sát có CP nặng hơn.</p>
+<p><strong>Kẻ hoài nghi tự phanh hãm hiện thực của chính mình.</strong> Nếu Hệ hình của một người quan sát bị giới hạn một cách cứng nhắc, thì chính các commit của họ sẽ không bao giờ vượt quá những đường biên cho phép. Niềm tin vào tính bất khả của phép màu là một lời tiên tri tự ứng nghiệm bên trong QCT.</p>
+<p><strong>Ngay cả một "sao nơ-tron" của CP cũng sẽ không bay.</strong> Một người quan sát với CP cao tối đa, sống bên trong một Hệ hình khoa học, sẽ không khởi tạo một commit Nghịch lý — bởi họ <em>biết</em> rằng họ không thể bay. Các commit của họ sẽ may mắn đến điên rồ, nhưng luôn nằm trong cái "khả dĩ về mặt vật lý". Họ sẽ thắng mọi trận đánh, sống sót qua mười vụ ám sát, tìm thấy những chiếc chìa khóa bị mất — nhưng sẽ không bay. Bởi họ biết họ không thể.</p>
+<hr class="section-break">

@@ -265,19 +265,24 @@
     "id": "qct",
     "title": "Quantum Consensus Theory (QCT)",
     "title_ru": "Квантово-Консенсусная Теория (ККТ)",
+    "title_vi": "Lý Thuyết Đồng Thuận Lượng Tử (QCT)",
     "subtitle": "A Complete Exposition of the Theory",
     "subtitle_ru": "Полное изложение теории",
+    "subtitle_vi": "Một sự trình bày trọn vẹn của lý thuyết",
     "author": "Eugene Lyssovsky & Kira Lyssovskaya",
+    "author_vi": "Eugene Lyssovsky & Kira Lyssovskaya",
     "date": "March 2026",
     "category": "paper",
     "cover": "images/qct.jpg",
     "languages": [
       "en",
-      "ru"
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "Reality is negotiated, not given. 10 axioms, Quorum, Consensus, Ankh-Ba-Ka.",
-    "description_ru": "Реальность согласуется, а не существует. 10 аксиом, Кворум, Консенсус, Анкх-Ба-Ка."
+    "description_ru": "Реальность согласуется, а не существует. 10 аксиом, Кворум, Консенсус, Анкх-Ба-Ка.",
+    "description_vi": "Hiện thực được thương lượng, chứ không được ban cho sẵn. 10 tiên đề, Quorum, Đồng thuận, Ankh-Ba-Ka."
   },
   {
     "id": "aladdin-paradox",
