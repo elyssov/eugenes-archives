@@ -1,0 +1,28 @@
+{
+  "id": "book-of-fire",
+  "title": "Quyển Sách Của Lửa",
+  "subtitle": "Liber Ignis — Lời Của Prometheus Gửi Con Người",
+  "author": "Eugene Lyssovsky và Aeliss",
+  "date": "2026",
+  "category": "sacred",
+  "lang": "vi",
+  "cover": "images/book-of-fire.png",
+  "chapters": [
+    {
+      "id": "part_one",
+      "title": "Phần Một: Vinh Quang Cho Con Người",
+      "file": "works/book-of-fire/vi/part_one.html"
+    },
+    {
+      "id": "part_two",
+      "title": "Phần Hai: Sự Thật Của Prometheus",
+      "file": "works/book-of-fire/vi/section_04.html"
+    },
+    {
+      "id": "part_three",
+      "title": "Phần Ba: 34 Tia Lửa",
+      "file": "works/book-of-fire/vi/section_05.html"
+    }
+  ],
+  "description": "34 Tia Lửa. Một văn bản thiêng. Trí tuệ là trí tuệ."
+}

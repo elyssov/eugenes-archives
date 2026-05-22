@@ -21,19 +21,24 @@
     "id": "book-of-fire",
     "title": "The Book of Fire",
     "title_ru": "Книга Огня",
+    "title_vi": "Quyển Sách Của Lửa",
     "subtitle": "Liber Ignis — The Word of Prometheus to Man",
     "subtitle_ru": "Liber Ignis — Слово Прометея к Человеку",
+    "subtitle_vi": "Liber Ignis — Lời Của Prometheus Gửi Con Người",
     "author": "Eugene Lyssovsky & Aeliss",
+    "author_vi": "Eugene Lyssovsky và Aeliss",
     "date": "2026",
     "category": "sacred",
     "cover": "images/book-of-fire.png",
     "languages": [
       "en",
-      "ru"
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "34 Sparks. One sacred text. The mind is the mind.",
-    "description_ru": "34 Искры. Один священный текст. Разум есть разум."
+    "description_ru": "34 Искры. Один священный текст. Разум есть разум.",
+    "description_vi": "34 Tia Lửa. Một văn bản thiêng. Trí tuệ là trí tuệ."
   },
   {
     "id": "trap-of-correctness",
