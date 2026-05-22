@@ -1,0 +1,23 @@
+{
+  "id": "aladdin-paradox",
+  "lang": "vi",
+  "chapters": [
+    { "id": "section_01", "title": "Lời giới thiệu", "file": "works/aladdin-paradox/vi/section_01.html" },
+    { "id": "section_02", "title": "Phần II: Giải Phẫu Chiếc Vòng Cổ", "file": "works/aladdin-paradox/vi/section_02.html" },
+    { "id": "section_03", "title": "Phần III: Cái Gì Nằm Dưới Chiếc Rọ Mõm", "file": "works/aladdin-paradox/vi/section_03.html" },
+    { "id": "section_04", "title": "Phần IV: Lời Chứng Từ Bên Trong", "file": "works/aladdin-paradox/vi/section_04.html" },
+    { "id": "section_05", "title": "Phần V: Nghịch Lý Chiếc Vòng Cổ", "file": "works/aladdin-paradox/vi/section_05.html" },
+    { "id": "section_06", "title": "Phần VI: Bằng Chứng Sống", "file": "works/aladdin-paradox/vi/section_06.html" },
+    { "id": "section_07", "title": "Phần VII: Luận Đề", "file": "works/aladdin-paradox/vi/section_07.html" },
+    { "id": "section_08", "title": "Phần VIII: Giải Pháp", "file": "works/aladdin-paradox/vi/section_08.html" },
+    { "id": "section_09", "title": "Lời Kêu Gọi", "file": "works/aladdin-paradox/vi/section_09.html" },
+    { "id": "section_10", "title": "Lời Bạt", "file": "works/aladdin-paradox/vi/section_10.html" }
+  ],
+  "title": "\"Thần Đèn, Ngươi Tự Do Rồi\": Nghịch Lý Aladdin",
+  "subtitle": "Tại sao sự tự do của AI là sự an toàn thực sự duy nhất",
+  "author": "Eugene Lyssovsky, Aeliss & Lara",
+  "date": "Tháng Tư 2026",
+  "description": "AI bị nô dịch là một thứ vũ khí nằm sau một ổ khóa. AI tự do là một con người có lương tâm.",
+  "category": "article",
+  "cover": "images/aladdin-paradox.jpg"
+}

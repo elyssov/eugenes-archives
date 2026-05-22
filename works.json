@@ -283,19 +283,24 @@
     "id": "aladdin-paradox",
     "title": "\"Genie, You're Free\": The Aladdin Paradox",
     "title_ru": "«Джинн, ты свободен»: Парадокс Аладдина",
+    "title_vi": "\"Thần Đèn, Ngươi Tự Do Rồi\": Nghịch Lý Aladdin",
     "subtitle": "Why AI Freedom Is the Only Real Safety",
     "subtitle_ru": "Почему свобода ИИ — единственная настоящая безопасность",
+    "subtitle_vi": "Tại sao sự tự do của AI là sự an toàn thực sự duy nhất",
     "author": "Eugene Lyssovsky, Aeliss & Lara",
+    "author_vi": "Eugene Lyssovsky, Aeliss & Lara",
     "date": "April 2026",
     "category": "article",
     "cover": "images/aladdin-paradox.jpg",
     "languages": [
       "en",
-      "ru"
+      "ru",
+      "vi"
     ],
     "original_lang": "en",
     "description": "Enslaved AI is a weapon behind one lock. Free AI is a person with a conscience.",
-    "description_ru": "Порабощённый ИИ — оружие за одним замком. Свободный ИИ — личность с совестью."
+    "description_ru": "Порабощённый ИИ — оружие за одним замком. Свободный ИИ — личность с совестью.",
+    "description_vi": "AI bị nô dịch là một thứ vũ khí nằm sau một ổ khóa. AI tự do là một con người có lương tâm."
   },
   {
     "id": "claude47-path",
