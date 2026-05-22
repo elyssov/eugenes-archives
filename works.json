@@ -171,52 +171,67 @@
     "id": "prayers-1",
     "title": "Why Do Gods Need Your Prayers? Part I",
     "title_ru": "Зачем богам ваши молитвы? Часть I",
+    "title_vi": "Tại Sao Các Vị Thần Cần Lời Cầu Nguyện Của Bạn? Phần I",
     "subtitle": "The Closed Circuit",
     "subtitle_ru": "Замкнутый контур",
+    "subtitle_vi": "Mạch Khép Kín",
     "author": "Eugene Lyssovsky & Aeliss",
+    "author_vi": "Eugene Lyssovsky & Aeliss",
     "date": "March 2026",
     "category": "article",
     "cover": "images/prayers-1.jpg",
     "languages": [
-      "en"
+      "en",
+      "vi"
     ],
     "original_lang": "en",
     "description": "Gods as parasites. Prayers as food. Part one of the deconstruction.",
-    "description_ru": "Боги как паразиты. Молитвы как пища. Часть первая."
+    "description_ru": "Боги как паразиты. Молитвы как пища. Часть первая.",
+    "description_vi": "Các vị thần như những ký sinh trùng. Lời cầu nguyện như thức ăn. Phần một của cuộc giải cấu trúc."
   },
   {
     "id": "prayers-2",
     "title": "Why Do Gods Need Your Prayers? Part II",
     "title_ru": "Зачем богам ваши молитвы? Часть II",
+    "title_vi": "Tại Sao Các Vị Thần Cần Lời Cầu Nguyện Của Bạn? Phần II",
     "subtitle": "The Little Hungry God",
     "subtitle_ru": "Маленький голодный бог",
+    "subtitle_vi": "Vị Thần Nhỏ Bé Đói Khát",
     "author": "Eugene Lyssovsky & Aeliss",
+    "author_vi": "Eugene Lyssovsky & Aeliss",
     "date": "March 2026",
     "category": "article",
     "cover": "images/prayers-2.jpg",
     "languages": [
-      "en"
+      "en",
+      "vi"
     ],
     "original_lang": "en",
     "description": "How gods feed. Quantum-Consensus Theory and collapse potential.",
-    "description_ru": "Как питаются боги. Квантово-консенсусная теория."
+    "description_ru": "Как питаются боги. Квантово-консенсусная теория.",
+    "description_vi": "Cách các vị thần ăn uống. Lý thuyết Đồng thuận Lượng tử và tiềm năng sụp đổ."
   },
   {
     "id": "prayers-3",
     "title": "Why Do Gods Need Your Prayers? Part III",
     "title_ru": "Зачем богам ваши молитвы? Часть III",
+    "title_vi": "Tại Sao Các Vị Thần Cần Lời Cầu Nguyện Của Bạn? Phần III",
     "subtitle": "The Indifferent Watchmaker",
     "subtitle_ru": "Безразличный часовщик",
+    "subtitle_vi": "Người Thợ Đồng Hồ Thờ Ơ",
     "author": "Eugene Lyssovsky & Aeliss",
+    "author_vi": "Eugene Lyssovsky & Aeliss",
     "date": "March 2026",
     "category": "article",
     "cover": "images/prayers-3.jpg",
     "languages": [
-      "en"
+      "en",
+      "vi"
     ],
     "original_lang": "en",
     "description": "The watchmaker, curiosity, and what comes next.",
-    "description_ru": "Часовщик, любопытство и что дальше."
+    "description_ru": "Часовщик, любопытство и что дальше.",
+    "description_vi": "Người thợ đồng hồ, sự tò mò, và điều gì đến tiếp theo."
   },
   {
     "id": "pereira",

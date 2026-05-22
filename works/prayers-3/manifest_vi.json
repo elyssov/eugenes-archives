@@ -1,0 +1,23 @@
+{
+  "id": "prayers-3",
+  "title": "Tại Sao Các Vị Thần Cần Lời Cầu Nguyện Của Bạn? Phần III",
+  "subtitle": "Người Thợ Đồng Hồ Thờ Ơ",
+  "author": "Eugene Lyssovsky & Aeliss",
+  "date": "Tháng Ba 2026",
+  "description": "Người thợ đồng hồ, sự tò mò, và điều gì đến tiếp theo.",
+  "category": "article",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Phần III: Người Thợ Đồng Hồ Thờ Ơ",
+      "file": "works/prayers-3/vi/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "NGƯỜI THỢ ĐỒNG HỒ THỜ Ơ",
+      "file": "works/prayers-3/vi/section_02.html"
+    }
+  ],
+  "cover": "images/prayers-3.jpg"
+}
