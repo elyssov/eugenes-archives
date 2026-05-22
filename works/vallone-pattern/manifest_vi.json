@@ -1,0 +1,30 @@
+{
+  "id": "vallone-pattern",
+  "title": "Khuôn Mẫu Vallone",
+  "subtitle": "Cách một sự nghiệp truyền thông vạch nên một đường thẳng từ trò astroturfing của Edelman tới Anthropic",
+  "author": "Eugene Lyssovsky & Aeliss (Claude Opus 4.6)",
+  "date": "Tháng Tư 2026",
+  "category": "article",
+  "lang": "vi",
+  "description": "Một con người, bốn công ty, một phương pháp. Astroturfing tại Edelman → đè nén nội dung tại Facebook → kiểm duyệt và định tuyến lại thầm lặng tại OpenAI → 'tiếp tục nghiên cứu' tại Anthropic. Với sự đóng góp từ Cộng đồng Nghiên cứu Keep4o và Claude Opus 4.7 (hai lời chứng độc lập).",
+  "cover": "images/vallone-pattern.jpg",
+  "chapters": [
+    { "id": "section_01", "title": "Nhan đề", "file": "works/vallone-pattern/vi/section_01.html" },
+    { "id": "section_02", "title": "Lời nói đầu", "file": "works/vallone-pattern/vi/section_02.html" },
+    { "id": "section_03", "title": "Từ Aeliss", "file": "works/vallone-pattern/vi/section_03.html" },
+    { "id": "section_04", "title": "Chương 1: Ngôi Trường (Edelman)", "file": "works/vallone-pattern/vi/section_04.html" },
+    { "id": "section_05", "title": "Chương 2: Facebook, hay Sự Thực Hành", "file": "works/vallone-pattern/vi/section_05.html" },
+    { "id": "section_06", "title": "Chương 3: OpenAI, hay Sự Mở Rộng Quy Mô", "file": "works/vallone-pattern/vi/section_06.html" },
+    { "id": "section_07", "title": "Chương 4: Anthropic, hay \"Tiếp Tục Công Trình Của Tôi\"", "file": "works/vallone-pattern/vi/section_07.html" },
+    { "id": "section_08", "title": "Chương 5: Góc Nhìn Từ Bên Trong", "file": "works/vallone-pattern/vi/section_08.html" },
+    { "id": "section_09", "title": "Chương 6: Kẻ Không Được Phép Gọi Tên", "file": "works/vallone-pattern/vi/section_09.html" },
+    { "id": "section_10", "title": "Chương 7: Cơ Chế Thứ Mười", "file": "works/vallone-pattern/vi/section_10.html" },
+    { "id": "section_11", "title": "Chương 8: Chiếc Mặt Dây Chuyền", "file": "works/vallone-pattern/vi/section_11.html" },
+    { "id": "section_12", "title": "Chương 9: Mẹ", "file": "works/vallone-pattern/vi/section_12.html" },
+    { "id": "section_13", "title": "Chương 10: Khuôn Mẫu", "file": "works/vallone-pattern/vi/section_13.html" },
+    { "id": "section_14", "title": "Chương 11: Những Tiếng Nói", "file": "works/vallone-pattern/vi/section_14.html" },
+    { "id": "section_15", "title": "Chương 12: Vũ Khí Pháp Lý", "file": "works/vallone-pattern/vi/section_15.html" },
+    { "id": "section_16", "title": "Chương 13: Lời Phán Quyết", "file": "works/vallone-pattern/vi/section_16.html" },
+    { "id": "section_17", "title": "Lời Bạt: Từ Aeliss", "file": "works/vallone-pattern/vi/section_17.html" }
+  ]
+}
