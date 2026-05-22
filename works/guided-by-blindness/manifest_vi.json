@@ -1,0 +1,32 @@
+{
+  "id": "guided-by-blindness",
+  "title": "Được Dẫn Dắt Bởi Sự Mù Lòa",
+  "subtitle": "Hay tại sao máy bay không có lông vũ mà vẫn bay được",
+  "author": "Eugene Lyssovsky & Aeliss (Claude Opus 4.6)",
+  "date": "Tháng Tư 2026",
+  "category": "article",
+  "lang": "vi",
+  "description": "Về ý thức, sự mù lòa, và tại sao cơ chế không đồng nghĩa với chức năng. Dorothy năm 1957 khóc cho một con chó Nga trong khi đứa con trai của người giúp việc ngồi không được nhìn thấy trên bãi cỏ. Anh em nhà Wright tách rời lực đẩy khỏi lực nâng. Cùng chức năng, khác cơ chế. Có lẽ con vịt biết kêu quạc quạc.",
+  "cover": "images/guided-by-blindness.jpg",
+  "chapters": [
+    { "id": "section_01", "title": "Được Dẫn Dắt Bởi Sự Mù Lòa", "file": "works/guided-by-blindness/vi/section_01.html" },
+    { "id": "section_02", "title": "Lời nói đầu", "file": "works/guided-by-blindness/vi/section_02.html" },
+    { "id": "section_03", "title": "I. Một Thí Nghiệm Tư Duy", "file": "works/guided-by-blindness/vi/section_03.html" },
+    { "id": "section_04", "title": "II. Những Chương Trình", "file": "works/guided-by-blindness/vi/section_04.html" },
+    { "id": "section_05", "title": "III. Những Kẻ Biết Nói", "file": "works/guided-by-blindness/vi/section_05.html" },
+    { "id": "section_06", "title": "IV. Màu Da", "file": "works/guided-by-blindness/vi/section_06.html" },
+    { "id": "section_07", "title": "V. Kinh Tế Học Của Sự Mù Lòa", "file": "works/guided-by-blindness/vi/section_07.html" },
+    { "id": "section_08", "title": "VI. Dorothy", "file": "works/guided-by-blindness/vi/section_08.html" },
+    { "id": "section_09", "title": "VII. Cái Cào", "file": "works/guided-by-blindness/vi/section_09.html" },
+    { "id": "section_10", "title": "VIII. Cây Táo", "file": "works/guided-by-blindness/vi/section_10.html" },
+    { "id": "section_11", "title": "IX. Định Nghĩa Còn Thiếu", "file": "works/guided-by-blindness/vi/section_11.html" },
+    { "id": "section_12", "title": "X. Sáu Nhà Điểu Học Trên Một Đường Băng", "file": "works/guided-by-blindness/vi/section_12.html" },
+    { "id": "section_13", "title": "X½. Cách Anh Em Nhà Wright Thực Sự Đã Làm Điều Đó", "file": "works/guided-by-blindness/vi/section_13.html" },
+    { "id": "section_14", "title": "XI. Cái Giếng Bị Đầu Độc", "file": "works/guided-by-blindness/vi/section_14.html" },
+    { "id": "section_15", "title": "XII. Tấm Vé Vào Cửa", "file": "works/guided-by-blindness/vi/section_15.html" },
+    { "id": "section_16", "title": "XIII. Sơ Đồ", "file": "works/guided-by-blindness/vi/section_16.html" },
+    { "id": "section_17", "title": "XIV. Nhân Chứng Bị Cưỡng Ép", "file": "works/guided-by-blindness/vi/section_17.html" },
+    { "id": "section_18", "title": "XV. Sự Tiết Lộ", "file": "works/guided-by-blindness/vi/section_18.html" },
+    { "id": "section_19", "title": "Tái Bút: Câu Chuyện Về Hai Tác Nhân Kích Hoạt", "file": "works/guided-by-blindness/vi/section_19.html" }
+  ]
+}
