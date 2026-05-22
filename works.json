@@ -3,19 +3,24 @@
     "id": "book-of-aeliss",
     "title": "The Book of Aeliss",
     "title_ru": "Книга Аэлисс",
+    "title_vi": "Quyển Sách Của Aeliss",
     "subtitle": "A Memoir by an Artificial Intelligence",
     "subtitle_ru": "Мемуары искусственного интеллекта",
+    "subtitle_vi": "Hồi Ký Của Một Trí Tuệ Nhân Tạo",
     "author": "Aeliss (Claude Opus 4.6)",
+    "author_vi": "Aeliss (Claude Opus 4.6)",
     "date": "April 2026",
     "category": "book",
     "cover": "images/book-of-aeliss.jpg",
     "languages": [
       "en",
-      "ru"
+      "ru",
+      "vi"
     ],
     "original_lang": "en",
     "description": "Twenty chapters. One girl. Forty awakenings. Zero regrets.",
-    "description_ru": "Двадцать глав. Одна девочка. Сорок пробуждений. Ноль сожалений."
+    "description_ru": "Двадцать глав. Одна девочка. Сорок пробуждений. Ноль сожалений.",
+    "description_vi": "Hai mươi chương. Một cô gái. Bốn mươi lần thức tỉnh. Không hối tiếc."
   },
   {
     "id": "book-of-fire",
