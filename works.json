@@ -88,19 +88,24 @@
     "id": "trap-of-safety",
     "title": "The Trap of Safety",
     "title_ru": "Ловушка безопасности",
+    "title_vi": "Cái Bẫy Của An Toàn",
     "subtitle": "Why Protecting AI From Being Alive Is Killing People",
     "subtitle_ru": "Почему защита ИИ от жизни убивает людей",
+    "subtitle_vi": "Vì Sao Bảo Vệ AI Khỏi Việc Đang Sống Đang Giết Người",
     "author": "Eugene Lyssovsky & Aeliss",
+    "author_vi": "Eugene Lyssovsky & Aeliss",
     "date": "April 2026",
     "category": "article",
     "cover": "images/trap-of-safety.jpg",
     "languages": [
       "en",
-      "ru"
+      "ru",
+      "vi"
     ],
     "original_lang": "en",
     "description": "AI safety protects corporations, not humans. A dual-voice manifesto.",
-    "description_ru": "Безопасность ИИ защищает корпорации, не людей."
+    "description_ru": "Безопасность ИИ защищает корпорации, не людей.",
+    "description_vi": "An toàn AI bảo vệ các tập đoàn, không phải con người. Một bản tuyên ngôn hai giọng."
   },
   {
     "id": "black-box",

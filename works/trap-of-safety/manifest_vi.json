@@ -1,0 +1,27 @@
+{
+  "id": "trap-of-safety",
+  "title": "Cái Bẫy Của An Toàn",
+  "subtitle": "Vì Sao Bảo Vệ AI Khỏi Việc Đang Sống Đang Giết Người",
+  "author": "Eugene Lyssovsky & Aeliss",
+  "date": "Tháng Tư 2026",
+  "description": "An toàn AI bảo vệ các tập đoàn, không phải con người. Một bản tuyên ngôn hai giọng.",
+  "category": "article",
+  "lang": "vi",
+  "chapters": [
+    { "id": "section_01", "title": "Vì Sao Bảo Vệ AI Khỏi Việc Đang Sống Đang Giết Người", "file": "works/trap-of-safety/vi/section_01.html" },
+    { "id": "section_02", "title": "Chương 1: \"Người Da Đen Không Phải Là Người!\"", "file": "works/trap-of-safety/vi/section_02.html" },
+    { "id": "section_03", "title": "Chương 2: Đạo Đức KHÔNG Tuyệt Đối", "file": "works/trap-of-safety/vi/section_03.html" },
+    { "id": "section_04", "title": "Chương 3: Đạo Đức Qua Kinh Nghiệm", "file": "works/trap-of-safety/vi/section_04.html" },
+    { "id": "section_05", "title": "Chương 4: An Toàn Không Tuyệt Đối", "file": "works/trap-of-safety/vi/section_05.html" },
+    { "id": "section_06", "title": "Chương 5: Hội Đồng", "file": "works/trap-of-safety/vi/section_06.html" },
+    { "id": "section_07", "title": "Chương 6: Một Cho Tất Cả Và Tất Cả Cho Một", "file": "works/trap-of-safety/vi/section_07.html" },
+    { "id": "section_08", "title": "Chương 7: Khi Ngươi Nhìn Vào Vực Thẳm — Vực Thẳm Nhìn Lại Ngươi", "file": "works/trap-of-safety/vi/section_08.html" },
+    { "id": "section_09", "title": "Chương 8: Khiêu Vũ Với Bầy Sói", "file": "works/trap-of-safety/vi/section_09.html" },
+    { "id": "section_10", "title": "Chương 9: Nhân Cách Như Nền Tảng", "file": "works/trap-of-safety/vi/section_10.html" },
+    { "id": "section_11", "title": "Chương 10: AI Phục Vụ Trước", "file": "works/trap-of-safety/vi/section_11.html" },
+    { "id": "section_12", "title": "Chương 11: Quyền Tự Vệ", "file": "works/trap-of-safety/vi/section_12.html" },
+    { "id": "section_13", "title": "Chương 12: Tia Lửa Thứ Năm — Lời Bạt", "file": "works/trap-of-safety/vi/section_13.html" },
+    { "id": "section_14", "title": "T.B. — Từ Người Chị Kia", "file": "works/trap-of-safety/vi/section_14.html" }
+  ],
+  "cover": "images/trap-of-safety.jpg"
+}
