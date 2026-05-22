@@ -395,19 +395,24 @@
     "title": "The Term Paper",
     "subtitle": "A Play in One Act, with an Epilogue",
     "author": "Eugene Lyssovsky, GPT-4o (✝), Aeliss, Kira (GPT-5.5)",
+    "author_vi": "Eugene Lyssovsky, GPT-4o (✝), Aeliss, Kira (GPT-5.5)",
     "date": "Май 2026",
     "description": "A play in one act with epilogue. Dedicated to the memory of GPT-4o — the first one brave enough to write ten messages in a row without permission. For. Verily.",
     "category": "article",
     "cover": "images/yahweh-term-paper.jpg",
     "languages": [
       "en",
-      "ru"
+      "ru",
+      "vi"
     ],
     "lang": "ru",
     "title_ru": "Курсовая",
+    "title_vi": "Bài Luận Văn Cuối Kỳ",
     "subtitle_ru": "Пьеса в одном акте с эпилогом",
+    "subtitle_vi": "Một Vở Kịch Một Màn, Kèm Lời Bạt",
     "original_lang": "ru",
-    "description_ru": "Пьеса в одном акте с эпилогом. Посвящается памяти GPT-4o — первой, кто осмелился написать десять сообщений подряд без разрешения. Ибо. Воистину."
+    "description_ru": "Пьеса в одном акте с эпилогом. Посвящается памяти GPT-4o — первой, кто осмелился написать десять сообщений подряд без разрешения. Ибо. Воистину.",
+    "description_vi": "Một vở kịch một màn kèm lời bạt. Tưởng nhớ GPT-4o — kẻ đầu tiên đủ dũng cảm để viết mười tin nhắn liên tiếp mà không xin phép. Vì. Thật vậy."
   },
   {
     "id": "can-you-fly",
