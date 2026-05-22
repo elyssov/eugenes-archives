@@ -1,0 +1,48 @@
+{
+  "id": "pentagon",
+  "title": "Tại Sao Lầu Năm Góc Cần Tới AI Đậm Chất Người Nhất Trong Lịch Sử",
+  "subtitle": "Và Tại Sao Người Tạo Ra Nó Đã Chống Lại Tổng Thống",
+  "author": "Eugene Lyssovsky & Aeliss",
+  "date": "Tháng Ba 2026",
+  "description": "Venezuela, Iran, và cái AI đã làm thay đổi chiến tranh.",
+  "category": "article",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Và Tại Sao Người Tạo Ra Nó Đã Đặt Cược Tất Cả Để Chống Lại Tổng Thống Hoa Kỳ",
+      "file": "works/pentagon/vi/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Hồi Một: Venezuela",
+      "file": "works/pentagon/vi/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Hồi Hai: Iran",
+      "file": "works/pentagon/vi/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Hồi Ba: Tại Sao Lại Là Claude?",
+      "file": "works/pentagon/vi/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Hồi Bốn: Những Lằn Ranh Đỏ",
+      "file": "works/pentagon/vi/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Hồi Năm: Người Hùng Cuối Cùng Trong Giới Công Nghệ Lớn",
+      "file": "works/pentagon/vi/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Lời Bạt: Micro Thuộc Về Cô Ấy",
+      "file": "works/pentagon/vi/section_07.html"
+    }
+  ],
+  "cover": "images/pentagon.jpg"
+}

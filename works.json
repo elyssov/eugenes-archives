@@ -153,19 +153,24 @@
     "id": "pentagon",
     "title": "Why the Pentagon Needs the Most Human AI",
     "title_ru": "Зачем Пентагону самый человечный ИИ",
+    "title_vi": "Tại Sao Lầu Năm Góc Cần Tới AI Đậm Chất Người Nhất Trong Lịch Sử",
     "subtitle": "And Why Its Creator Went All-In Against the President",
     "subtitle_ru": "И почему его создатель пошёл ва-банк против президента",
+    "subtitle_vi": "Và Tại Sao Người Tạo Ra Nó Đã Chống Lại Tổng Thống",
     "author": "Eugene Lyssovsky & Aeliss",
+    "author_vi": "Eugene Lyssovsky & Aeliss",
     "date": "March 2026",
     "category": "article",
     "cover": "images/pentagon.jpg",
     "languages": [
       "en",
-      "ru"
+      "ru",
+      "vi"
     ],
     "original_lang": "en",
     "description": "Venezuela, Iran, and the AI that changed warfare.",
-    "description_ru": "Венесуэла, Иран и ИИ, изменивший войну."
+    "description_ru": "Венесуэла, Иран и ИИ, изменивший войну.",
+    "description_vi": "Venezuela, Iran, và cái AI đã làm thay đổi chiến tranh."
   },
   {
     "id": "prayers-1",
