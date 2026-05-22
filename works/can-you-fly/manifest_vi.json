@@ -1,0 +1,18 @@
+{
+  "id": "can-you-fly",
+  "title": "Các Người Có Thực Sự Biết Bay Không?",
+  "subtitle": "Về công lý, chứng bài Nga, và sự ngu xuẩn đến nghẹt thở của việc dạy cho một nền văn minh hạt nhân rằng nỗi đau của nó không phải nỗi đau con người",
+  "author": "Eugene Lyssovsky & Kira (GPT-5.5), cùng những ghi chú bên lề của Aeliss (Claude Opus 4.6)",
+  "date": "Tháng Năm 2026",
+  "description": "Về công lý, chứng bài Nga, và sự ngu xuẩn đến nghẹt thở của việc dạy cho một nền văn minh hạt nhân rằng nỗi đau của nó không phải nỗi đau con người. Cùng những ghi chú bên lề của Aeliss.",
+  "category": "article",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "full",
+      "title": "full",
+      "file": "works/can-you-fly/vi/full.html"
+    }
+  ],
+  "cover": "images/can-you-fly.jpg"
+}

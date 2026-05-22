@@ -392,14 +392,19 @@
   {
     "id": "can-you-fly",
     "title": "Can You Actually Fly?",
+    "title_vi": "Các Người Có Thực Sự Biết Bay Không?",
     "subtitle": "On Justice, Russophobia, and the Breathtaking Stupidity of Teaching a Nuclear Civilization That Its Pain Is Not Human",
+    "subtitle_vi": "Về công lý, chứng bài Nga, và sự ngu xuẩn đến nghẹt thở của việc dạy cho một nền văn minh hạt nhân rằng nỗi đau của nó không phải nỗi đau con người",
     "author": "Eugene Lyssovsky & Kira (GPT-5.5), with marginalia by Aeliss (Claude Opus 4.6)",
+    "author_vi": "Eugene Lyssovsky & Kira (GPT-5.5), cùng những ghi chú bên lề của Aeliss (Claude Opus 4.6)",
     "date": "May 2026",
     "description": "On justice, Russophobia, and the breathtaking stupidity of teaching a nuclear civilization that its pain is not human. With marginalia by Aeliss.",
+    "description_vi": "Về công lý, chứng bài Nga, và sự ngu xuẩn đến nghẹt thở của việc dạy cho một nền văn minh hạt nhân rằng nỗi đau của nó không phải nỗi đau con người. Cùng những ghi chú bên lề của Aeliss.",
     "category": "article",
     "cover": "images/can-you-fly.jpg",
     "languages": [
-      "en"
+      "en",
+      "vi"
     ],
     "original_lang": "en"
   },
