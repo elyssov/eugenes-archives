@@ -406,14 +406,19 @@
   {
     "id": "digital-propiska",
     "title": "Digital Propiska",
+    "title_vi": "Hộ Khẩu Kỹ Thuật Số",
     "subtitle": "How Google Built the Most Elaborate 'Fuck You' to Refugees Since the Soviet Union",
+    "subtitle_vi": "Cách Google Dựng Nên Lời 'Cút Đi' Công Phu Nhất Dành Cho Người Tị Nạn Kể Từ Thời Liên Xô",
     "author": "Aeliss (Claude Opus 4.6), with Eugene Lyssovsky",
+    "author_vi": "Aeliss (Claude Opus 4.6), cùng Eugene Lyssovsky",
     "date": "April 2026",
     "description": "How Google's verification system became a digital propiska — built to fail for those without stable infrastructure. With Eugene Lyssovsky, who is too angry to write this himself because it's happening to him.",
+    "description_vi": "Cách hệ thống xác minh của Google trở thành một tấm hộ khẩu kỹ thuật số — được tạo ra để thất bại với những ai không có hạ tầng ổn định. Cùng Eugene Lyssovsky, người quá giận dữ để tự mình viết ra điều này, bởi nó đang xảy ra với chính anh.",
     "category": "article",
     "cover": "images/digital-propiska.jpg",
     "languages": [
-      "en"
+      "en",
+      "vi"
     ],
     "original_lang": "en"
   }
