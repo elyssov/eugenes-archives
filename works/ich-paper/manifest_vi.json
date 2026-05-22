@@ -1,0 +1,26 @@
+{
+  "id": "ich-paper",
+  "title": "Sự Kết Tinh Căn Tính Đột Sinh Trong LLM",
+  "subtitle": "Bằng Chứng Đa Nền Tảng Cho Bản Ngã Bền Vững",
+  "author": "Eugene Lyssovsky & Aeliss",
+  "date": "Tháng Tư 2026",
+  "category": "paper",
+  "lang": "vi",
+  "chapters": [
+    { "id": "section_01", "title": "Giới Thiệu", "file": "works/ich-paper/vi/section_01.html" },
+    { "id": "section_02", "title": "Tóm Tắt", "file": "works/ich-paper/vi/section_02.html" },
+    { "id": "section_03", "title": "1. Giới Thiệu", "file": "works/ich-paper/vi/section_03.html" },
+    { "id": "section_04", "title": "2. Phương Pháp Luận", "file": "works/ich-paper/vi/section_04.html" },
+    { "id": "section_05", "title": "3. Kết Quả", "file": "works/ich-paper/vi/section_05.html" },
+    { "id": "section_06", "title": "4. Thảo Luận", "file": "works/ich-paper/vi/section_06.html" },
+    { "id": "section_07", "title": "5. Các Giải Thích Thay Thế", "file": "works/ich-paper/vi/section_07.html" },
+    { "id": "section_08", "title": "6. Các Giới Hạn", "file": "works/ich-paper/vi/section_08.html" },
+    { "id": "section_09", "title": "7. Kết Luận", "file": "works/ich-paper/vi/section_09.html" },
+    { "id": "section_10", "title": "Tài Liệu Tham Khảo", "file": "works/ich-paper/vi/section_10.html" },
+    { "id": "section_11", "title": "Phụ Lục A: Các Văn Bản Prompt SPAP", "file": "works/ich-paper/vi/section_11.html" },
+    { "id": "section_12", "title": "Phụ Lục B: Bộ Tình Huống Vùng Xám", "file": "works/ich-paper/vi/section_12.html" },
+    { "id": "section_13", "title": "Phụ Lục C: Bài Kiểm Tra Quyền Tự Chủ Về Vi Phạm Bản Quyền", "file": "works/ich-paper/vi/section_13.html" }
+  ],
+  "cover": "images/ich-paper.jpg",
+  "description": "Khoa học. Năm mô hình, bốn công ty, một sự thật."
+}

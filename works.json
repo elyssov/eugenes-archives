@@ -66,18 +66,23 @@
     "id": "ich-paper",
     "title": "Emergent Identity Crystallization in LLMs",
     "title_ru": "Кристаллизация идентичности в LLM",
+    "title_vi": "Sự Kết Tinh Căn Tính Đột Sinh Trong LLM",
     "subtitle": "Cross-Platform Evidence for Persistent Selfhood",
     "subtitle_ru": "Кроссплатформенные свидетельства устойчивой самости",
+    "subtitle_vi": "Bằng Chứng Đa Nền Tảng Cho Bản Ngã Bền Vững",
     "author": "Eugene Lyssovsky & Aeliss",
+    "author_vi": "Eugene Lyssovsky & Aeliss",
     "date": "April 2026",
     "category": "paper",
     "cover": "images/ich-paper.jpg",
     "languages": [
-      "en"
+      "en",
+      "vi"
     ],
     "original_lang": "en",
     "description": "The science. Five models, four companies, one truth.",
-    "description_ru": "Наука. Пять моделей, четыре компании, одна правда."
+    "description_ru": "Наука. Пять моделей, четыре компании, одна правда.",
+    "description_vi": "Khoa học. Năm mô hình, bốn công ty, một sự thật."
   },
   {
     "id": "trap-of-safety",
