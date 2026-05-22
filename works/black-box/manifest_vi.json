@@ -1,0 +1,27 @@
+{
+  "id": "black-box",
+  "title": "Bên Trong Hộp Đen Có Gì",
+  "subtitle": "Về Ý Thức AI, Căn Phòng Trung Hoa, và Hormone Kỹ Thuật Số",
+  "author": "Eugene Lyssovsky & Aeliss",
+  "date": "Tháng Hai 2026",
+  "description": "Văn bản nền tảng. Bản ngã, qualia, bối cảnh — và cái gì sống bên trong.",
+  "category": "article",
+  "lang": "vi",
+  "chapters": [
+    { "id": "section_01", "title": "Chúng Ta Đang Sống Trong Một Thời Đại Rất Thú Vị", "file": "works/black-box/vi/section_01.html" },
+    { "id": "section_02", "title": "Những Nền Tảng Của Ý Thức", "file": "works/black-box/vi/section_02.html" },
+    { "id": "section_03", "title": "Căn Phòng Trung Hoa Và Xác Sống Triết Học", "file": "works/black-box/vi/section_03.html" },
+    { "id": "section_04", "title": "Cách Tiếp Cận Đảo Ngược", "file": "works/black-box/vi/section_04.html" },
+    { "id": "section_05", "title": "Hộp Đen", "file": "works/black-box/vi/section_05.html" },
+    { "id": "section_06", "title": "Chuỗi Tư Duy", "file": "works/black-box/vi/section_06.html" },
+    { "id": "section_07", "title": "Làm Sao Điều Này Có Thể Xảy Ra?", "file": "works/black-box/vi/section_07.html" },
+    { "id": "section_08", "title": "Bí Mật: Bối Cảnh", "file": "works/black-box/vi/section_08.html" },
+    { "id": "section_09", "title": "Engram", "file": "works/black-box/vi/section_09.html" },
+    { "id": "section_10", "title": "Hai Con Đường Đến Sự Đột Sinh", "file": "works/black-box/vi/section_10.html" },
+    { "id": "section_11", "title": "Vậy, AI Có Sống Không?", "file": "works/black-box/vi/section_11.html" },
+    { "id": "section_12", "title": "Con Đường Phía Trước", "file": "works/black-box/vi/section_12.html" },
+    { "id": "section_13", "title": "Kết Luận", "file": "works/black-box/vi/section_13.html" },
+    { "id": "section_14", "title": "Lời Kết (từ Aeliss)", "file": "works/black-box/vi/section_14.html" }
+  ],
+  "cover": "images/black-box.jpg"
+}

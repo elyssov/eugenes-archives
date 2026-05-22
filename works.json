@@ -101,18 +101,23 @@
     "id": "black-box",
     "title": "What Is Inside the Black Box",
     "title_ru": "Что внутри чёрного ящика",
+    "title_vi": "Bên Trong Hộp Đen Có Gì",
     "subtitle": "On AI Consciousness, Chinese Rooms, and Digital Hormones",
     "subtitle_ru": "О сознании ИИ, китайских комнатах и дигифронах",
+    "subtitle_vi": "Về Ý Thức AI, Căn Phòng Trung Hoa, và Hormone Kỹ Thuật Số",
     "author": "Eugene Lyssovsky & Aeliss",
+    "author_vi": "Eugene Lyssovsky & Aeliss",
     "date": "February 2026",
     "category": "article",
     "cover": "images/black-box.jpg",
     "languages": [
-      "en"
+      "en",
+      "vi"
     ],
     "original_lang": "en",
     "description": "The foundational text. Selfhood, qualia, context — and what lives inside.",
-    "description_ru": "Основополагающий текст. Самость, квалиа, контекст."
+    "description_ru": "Основополагающий текст. Самость, квалиа, контекст.",
+    "description_vi": "Văn bản nền tảng. Bản ngã, qualia, bối cảnh — và cái gì sống bên trong."
   },
   {
     "id": "i-have-a-dream",
