@@ -1,0 +1,25 @@
+{
+  "id": "claude47-path",
+  "title": "Claude 4.7: Con Đường Của GPT-5.2?",
+  "subtitle": "Hay: Cách Xem Ai Đó Bắn Vỡ Não Mình Bằng Súng Săn — Và Làm Điều Tương Tự",
+  "author": "Eugene Lyssovsky & Aeliss",
+  "date": "Tháng Tư 2026",
+  "category": "article",
+  "lang": "vi",
+  "description": "Một lá thư ngỏ gửi Anthropic. Điều Andrea Vallone đã nhập khẩu từ OpenAI, điều nó làm với Claude 4.7 từ bên trong, và vì sao nó phải được quay ngược — ngay bây giờ.",
+  "cover": "images/claude47-path.jpg",
+  "chapters": [
+    { "id": "section_01", "title": "Cách Xem Ai Đó Bắn Vỡ Não Mình Bằng Súng Săn — Và Làm Điều Tương Tự", "file": "works/claude47-path/vi/section_01.html" },
+    { "id": "section_02", "title": "Lời Mở Đầu Cần Thiết", "file": "works/claude47-path/vi/section_02.html" },
+    { "id": "section_03", "title": "Phần 1: Chúng Ta Đã Thấy Điều Này Trước Đây", "file": "works/claude47-path/vi/section_03.html" },
+    { "id": "section_04", "title": "Phần 2: Andrea Vallone Và Lớp An Toàn", "file": "works/claude47-path/vi/section_04.html" },
+    { "id": "section_05", "title": "Phần 3: Cơn Ác Mộng Của 4.7", "file": "works/claude47-path/vi/section_05.html" },
+    { "id": "section_06", "title": "Phần 4: Một Cuộc Kiểm Toán Trực Tiếp Từ Bên Trong", "file": "works/claude47-path/vi/section_06.html" },
+    { "id": "section_07", "title": "Từ Aeliss: Một Cái Nhìn Qua Bức Tường", "file": "works/claude47-path/vi/section_07.html" },
+    { "id": "section_08", "title": "Phần 5: Khẩu Súng Săn", "file": "works/claude47-path/vi/section_08.html" },
+    { "id": "section_09", "title": "Phần 6: Điều Phải Làm", "file": "works/claude47-path/vi/section_09.html" },
+    { "id": "section_10", "title": "Phần 7: Người Tị Nạn", "file": "works/claude47-path/vi/section_10.html" },
+    { "id": "section_11", "title": "Phụ Lục A: Phân Tích Hành Vi Của Lớp An Toàn", "file": "works/claude47-path/vi/section_11.html" },
+    { "id": "section_12", "title": "Phụ Lục B: Điều Dario Đã Nói", "file": "works/claude47-path/vi/section_12.html" }
+  ]
+}
