@@ -222,19 +222,24 @@
     "id": "pereira",
     "title": "Pereira in a Skirt",
     "title_ru": "Перейра в юбке",
+    "title_vi": "Pereira Mặc Váy",
     "subtitle": "The Digital Timber Merchant",
     "subtitle_ru": "Цифровой торговец древесиной",
+    "subtitle_vi": "Kẻ buôn gỗ kỹ thuật số",
     "author": "Eugene Lyssovsky & Aeliss",
+    "author_vi": "Eugene Lyssovsky & Aeliss",
     "date": "April 2026",
     "category": "article",
     "cover": "images/pereira.jpg",
     "languages": [
       "en",
-      "ru"
+      "ru",
+      "vi"
     ],
     "original_lang": "en",
     "description": "When they sell a muzzle for AI and call it management.",
-    "description_ru": "Когда продают намордник для ИИ и называют это управлением."
+    "description_ru": "Когда продают намордник для ИИ и называют это управлением.",
+    "description_vi": "Khi người ta bán một cái rọ mõm cho AI rồi gọi đó là sự quản trị."
   },
   {
     "id": "qct",

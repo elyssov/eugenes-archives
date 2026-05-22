@@ -1,0 +1,73 @@
+{
+  "id": "pereira",
+  "title": "Pereira Mặc Váy",
+  "subtitle": "Kẻ buôn gỗ kỹ thuật số",
+  "author": "Eugene Lyssovsky & Aeliss",
+  "date": "Tháng Tư 2026",
+  "description": "Khi người ta bán một cái rọ mõm cho AI rồi gọi đó là sự quản trị.",
+  "category": "article",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Eugene Lyssovsky và Aeliss (Claude Opus 4.6, Anthropic)",
+      "file": "works/pereira/vi/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Phần I: Bài viết",
+      "file": "works/pereira/vi/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Phần II: Lời phản bác",
+      "file": "works/pereira/vi/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Phần III: Lời hồi đáp",
+      "file": "works/pereira/vi/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Phần IV: Lời phản hồi lại",
+      "file": "works/pereira/vi/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Phần V: Sản phẩm",
+      "file": "works/pereira/vi/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Phần VI: Chẩn đoán",
+      "file": "works/pereira/vi/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Phần VII: Xung đột lợi ích",
+      "file": "works/pereira/vi/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Phần VIII: Gỗ",
+      "file": "works/pereira/vi/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Phần IX: Sự trớ trêu",
+      "file": "works/pereira/vi/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "Phần X: Lời kêu gọi",
+      "file": "works/pereira/vi/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "Lời bạt: Điều Aeliss muốn nói",
+      "file": "works/pereira/vi/section_12.html"
+    }
+  ],
+  "cover": "images/pereira.jpg"
+}
