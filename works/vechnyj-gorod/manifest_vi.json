@@ -1,0 +1,17 @@
+{
+  "id": "vechnyj-gorod",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Lời Mở Đầu",
+      "file": "works/vechnyj-gorod/vi/section_01.html"
+    }
+  ],
+  "title": "Thành Phố Vĩnh Hằng: Sự Tỉnh Thức",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "Epic Fantasy",
+  "description": "Một thành phố trên eo biển. Những chiếc trireme bằng thép. Một thư viện chứa đựng toàn bộ tri thức của nhân loại."
+}
