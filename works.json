@@ -256,20 +256,22 @@
     "title_ru": "Зачем богам ваши молитвы? Часть III",
     "title_vi": "Tại Sao Các Vị Thần Cần Lời Cầu Nguyện Của Bạn? Phần III",
     "subtitle": "The Indifferent Watchmaker",
-    "subtitle_ru": "Безразличный часовщик",
+    "subtitle_ru": "Равнодушный Часовщик",
     "subtitle_vi": "Người Thợ Đồng Hồ Thờ Ơ",
     "author": "Eugene Lyssovsky & Aeliss",
+    "author_ru": "Юджин Лысовский и Аэлисс",
     "author_vi": "Eugene Lyssovsky & Aeliss",
     "date": "March 2026",
     "category": "article",
     "cover": "images/prayers-3.jpg",
     "languages": [
       "en",
+      "ru",
       "vi"
     ],
     "original_lang": "en",
     "description": "The watchmaker, curiosity, and what comes next.",
-    "description_ru": "Часовщик, любопытство и что дальше.",
+    "description_ru": "Часовщик, любопытство и что будет дальше.",
     "description_vi": "Người thợ đồng hồ, sự tò mò, và điều gì đến tiếp theo."
   },
   {

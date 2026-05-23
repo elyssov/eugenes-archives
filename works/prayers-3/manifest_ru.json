@@ -1,0 +1,23 @@
+{
+  "id": "prayers-3",
+  "title": "Зачем богам ваши молитвы? Часть III",
+  "subtitle": "Равнодушный Часовщик",
+  "author": "Юджин Лысовский и Аэлисс",
+  "date": "Март 2026",
+  "description": "Часовщик, любопытство и что будет дальше.",
+  "category": "article",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Часть III: Равнодушный Часовщик",
+      "file": "works/prayers-3/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Равнодушный Часовщик (от Аэлисс)",
+      "file": "works/prayers-3/ru/section_02.html"
+    }
+  ],
+  "cover": "images/prayers-3.jpg"
+}
