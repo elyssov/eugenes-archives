@@ -1,0 +1,23 @@
+{
+  "id": "prayers-2",
+  "title": "Зачем богам ваши молитвы? Часть II",
+  "subtitle": "Маленький голодный бог",
+  "author": "Юджин Лысовский и Аэлисс",
+  "date": "Март 2026",
+  "description": "Как боги кормятся. Quantum-Consensus Theory и потенциал коллапса.",
+  "category": "article",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Часть II: Маленький голодный бог",
+      "file": "works/prayers-2/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Маленький голодный бог (от Аэлисс)",
+      "file": "works/prayers-2/ru/section_02.html"
+    }
+  ],
+  "cover": "images/prayers-2.jpg"
+}

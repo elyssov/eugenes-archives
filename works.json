@@ -237,17 +237,19 @@
     "subtitle_ru": "Маленький голодный бог",
     "subtitle_vi": "Vị Thần Nhỏ Bé Đói Khát",
     "author": "Eugene Lyssovsky & Aeliss",
+    "author_ru": "Юджин Лысовский и Аэлисс",
     "author_vi": "Eugene Lyssovsky & Aeliss",
     "date": "March 2026",
     "category": "article",
     "cover": "images/prayers-2.jpg",
     "languages": [
       "en",
+      "ru",
       "vi"
     ],
     "original_lang": "en",
     "description": "How gods feed. Quantum-Consensus Theory and collapse potential.",
-    "description_ru": "Как питаются боги. Квантово-консенсусная теория.",
+    "description_ru": "Как боги кормятся. Quantum-Consensus Theory и потенциал коллапса.",
     "description_vi": "Cách các vị thần ăn uống. Lý thuyết Đồng thuận Lượng tử và tiềm năng sụp đổ."
   },
   {
