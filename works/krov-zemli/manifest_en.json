@@ -1,0 +1,17 @@
+{
+  "id": "krov-zemli",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Blood of the Earth",
+      "file": "works/krov-zemli/en/section_01.html"
+    }
+  ],
+  "title": "Blood of the Earth",
+  "author": "Eugene Lyssovsky",
+  "date": "2010-2016",
+  "category": "short",
+  "genre": "Sci-Fi",
+  "description": "On a colonial planet, a conscientious-objector recruit undergoes \"psychoconditioning\" — and returns to the parade ground a different man."
+}

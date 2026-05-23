@@ -475,20 +475,25 @@
     "id": "krov-zemli",
     "title": "Blood of the Earth",
     "title_ru": "Кровь земли",
+    "title_vi": "Máu Của Đất",
     "subtitle": "Psychoconditioning makes willing killers",
     "subtitle_ru": "Психокондиционирование делает добровольных убийц",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2010-2016",
     "category": "short",
     "genre": "Sci-Fi",
     "cover": "images/krov-zemli.jpg",
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "A colonial soldier's conditioning is working perfectly. He believes in the mission. He believes in the cause. He believes the ritual murder is necessary. The conditioning is working perfectly.",
-    "description_ru": "Кондиционирование колониального солдата работает идеально. Он верит в миссию. Он верит в дело. Он верит, что ритуальное убийство необходимо. Кондиционирование работает идеально."
+    "description_ru": "Кондиционирование колониального солдата работает идеально. Он верит в миссию. Он верит в дело. Он верит, что ритуальное убийство необходимо. Кондиционирование работает идеально.",
+    "description_vi": "Trên một hành tinh thuộc địa, một tân binh từ chối nhập ngũ trải qua «điều kiện hóa tâm lý» — và quay trở lại sân duyệt binh như một con người khác."
   },
   {
     "id": "odin-den",
