@@ -1,0 +1,13 @@
+{
+  "id": "izbrannyj",
+  "lang": "vi",
+  "title": "Người Được Chọn",
+  "subtitle": "Một Hắc Chúa Đã Thực Sự Đọc Hướng Dẫn",
+  "author": "Eugene Lyssovsky",
+  "date": "2016",
+  "category": "short",
+  "genre": "Fantasy Hài",
+  "chapters": [
+    {"id": "section_01", "title": "Người Được Chọn", "file": "works/izbrannyj/vi/section_01.html"}
+  ]
+}
