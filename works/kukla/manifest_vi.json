@@ -1,0 +1,17 @@
+{
+  "id": "kukla",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Con Búp Bê",
+      "file": "works/kukla/vi/section_01.html"
+    }
+  ],
+  "title": "Con Búp Bê",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "Dark Fantasy",
+  "description": "Thành Phố Vĩnh Hằng. Đá cuội, ánh nến, và một gã béo bán búp bê với nụ cười có thể nuốt chửng một người."
+}
