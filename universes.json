@@ -27,21 +27,25 @@
     "id": "zhivaya-dusha",
     "title": "Living Soul",
     "title_ru": "Живая душа",
+    "title_vi": "Linh Hồn Sống",
     "subtitle": "A marble girl who became human",
     "subtitle_ru": "Мраморная девушка, ставшая человеком",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "short",
     "genre": "Paranormal Detective",
     "cover": "images/zhivaya-dusha.jpg",
     "languages": [
+      "en",
       "ru",
-      "en"
+      "vi"
     ],
     "original_lang": "ru",
     "description": "A famous artist is found dead in his studio. Around him — six bodies that used to be hired killers. The police have questions. The neighbours have stories. And somewhere in the rainy streets, a woman with marble skin and red hair is running — barefoot, confused, and impossibly alive.",
-    "description_ru": "Знаменитый художник найден мёртвым в мастерской. Вокруг него — шесть тел, которые раньше были наёмными убийцами. У полиции вопросы. У соседей — истории. А где-то по дождливым улицам бежит женщина с мраморной кожей и рыжими волосами — босая, растерянная и невозможно живая."
+    "description_ru": "Знаменитый художник найден мёртвым в мастерской. Вокруг него — шесть тел, которые раньше были наёмными убийцами. У полиции вопросы. У соседей — истории. А где-то по дождливым улицам бежит женщина с мраморной кожей и рыжими волосами — босая, растерянная и невозможно живая.",
+    "description_vi": "Một họa sĩ nổi tiếng được tìm thấy chết trong studio. Quanh anh — sáu thi thể từng là sát thủ thuê."
   },
   {
     "id": "serv",
