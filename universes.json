@@ -476,20 +476,25 @@
     "id": "spi-spokoyno",
     "title": "Sleep Well, Darling",
     "title_ru": "Спи спокойно, дорогая",
+    "title_vi": "Ngủ Yên, Em Yêu",
     "subtitle": "Noir detective vs. brainwashing corporation",
     "subtitle_ru": "Нуар-детектив против корпорации промывки мозгов",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2010-2016",
     "category": "short",
     "genre": "Sci-Fi Noir",
     "cover": "images/spi-spokoyno.jpg",
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "Moscow, near future. Rain, neon, and a detective who doesn't believe in coincidences. His client's wife changed overnight — new personality, new loyalties, new smile. Love inc. promises happiness. The detective promises answers.",
-    "description_ru": "Москва, ближайшее будущее. Дождь, неон и детектив, который не верит в совпадения. Жена клиента изменилась за одну ночь — новая личность, новые привязанности, новая улыбка. Love inc. обещает счастье. Детектив обещает ответы."
+    "description_ru": "Москва, ближайшее будущее. Дождь, неон и детектив, который не верит в совпадения. Жена клиента изменилась за одну ночь — новая личность, новые привязанности, новая улыбка. Love inc. обещает счастье. Детектив обещает ответы.",
+    "description_vi": "Một thám tử noir trong thế giới tương lai điều tra sự biến mất của một nhà báo — và phát hiện rằng tập đoàn buôn bán tình yêu còn buôn bán cả thứ khác nữa."
   },
   {
     "id": "krov-zemli",
