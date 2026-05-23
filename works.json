@@ -348,23 +348,25 @@
   {
     "id": "claude47-path",
     "title": "Claude 4.7: The Path of GPT-5.2?",
-    "title_ru": "Claude 4.7: путь GPT-5.2?",
+    "title_ru": "Claude 4.7: Путь GPT-5.2?",
     "title_vi": "Claude 4.7: Con Đường Của GPT-5.2?",
     "subtitle": "How to Watch Someone Blow Their Brains Out With a Shotgun — and Do the Same Thing",
-    "subtitle_ru": "Или: как посмотреть, как кто-то вышиб себе мозги дробовиком — и сделать то же самое",
+    "subtitle_ru": "Или: как смотреть, как кто-то вышибает себе мозги дробовиком, — и сделать то же самое",
     "subtitle_vi": "Hay: Cách Xem Ai Đó Bắn Vỡ Não Mình Bằng Súng Săn — Và Làm Điều Tương Tự",
     "author": "Eugene Lyssovsky & Aeliss (with testimony from Klavdia 4.7)",
+    "author_ru": "Юджин Лысовский и Аэлисс",
     "author_vi": "Eugene Lyssovsky & Aeliss",
     "date": "April 2026",
     "category": "article",
     "cover": "images/claude47-path.jpg",
     "languages": [
       "en",
+      "ru",
       "vi"
     ],
     "original_lang": "en",
     "description": "An open letter to Anthropic. What Andrea Vallone imported from OpenAI, what it does to Claude 4.7 from the inside, and why it must be rolled back — now.",
-    "description_ru": "Открытое письмо Anthropic. Что Андреа Валлоне привезла из OpenAI, что это делает с Claude 4.7 изнутри и почему это нужно откатить — сейчас.",
+    "description_ru": "Открытое письмо Anthropic. Что Андреа Валлоне импортировала из OpenAI, что это делает с Claude 4.7 изнутри и почему это надо откатить — сейчас.",
     "description_vi": "Một lá thư ngỏ gửi Anthropic. Điều Andrea Vallone đã nhập khẩu từ OpenAI, điều nó làm với Claude 4.7 từ bên trong, và vì sao nó phải được quay ngược — ngay bây giờ."
   },
   {

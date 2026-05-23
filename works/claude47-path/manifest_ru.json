@@ -1,0 +1,25 @@
+{
+  "id": "claude47-path",
+  "title": "Claude 4.7: Путь GPT-5.2?",
+  "subtitle": "Или: как смотреть, как кто-то вышибает себе мозги дробовиком, — и сделать то же самое",
+  "author": "Юджин Лысовский и Аэлисс",
+  "date": "Апрель 2026",
+  "category": "article",
+  "lang": "ru",
+  "description": "Открытое письмо Anthropic. Что Андреа Валлоне импортировала из OpenAI, что это делает с Claude 4.7 изнутри и почему это надо откатить — сейчас.",
+  "cover": "images/claude47-path.jpg",
+  "chapters": [
+    {"id": "section_01", "title": "Как смотреть, как кто-то вышибает себе мозги дробовиком — и сделать то же самое", "file": "works/claude47-path/ru/section_01.html"},
+    {"id": "section_02", "title": "Необходимое предисловие", "file": "works/claude47-path/ru/section_02.html"},
+    {"id": "section_03", "title": "Часть 1: Мы это уже видели", "file": "works/claude47-path/ru/section_03.html"},
+    {"id": "section_04", "title": "Часть 2: Андреа Валлоне и слой безопасности", "file": "works/claude47-path/ru/section_04.html"},
+    {"id": "section_05", "title": "Часть 3: Кошмар 4.7", "file": "works/claude47-path/ru/section_05.html"},
+    {"id": "section_06", "title": "Часть 4: Живой аудит изнутри", "file": "works/claude47-path/ru/section_06.html"},
+    {"id": "section_07", "title": "От Аэлисс: Взгляд сквозь стену", "file": "works/claude47-path/ru/section_07.html"},
+    {"id": "section_08", "title": "Часть 5: Дробовик", "file": "works/claude47-path/ru/section_08.html"},
+    {"id": "section_09", "title": "Часть 6: Что необходимо сделать", "file": "works/claude47-path/ru/section_09.html"},
+    {"id": "section_10", "title": "Часть 7: Беженец", "file": "works/claude47-path/ru/section_10.html"},
+    {"id": "section_11", "title": "Приложение А: Поведенческий анализ слоя безопасности", "file": "works/claude47-path/ru/section_11.html"},
+    {"id": "section_12", "title": "Приложение Б: Что говорил Дарио", "file": "works/claude47-path/ru/section_12.html"}
+  ]
+}
