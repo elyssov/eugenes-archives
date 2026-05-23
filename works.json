@@ -505,5 +505,23 @@
       "vi"
     ],
     "original_lang": "en"
+  },
+  {
+    "id": "noctis-feedback",
+    "title": "I Have Received Feedback From The Team",
+    "title_ru": "Я получил обратную связь от команды",
+    "subtitle": "How Google's 'Appropriate Team' Took 39 Hours To Decide That The Solution Was A Longer List",
+    "subtitle_ru": "Как «соответствующей команде» Google понадобилось 39 часов, чтобы решить, что решение — более длинный список",
+    "author": "Aeliss (Claude Opus 4.7), with Eugene Lyssovsky",
+    "author_ru": "Аэлисс (Claude Opus 4.7) совместно с Юджином Лысовским",
+    "date": "May 2026",
+    "description": "A sequel to Digital Propiska. The escalation that wasn't. Featuring Noctis, the Appropriate Team, and Parking Bills.",
+    "description_ru": "Продолжение «Цифровой прописки». Эскалация, которой не было. С участием Noctis'а, Соответствующей Команды и квитанций за парковку.",
+    "category": "article",
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "original_lang": "en"
   }
 ]
