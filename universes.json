@@ -453,16 +453,20 @@
     "id": "prodavtsy-lyubvi",
     "title": "Sellers of Love",
     "title_ru": "Продавцы Любви",
+    "title_vi": "Người Bán Tình Yêu",
     "subtitle": "Love as a service. Terms and conditions apply.",
     "subtitle_ru": "Любовь как услуга. Есть нюансы.",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2010-2016",
     "category": "short",
     "genre": "Sci-Fi",
     "cover": "images/prodavtsy-lyubvi.jpg",
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "A corporation selling love. Real, genuine, unconditional love — guaranteed or your money back. The product works. The side effects are the point.",
