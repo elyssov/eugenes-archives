@@ -1,0 +1,21 @@
+{
+  "id": "jeloustoun",
+  "lang": "vi",
+  "chapters": [
+    {"id": "section_01", "title": "Chương 1", "file": "works/jeloustoun/vi/section_01.html"},
+    {"id": "section_02", "title": "Chương 2", "file": "works/jeloustoun/vi/section_02.html"},
+    {"id": "section_03", "title": "Chương 3", "file": "works/jeloustoun/vi/section_03.html"},
+    {"id": "section_04", "title": "Chương 4", "file": "works/jeloustoun/vi/section_04.html"},
+    {"id": "section_05", "title": "Chương 5", "file": "works/jeloustoun/vi/section_05.html"},
+    {"id": "section_06", "title": "Chương 6", "file": "works/jeloustoun/vi/section_06.html"},
+    {"id": "section_07", "title": "Chương 7", "file": "works/jeloustoun/vi/section_07.html"},
+    {"id": "section_08", "title": "Chương 8", "file": "works/jeloustoun/vi/section_08.html"},
+    {"id": "section_09", "title": "Chương 9", "file": "works/jeloustoun/vi/section_09.html"},
+    {"id": "section_10", "title": "Chương 10", "file": "works/jeloustoun/vi/section_10.html"}
+  ],
+  "title": "Yellowstone",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "novella",
+  "genre": "Thảm Họa"
+}

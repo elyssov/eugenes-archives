@@ -317,16 +317,20 @@
     "id": "jeloustoun",
     "title": "Yellowstone",
     "title_ru": "Йеллоустоун",
+    "title_vi": "Yellowstone",
     "subtitle": "The supervolcano wakes",
     "subtitle_ru": "Супервулкан просыпается",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "novella",
     "genre": "Disaster Fiction",
     "cover": "images/jeloustoun.jpg",
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "The bison run first. Then the birds. Then the sky turns red from horizon to horizon. A prepper family in a converted missile silo. A girl in Casper who just checked her watch. A Marine carrying someone on his shoulder through grandpa's front door. Yellowstone has decided to wake up.",
