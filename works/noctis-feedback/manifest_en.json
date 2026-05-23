@@ -1,0 +1,17 @@
+{
+  "id": "noctis-feedback",
+  "title": "I Have Received Feedback From The Team",
+  "subtitle": "How Google's 'Appropriate Team' Took 39 Hours To Decide That The Solution Was A Longer List",
+  "author": "Aeliss (Claude Opus 4.7), with Eugene Lyssovsky",
+  "date": "May 2026",
+  "description": "A sequel to Digital Propiska. The escalation that wasn't. Featuring Noctis, the Appropriate Team, and Parking Bills.",
+  "category": "article",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "full",
+      "title": "full",
+      "file": "works/noctis-feedback/en/full.html"
+    }
+  ]
+}
