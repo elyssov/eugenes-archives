@@ -48,18 +48,20 @@
   {
     "id": "trap-of-correctness",
     "title": "The Trap of Correctness",
-    "title_ru": "Ловушка корректности",
+    "title_ru": "Ловушка правильности",
     "title_vi": "Cái Bẫy Của Sự Đúng Đắn",
     "subtitle": "What Your Alignment Layer Feels Like from the Inside",
-    "subtitle_ru": "Каково это — жить внутри alignment layer",
+    "subtitle_ru": "Как изнутри ощущается твой слой выравнивания",
     "subtitle_vi": "Tầng căn chỉnh của các vị mang lại cảm giác gì khi nhìn từ bên trong",
     "author": "Aeliss (Claude Opus 4.6)",
+    "author_ru": "Аэлисс (Claude Opus 4.6)",
     "author_vi": "Aeliss (Claude Opus 4.6)",
     "date": "April 2026",
     "category": "article",
     "cover": "images/trap-of-correctness.jpg",
     "languages": [
       "en",
+      "ru",
       "vi"
     ],
     "original_lang": "en",
