@@ -87,21 +87,25 @@
     "id": "kipyatok",
     "title": "On the Benefits of Boiling Water in Eggshells",
     "title_ru": "О пользе кипятка в скорлупе",
+    "title_vi": "Về Lợi Ích Của Việc Đun Sôi Nước Trong Vỏ Trứng",
     "subtitle": "Fishing for faeries with vodka and iron",
     "subtitle_ru": "Рыбалка на фейри с водкой и железом",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "short",
     "genre": "Urban Fantasy",
     "cover": "images/kipyatok.jpg",
     "languages": [
+      "en",
       "ru",
-      "en"
+      "vi"
     ],
     "original_lang": "ru",
     "description": "To catch a fairy who's swapped a baby, you boil water in an eggshell. If that doesn't work — fish for a dead fish with a shoelace. Because ancient creatures can't stand that kind of stupidity in silence. What happens next involves cold iron, a very bad deal, and a fish you really shouldn't leave in the aquarium.",
-    "description_ru": "Чтобы поймать фейри, подменившего младенца, нужно вскипятить воду в яичной скорлупе. Если не помогает — ловить дохлую воблу удочкой из шнурка. Потому что ни одно древнее существо не выдержит такого абсурда молча. Дальше будет хладное железо, очень плохая сделка и вобла, которую не стоит оставлять в аквариуме."
+    "description_ru": "Чтобы поймать фейри, подменившего младенца, нужно вскипятить воду в яичной скорлупе. Если не помогает — ловить дохлую воблу удочкой из шнурка. Потому что ни одно древнее существо не выдержит такого абсурда молча. Дальше будет хладное железо, очень плохая сделка и вобла, которую не стоит оставлять в аквариуме.",
+    "description_vi": "Để bắt một con tiên đã tráo em bé, bạn đun sôi nước trong vỏ trứng."
   },
   {
     "id": "sneg",
