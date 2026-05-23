@@ -257,21 +257,25 @@
     "id": "dnevnik",
     "title": "Diary of the End of the World",
     "title_ru": "Дневник конца света",
+    "title_vi": "Nhật Ký Ngày Tận Thế",
     "subtitle": "One man's nuclear survival journal",
     "subtitle_ru": "Дневник выживания одного человека после ядерной войны",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "short",
     "genre": "Nuclear Post-Apocalypse",
     "cover": null,
     "languages": [
+      "en",
       "ru",
-      "en"
+      "vi"
     ],
     "original_lang": "ru",
     "description": "Day minus one: barbecue, traffic on the Minsk highway, the cat stole the kebab. Day one: \"starfall during daytime... quite a lot of sta—\". Day three: the dosimeter is still green. A manager's survival journal. No heroes. No philosophy. Just iodine, mineral water, and the hope that tomorrow will come.",
-    "description_ru": "День минус один: шашлыки, пробки на Минке, кот спиздил мясо. День первый: «звездопад днём... как-то много зве—». День третий: дозиметр пока зелёный. Дневник выживания менеджера. Без героев. Без философии. Только йод, минералка и надежда, что завтра наступит."
+    "description_ru": "День минус один: шашлыки, пробки на Минке, кот спиздил мясо. День первый: «звездопад днём... как-то много зве—». День третий: дозиметр пока зелёный. Дневник выживания менеджера. Без героев. Без философии. Только йод, минералка и надежда, что завтра наступит.",
+    "description_vi": "Ngày trừ một: thịt nướng, tắc đường trên đại lộ Minsk, con mèo đã trộm kebab."
   },
   {
     "id": "vechnyj-gorod",

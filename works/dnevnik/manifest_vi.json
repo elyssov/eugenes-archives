@@ -1,0 +1,17 @@
+{
+  "id": "dnevnik",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Nhật Ký Ngày Tận Thế",
+      "file": "works/dnevnik/vi/section_01.html"
+    }
+  ],
+  "title": "Nhật Ký Ngày Tận Thế",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "Hậu Khải Huyền Hạt Nhân",
+  "description": "Ngày trừ một: thịt nướng, tắc đường trên đại lộ Minsk, con mèo đã trộm kebab."
+}
