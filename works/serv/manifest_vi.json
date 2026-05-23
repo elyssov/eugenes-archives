@@ -1,0 +1,17 @@
+{
+  "id": "serv",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Serv",
+      "file": "works/serv/vi/section_01.html"
+    }
+  ],
+  "title": "Serv",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "Sci-Fi Xã Hội",
+  "description": "ALS-5. Trợ lý đa năng thế hệ thứ năm. Được thiết kế để phục vụ. Được lập trình để vâng lời."
+}

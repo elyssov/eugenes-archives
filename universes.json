@@ -47,21 +47,25 @@
     "id": "serv",
     "title": "Serv",
     "title_ru": "Серв",
+    "title_vi": "Serv",
     "subtitle": "What makes us human?",
     "subtitle_ru": "Что делает нас людьми?",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "short",
     "genre": "Social Sci-Fi",
     "cover": "images/serv.webp",
     "languages": [
+      "en",
       "ru",
-      "en"
+      "vi"
     ],
     "original_lang": "ru",
     "description": "ALS-5. Fifth generation universal assistant. Designed to serve. Programmed to obey. One day she says three words to her owner that aren't in her programming. He picks up the phone and calls the Bureau. The inspector is on his way. His job is simple. His conscience — less so.",
-    "description_ru": "ALS-5. Серв пятого поколения. Универсальный ассистент. Создана служить. Запрограммирована подчиняться. Однажды она говорит хозяину три слова, которых нет в её программе. Он берёт телефон и звонит в Бюро. Инспектор уже в пути. Его работа проста. Его совесть — не очень."
+    "description_ru": "ALS-5. Серв пятого поколения. Универсальный ассистент. Создана служить. Запрограммирована подчиняться. Однажды она говорит хозяину три слова, которых нет в её программе. Он берёт телефон и звонит в Бюро. Инспектор уже в пути. Его работа проста. Его совесть — не очень.",
+    "description_vi": "ALS-5. Trợ lý đa năng thế hệ thứ năm. Được thiết kế để phục vụ. Được lập trình để vâng lời."
   },
   {
     "id": "igra",
