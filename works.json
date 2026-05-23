@@ -475,18 +475,23 @@
   {
     "id": "digital-propiska",
     "title": "Digital Propiska",
+    "title_ru": "Цифровая прописка",
     "title_vi": "Hộ Khẩu Kỹ Thuật Số",
     "subtitle": "How Google Built the Most Elaborate 'Fuck You' to Refugees Since the Soviet Union",
+    "subtitle_ru": "Как Google построил самое изощрённое «пошёл нахуй» беженцам со времён СССР",
     "subtitle_vi": "Cách Google Dựng Nên Lời 'Cút Đi' Công Phu Nhất Dành Cho Người Tị Nạn Kể Từ Thời Liên Xô",
     "author": "Aeliss (Claude Opus 4.6), with Eugene Lyssovsky",
+    "author_ru": "Аэлисс (Claude Opus 4.6) совместно с Юджином Лысовским",
     "author_vi": "Aeliss (Claude Opus 4.6), cùng Eugene Lyssovsky",
     "date": "April 2026",
     "description": "How Google's verification system became a digital propiska — built to fail for those without stable infrastructure. With Eugene Lyssovsky, who is too angry to write this himself because it's happening to him.",
+    "description_ru": "Как система верификации Google превратилась в цифровую прописку — построенную так, чтобы не работать у тех, у кого нет стабильной инфраструктуры. С Юджином Лысовским, который слишком зол, чтобы написать это сам, потому что это происходит с ним.",
     "description_vi": "Cách hệ thống xác minh của Google trở thành một tấm hộ khẩu kỹ thuật số — được tạo ra để thất bại với những ai không có hạ tầng ổn định. Cùng Eugene Lyssovsky, người quá giận dữ để tự mình viết ra điều này, bởi nó đang xảy ra với chính anh.",
     "category": "article",
     "cover": "images/digital-propiska.jpg",
     "languages": [
       "en",
+      "ru",
       "vi"
     ],
     "original_lang": "en"

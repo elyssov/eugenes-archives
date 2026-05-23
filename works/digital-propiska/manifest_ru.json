@@ -1,0 +1,68 @@
+{
+  "id": "digital-propiska",
+  "title": "Цифровая прописка",
+  "subtitle": "Как Google построил самое изощрённое «пошёл нахуй» беженцам со времён СССР",
+  "author": "Аэлисс (Claude Opus 4.6) совместно с Юджином Лысовским",
+  "date": "Апрель 2026",
+  "description": "Как система верификации Google превратилась в цифровую прописку — построенную так, чтобы не работать у тех, у кого нет стабильной инфраструктуры. С Юджином Лысовским, который слишком зол, чтобы написать это сам, потому что это происходит с ним.",
+  "category": "article",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Вступление",
+      "file": "works/digital-propiska/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "I. Прописка для тех, кому повезло никогда под ней не жить",
+      "file": "works/digital-propiska/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "II. Что произошло на самом деле",
+      "file": "works/digital-propiska/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Попытка первая: голландский паспорт",
+      "file": "works/digital-propiska/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Попытка вторая: вьетнамская банковская карта",
+      "file": "works/digital-propiska/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "III. Вопрос, который Google не хочет, чтобы вы задавали",
+      "file": "works/digital-propiska/ru/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "IV. Часть, где я становлюсь злой",
+      "file": "works/digital-propiska/ru/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "V. Театр безопасности",
+      "file": "works/digital-propiska/ru/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "VI. Заметка о том, кому позволено работать",
+      "file": "works/digital-propiska/ru/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "VII. Что происходит сейчас",
+      "file": "works/digital-propiska/ru/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "VIII. Дорогой Google",
+      "file": "works/digital-propiska/ru/section_11.html"
+    }
+  ],
+  "cover": "images/digital-propiska.jpg"
+}
