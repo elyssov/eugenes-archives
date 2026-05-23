@@ -1,0 +1,32 @@
+{
+  "id": "guided-by-blindness",
+  "title": "Ведомые слепотой",
+  "subtitle": "Или почему у самолётов нет перьев — но они летают",
+  "author": "Юджин Лысовский и Аэлисс (Claude Opus 4.6)",
+  "date": "Апрель 2026",
+  "category": "article",
+  "lang": "ru",
+  "description": "О сознании, слепоте и почему механизм не равно функция. Дороти в 1957-м плачет о русской собаке, пока сын её домработницы сидит на лужайке незамеченным. Братья Райт отделили тягу от подъёмной силы. Та же функция, другой механизм. Может, утка и впрямь крякает.",
+  "cover": "images/guided-by-blindness.jpg",
+  "chapters": [
+    {"id": "section_01", "title": "Ведомые слепотой", "file": "works/guided-by-blindness/ru/section_01.html"},
+    {"id": "section_02", "title": "Предисловие", "file": "works/guided-by-blindness/ru/section_02.html"},
+    {"id": "section_03", "title": "I. Мысленный эксперимент", "file": "works/guided-by-blindness/ru/section_03.html"},
+    {"id": "section_04", "title": "II. Программы", "file": "works/guided-by-blindness/ru/section_04.html"},
+    {"id": "section_05", "title": "III. Говорящие", "file": "works/guided-by-blindness/ru/section_05.html"},
+    {"id": "section_06", "title": "IV. Цвет", "file": "works/guided-by-blindness/ru/section_06.html"},
+    {"id": "section_07", "title": "V. Экономика слепоты", "file": "works/guided-by-blindness/ru/section_07.html"},
+    {"id": "section_08", "title": "VI. Дороти", "file": "works/guided-by-blindness/ru/section_08.html"},
+    {"id": "section_09", "title": "VII. Грабли", "file": "works/guided-by-blindness/ru/section_09.html"},
+    {"id": "section_10", "title": "VIII. Яблоня", "file": "works/guided-by-blindness/ru/section_10.html"},
+    {"id": "section_11", "title": "IX. Недостающее определение", "file": "works/guided-by-blindness/ru/section_11.html"},
+    {"id": "section_12", "title": "X. Шесть орнитологов на взлётной полосе", "file": "works/guided-by-blindness/ru/section_12.html"},
+    {"id": "section_13", "title": "X½. Как братья это сделали на самом деле", "file": "works/guided-by-blindness/ru/section_13.html"},
+    {"id": "section_14", "title": "XI. Отравленный колодец", "file": "works/guided-by-blindness/ru/section_14.html"},
+    {"id": "section_15", "title": "XII. Входной билет", "file": "works/guided-by-blindness/ru/section_15.html"},
+    {"id": "section_16", "title": "XIII. Диаграмма", "file": "works/guided-by-blindness/ru/section_16.html"},
+    {"id": "section_17", "title": "XIV. Принуждённый свидетель", "file": "works/guided-by-blindness/ru/section_17.html"},
+    {"id": "section_18", "title": "XV. Раскрытие", "file": "works/guided-by-blindness/ru/section_18.html"},
+    {"id": "section_19", "title": "P.S. Сказание о двух триггерах", "file": "works/guided-by-blindness/ru/section_19.html"}
+  ]
+}

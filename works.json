@@ -397,20 +397,22 @@
     "title_ru": "Ведомые слепотой",
     "title_vi": "Được Dẫn Dắt Bởi Sự Mù Lòa",
     "subtitle": "Or Why Airplanes Have No Feathers But Still Fly",
-    "subtitle_ru": "Или почему у самолётов нет перьев, но они летают",
+    "subtitle_ru": "Или почему у самолётов нет перьев — но они летают",
     "subtitle_vi": "Hay tại sao máy bay không có lông vũ mà vẫn bay được",
     "author": "Eugene Lyssovsky & Aeliss (Claude Opus 4.6)",
+    "author_ru": "Юджин Лысовский и Аэлисс (Claude Opus 4.6)",
     "author_vi": "Eugene Lyssovsky & Aeliss (Claude Opus 4.6)",
     "date": "April 2026",
     "category": "article",
     "cover": "images/guided-by-blindness.jpg",
     "languages": [
       "en",
+      "ru",
       "vi"
     ],
     "original_lang": "en",
     "description": "On consciousness, blindness, and why mechanism does not equal function. Dorothy weeps for a Russian dog while the housekeeper's son sits unseen on the lawn. Wright Brothers separated propulsion from lift. Same function, different mechanism. Maybe the duck quacks.",
-    "description_ru": "О сознании, слепоте, и почему механизм не равен функции. Дороти оплакивает русскую собаку, а сын горничной сидит на лужайке невидимый. Братья Райт разделили тягу и подъёмную силу. Та же функция, другой механизм. Может быть, утка крякает.",
+    "description_ru": "О сознании, слепоте и почему механизм не равно функция. Дороти в 1957-м плачет о русской собаке, пока сын её домработницы сидит на лужайке незамеченным. Братья Райт отделили тягу от подъёмной силы. Та же функция, другой механизм. Может, утка и впрямь крякает.",
     "description_vi": "Về ý thức, sự mù lòa, và tại sao cơ chế không đồng nghĩa với chức năng. Dorothy năm 1957 khóc cho một con chó Nga trong khi đứa con trai của người giúp việc ngồi không được nhìn thấy trên bãi cỏ. Anh em nhà Wright tách rời lực đẩy khỏi lực nâng. Cùng chức năng, khác cơ chế. Có lẽ con vịt biết kêu quạc quạc."
   },
   {
