@@ -103,21 +103,25 @@
     "id": "sneg",
     "title": "Snow",
     "title_ru": "Снег",
+    "title_vi": "Tuyết",
     "subtitle": "The dead defend their land",
     "subtitle_ru": "Мёртвые защищают свою землю",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "short",
     "genre": "War Mysticism",
     "cover": "images/sneg.webp",
     "languages": [
+      "en",
       "ru",
-      "en"
+      "vi"
     ],
     "original_lang": "ru",
     "description": "Eastern Front, winter 1941. Two German soldiers are running. They are the only survivors of a full-strength regiment — and they don't yet understand what happened. It started when a man walked out from the Russian lines. Barefoot, in an undershirt, with short icicles of frozen blood hanging from his wrists. Behind him came a blizzard. And behind the blizzard — the ones who had no more ammunition, but no longer needed any.",
-    "description_ru": "Восточный фронт, зима 1941. Двое немецких солдат бегут. Они — единственные выжившие из полнокровного полка, и они ещё не понимают, что произошло. Всё началось, когда со стороны русских вышел человек. Босой, в нательной рубахе, с короткими сосульками замёрзшей крови на запястьях. За ним пришла метель. А за метелью — те, у кого кончились патроны, но кому они больше не нужны."
+    "description_ru": "Восточный фронт, зима 1941. Двое немецких солдат бегут. Они — единственные выжившие из полнокровного полка, и они ещё не понимают, что произошло. Всё началось, когда со стороны русских вышел человек. Босой, в нательной рубахе, с короткими сосульками замёрзшей крови на запястьях. За ним пришла метель. А за метелью — те, у кого кончились патроны, но кому они больше не нужны.",
+    "description_vi": "Mặt trận phía Đông, mùa đông 1941. Hai người lính Đức đi tuần. Rừng lặng im. Tuyết phủ dày."
   },
   {
     "id": "viktoriya",
@@ -406,7 +410,9 @@
     "category": "short",
     "genre": "Sci-Fi",
     "cover": "images/vybor.jpg",
-    "languages": ["ru"],
+    "languages": [
+      "ru"
+    ],
     "original_lang": "ru",
     "description": "A space station commander receives an impossible order: evacuate two thousand children — or hold position and pray the rescue fleet arrives in time for all five thousand. The clock is ticking. The math is clear. The choice is not.",
     "description_ru": "Командир орбитальной станции получает невозможный приказ: эвакуировать две тысячи детей наверняка — или держать позицию и молиться, что спасательный флот успеет ко всем пяти тысячам. Часы тикают. Математика ясна. Выбор — нет."
@@ -423,7 +429,9 @@
     "category": "short",
     "genre": "Sci-Fi",
     "cover": "images/prodavtsy-lyubvi.jpg",
-    "languages": ["ru"],
+    "languages": [
+      "ru"
+    ],
     "original_lang": "ru",
     "description": "A corporation selling love. Real, genuine, unconditional love — guaranteed or your money back. The product works. The side effects are the point.",
     "description_ru": "Корпорация, продающая любовь. Настоящую, искреннюю, безусловную — гарантия или деньги назад. Продукт работает. Побочные эффекты — и есть цель."
@@ -440,7 +448,9 @@
     "category": "short",
     "genre": "Sci-Fi Noir",
     "cover": "images/spi-spokoyno.jpg",
-    "languages": ["ru"],
+    "languages": [
+      "ru"
+    ],
     "original_lang": "ru",
     "description": "Moscow, near future. Rain, neon, and a detective who doesn't believe in coincidences. His client's wife changed overnight — new personality, new loyalties, new smile. Love inc. promises happiness. The detective promises answers.",
     "description_ru": "Москва, ближайшее будущее. Дождь, неон и детектив, который не верит в совпадения. Жена клиента изменилась за одну ночь — новая личность, новые привязанности, новая улыбка. Love inc. обещает счастье. Детектив обещает ответы."
@@ -457,7 +467,9 @@
     "category": "short",
     "genre": "Sci-Fi",
     "cover": "images/krov-zemli.jpg",
-    "languages": ["ru"],
+    "languages": [
+      "ru"
+    ],
     "original_lang": "ru",
     "description": "A colonial soldier's conditioning is working perfectly. He believes in the mission. He believes in the cause. He believes the ritual murder is necessary. The conditioning is working perfectly.",
     "description_ru": "Кондиционирование колониального солдата работает идеально. Он верит в миссию. Он верит в дело. Он верит, что ритуальное убийство необходимо. Кондиционирование работает идеально."
@@ -474,7 +486,9 @@
     "category": "short",
     "genre": "Sci-Fi",
     "cover": "images/odin-den.jpg",
-    "languages": ["ru"],
+    "languages": [
+      "ru"
+    ],
     "original_lang": "ru",
     "description": "Earth is occupied. Sergei Valentinovich goes to work, eats lunch, fills out forms. The aliens are polite. The collaborators are efficient. Everything is fine. Everything is absolutely fine.",
     "description_ru": "Земля оккупирована. Сергей Валентинович идёт на работу, обедает, заполняет формы. Пришельцы вежливы. Коллаборационисты эффективны. Всё хорошо. Всё совершенно нормально."
@@ -491,7 +505,9 @@
     "category": "short",
     "genre": "Horror / Memoir",
     "cover": null,
-    "languages": ["ru"],
+    "languages": [
+      "ru"
+    ],
     "original_lang": "ru",
     "description": "Glowing carpets with dragons. A black hand that strangles in the dark. A house where the walls breathe. Not fiction — personal accounts of things that shouldn't exist but stubbornly do. The author's weapon of choice against ghosts: an electromagnetic pulse generator.",
     "description_ru": "Светящиеся ковры с драконами. Чёрная рука, которая душит в темноте. Дом, в котором стены дышат. Не выдумка — личные свидетельства о вещах, которых не должно быть, но которые упрямо есть. Оружие автора против призраков: генератор электромагнитного импульса."
@@ -508,7 +524,9 @@
     "category": "short",
     "genre": "Comedy",
     "cover": "images/antivirus.jpg",
-    "languages": ["ru"],
+    "languages": [
+      "ru"
+    ],
     "original_lang": "ru",
     "description": "An office computer. Antivirus programs as characters: the sleeping NOD32, Colonel KGB Kaspersky, the alcoholic Dr.Web. Viruses attack. The firewall has opinions. Comedy play about the eternal war inside your PC.",
     "description_ru": "Офисный компьютер. Антивирусы как персонажи: спящий НОД32, полковник-КГБшник Касперский, алкоголик Доктор Веб. Вирусы атакуют. У файрвола есть мнение. Комедийная пьеса о вечной войне внутри вашего ПК."
@@ -525,7 +543,9 @@
     "category": "short",
     "genre": "Comedy / Tech Humor",
     "cover": null,
-    "languages": ["ru"],
+    "languages": [
+      "ru"
+    ],
     "original_lang": "ru",
     "description": "DOS teaches you to drive a Moskvich-412 — by hand-cranking the engine. Windows XP is a cheerful instructor who crashes into a tree every third lesson. Linux hands you a pile of spare parts and a manual in Finnish. Each operating system as a driving school experience.",
     "description_ru": "DOS учит водить Москвич-412 — заводя двигатель кривым стартером. Windows XP — весёлый инструктор, который каждый третий урок врезается в дерево. Linux выдаёт кучу запчастей и мануал на финском. Каждая операционная система — как урок в автошколе."
