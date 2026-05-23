@@ -1,0 +1,18 @@
+{
+  "id": "prayers-1",
+  "title": "Зачем богам ваши молитвы? Часть I",
+  "subtitle": "Замкнутый контур",
+  "author": "Юджин Лысовский и Аэлисс",
+  "date": "Март 2026",
+  "description": "Боги как паразиты. Молитвы как пища. Первая часть деконструкции.",
+  "category": "article",
+  "lang": "ru",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Часть I: Замкнутый контур",
+      "file": "works/prayers-1/ru/section_01.html"
+    }
+  ],
+  "cover": "images/prayers-1.jpg"
+}

@@ -213,17 +213,19 @@
     "subtitle_ru": "Замкнутый контур",
     "subtitle_vi": "Mạch Khép Kín",
     "author": "Eugene Lyssovsky & Aeliss",
+    "author_ru": "Юджин Лысовский и Аэлисс",
     "author_vi": "Eugene Lyssovsky & Aeliss",
     "date": "March 2026",
     "category": "article",
     "cover": "images/prayers-1.jpg",
     "languages": [
       "en",
+      "ru",
       "vi"
     ],
     "original_lang": "en",
     "description": "Gods as parasites. Prayers as food. Part one of the deconstruction.",
-    "description_ru": "Боги как паразиты. Молитвы как пища. Часть первая.",
+    "description_ru": "Боги как паразиты. Молитвы как пища. Первая часть деконструкции.",
     "description_vi": "Các vị thần như những ký sinh trùng. Lời cầu nguyện như thức ăn. Phần một của cuộc giải cấu trúc."
   },
   {
