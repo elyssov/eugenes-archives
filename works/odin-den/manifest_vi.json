@@ -1,0 +1,17 @@
+{
+  "id": "odin-den",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Một Ngày Trong Đời Sergei Valentinovich",
+      "file": "works/odin-den/vi/section_01.html"
+    }
+  ],
+  "title": "Một Ngày Trong Đời Sergei Valentinovich",
+  "author": "Eugene Lyssovsky",
+  "date": "2010-2016",
+  "category": "short",
+  "genre": "Sci-Fi",
+  "description": "Một ngày bình thường của một người bình thường trong thế giới bị chinh phục bởi chủng tộc ngoài hành tinh. Anh ta hài lòng với cuộc sống. Đó là điều đáng sợ nhất."
+}

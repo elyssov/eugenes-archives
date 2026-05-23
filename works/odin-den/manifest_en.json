@@ -1,0 +1,17 @@
+{
+  "id": "odin-den",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "One Day in the Life of Sergei Valentinovich",
+      "file": "works/odin-den/en/section_01.html"
+    }
+  ],
+  "title": "One Day in the Life of Sergei Valentinovich",
+  "author": "Eugene Lyssovsky",
+  "date": "2010-2016",
+  "category": "short",
+  "genre": "Sci-Fi",
+  "description": "An ordinary day of an ordinary man in a world conquered by an alien race. He is content with his life. That is the most frightening part."
+}

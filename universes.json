@@ -503,20 +503,25 @@
     "id": "odin-den",
     "title": "One Day in the Life of Sergei Valentinovich",
     "title_ru": "Один день из жизни Сергея Валентиновича",
+    "title_vi": "Một Ngày Trong Đời Sergei Valentinovich",
     "subtitle": "A day under alien occupation",
     "subtitle_ru": "День под инопланетной оккупацией",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2010-2016",
     "category": "short",
     "genre": "Sci-Fi",
     "cover": "images/odin-den.jpg",
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "Earth is occupied. Sergei Valentinovich goes to work, eats lunch, fills out forms. The aliens are polite. The collaborators are efficient. Everything is fine. Everything is absolutely fine.",
-    "description_ru": "Земля оккупирована. Сергей Валентинович идёт на работу, обедает, заполняет формы. Пришельцы вежливы. Коллаборационисты эффективны. Всё хорошо. Всё совершенно нормально."
+    "description_ru": "Земля оккупирована. Сергей Валентинович идёт на работу, обедает, заполняет формы. Пришельцы вежливы. Коллаборационисты эффективны. Всё хорошо. Всё совершенно нормально.",
+    "description_vi": "Một ngày bình thường của một người bình thường trong thế giới bị chinh phục bởi chủng tộc ngoài hành tinh. Anh ta hài lòng với cuộc sống. Đó là điều đáng sợ nhất."
   },
   {
     "id": "nevedomoe",
