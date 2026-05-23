@@ -1,0 +1,17 @@
+{
+  "id": "blagoslovennaya-eres",
+  "lang": "vi",
+  "chapters": [
+    {"id": "section_01", "title": "Chương 1", "file": "works/blagoslovennaya-eres/vi/section_01.html"},
+    {"id": "section_02", "title": "Chương 2", "file": "works/blagoslovennaya-eres/vi/section_02.html"},
+    {"id": "section_03", "title": "Chương 3", "file": "works/blagoslovennaya-eres/vi/section_03.html"},
+    {"id": "section_04", "title": "Chương 4", "file": "works/blagoslovennaya-eres/vi/section_04.html"},
+    {"id": "section_05", "title": "Chương 5", "file": "works/blagoslovennaya-eres/vi/section_05.html"},
+    {"id": "section_06", "title": "Chương 6", "file": "works/blagoslovennaya-eres/vi/section_06.html"}
+  ],
+  "title": "Tà Giáo Được Ban Phước",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "novella",
+  "genre": "Warhammer 40K Fanfiction"
+}

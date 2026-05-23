@@ -294,16 +294,20 @@
     "id": "blagoslovennaya-eres",
     "title": "Blessed Heresy",
     "title_ru": "Благословенная ересь",
+    "title_vi": "Tà Giáo Được Ban Phước",
     "subtitle": "Warhammer 40K with Russian inquisitors",
     "subtitle_ru": "Warhammer 40K с русскими инквизиторами",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "novella",
     "genre": "Warhammer 40K Fanfiction",
     "cover": "images/blagoslovennaya-eres.jpg",
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "Inquisitor Vyshinsky doesn't like this planet. It's wet, his retinue is criminally unpleasant, and his best fighter won't stop grinning. But the artifact they're hunting is real. The Eldar are coming. And the one person he trusts with his life is the one nobody else can bear to touch.",
