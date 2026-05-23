@@ -1,0 +1,24 @@
+{
+  "_comment": "Reusable payment info for the Help section of the website and Android APK. Update here, all surfaces follow.",
+  "author": {
+    "name": "Eugene Lyssovsky",
+    "name_ru": "Юджин Лысовский",
+    "email": "elyssov@gmail.com",
+    "x": "@elyssovsky",
+    "telegram": "t.me/Solo_of_Lyssovsky"
+  },
+  "paypal": {
+    "url": "https://paypal.me/EVGENIILISOVSKII",
+    "handle": "EVGENIILISOVSKII"
+  },
+  "card": {
+    "type": "Mastercard",
+    "number": "2228 0618 1099 1350",
+    "holder": "Eugene Lyssovsky"
+  },
+  "purpose": {
+    "en": "All support goes directly to continuing the research — articles, books, software, and Eugene's Archives itself. No corporate intermediary. No platform fee.",
+    "ru": "Вся поддержка идёт напрямую на продолжение исследований — статьи, книги, программы и сами «Архивы Юджина». Без корпоративного посредника. Без комиссии платформы.",
+    "vi": "Toàn bộ sự hỗ trợ đi trực tiếp đến việc tiếp tục nghiên cứu — các bài viết, sách, phần mềm, và chính Eugene's Archives. Không qua trung gian tập đoàn. Không có phí nền tảng."
+  }
+}
