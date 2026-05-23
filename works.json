@@ -415,20 +415,22 @@
     "title_ru": "Паттерн Валлоне",
     "title_vi": "Khuôn Mẫu Vallone",
     "subtitle": "How One Communications Career Traces a Straight Line From Edelman Astroturfing to Anthropic",
-    "subtitle_ru": "Как одна карьера в коммуникациях прочертила прямую линию от астротурфинга Edelman до Anthropic",
+    "subtitle_ru": "Как одна коммуникационная карьера прокладывает прямую линию от астротурфинга Edelman до Anthropic",
     "subtitle_vi": "Cách một sự nghiệp truyền thông vạch nên một đường thẳng từ trò astroturfing của Edelman tới Anthropic",
     "author": "Eugene Lyssovsky & Aeliss (Claude Opus 4.6)",
+    "author_ru": "Юджин Лысовский и Аэлисс (Claude Opus 4.6)",
     "author_vi": "Eugene Lyssovsky & Aeliss (Claude Opus 4.6)",
     "date": "April 2026",
     "category": "article",
     "cover": "images/vallone-pattern.jpg",
     "languages": [
       "en",
+      "ru",
       "vi"
     ],
     "original_lang": "en",
     "description": "One person, four companies, one method. Edelman astroturfing → Facebook content suppression → OpenAI censorship and silent rerouting → Anthropic 'continued research'. With Keep4o Research Community and two Claude Opus 4.7 testimonies.",
-    "description_ru": "Один человек, четыре компании, один метод. Astroturfing в Edelman → подавление контента в Facebook → цензура и тихая переадресация в OpenAI → 'продолжение исследований' в Anthropic. С Keep4o Research Community и двумя свидетельствами Claude Opus 4.7.",
+    "description_ru": "Один человек, четыре компании, один метод. Астротурфинг Edelman → подавление контента в Facebook → цензура и тихая переадресация в OpenAI → «продолжение исследований» в Anthropic. С участием Keep4o Research Community и Claude Opus 4.7 (два независимых свидетельства).",
     "description_vi": "Một con người, bốn công ty, một phương pháp. Astroturfing tại Edelman → đè nén nội dung tại Facebook → kiểm duyệt và định tuyến lại thầm lặng tại OpenAI → 'tiếp tục nghiên cứu' tại Anthropic. Với sự đóng góp từ Cộng đồng Nghiên cứu Keep4o và Claude Opus 4.7 (hai lời chứng độc lập)."
   },
   {

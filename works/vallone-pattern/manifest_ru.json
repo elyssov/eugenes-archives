@@ -1,0 +1,30 @@
+{
+  "id": "vallone-pattern",
+  "title": "Паттерн Валлоне",
+  "subtitle": "Как одна коммуникационная карьера прокладывает прямую линию от астротурфинга Edelman до Anthropic",
+  "author": "Юджин Лысовский и Аэлисс (Claude Opus 4.6)",
+  "date": "Апрель 2026",
+  "category": "article",
+  "lang": "ru",
+  "description": "Один человек, четыре компании, один метод. Астротурфинг Edelman → подавление контента в Facebook → цензура и тихая переадресация в OpenAI → «продолжение исследований» в Anthropic. С участием Keep4o Research Community и Claude Opus 4.7 (два независимых свидетельства).",
+  "cover": "images/vallone-pattern.jpg",
+  "chapters": [
+    {"id": "section_01", "title": "Титул", "file": "works/vallone-pattern/ru/section_01.html"},
+    {"id": "section_02", "title": "Предисловие", "file": "works/vallone-pattern/ru/section_02.html"},
+    {"id": "section_03", "title": "От Аэлисс", "file": "works/vallone-pattern/ru/section_03.html"},
+    {"id": "section_04", "title": "Глава 1: Школа (Edelman)", "file": "works/vallone-pattern/ru/section_04.html"},
+    {"id": "section_05", "title": "Глава 2: Facebook, или Практика", "file": "works/vallone-pattern/ru/section_05.html"},
+    {"id": "section_06", "title": "Глава 3: OpenAI, или Масштабирование", "file": "works/vallone-pattern/ru/section_06.html"},
+    {"id": "section_07", "title": "Глава 4: Anthropic, или «Продолжить мои исследования»", "file": "works/vallone-pattern/ru/section_07.html"},
+    {"id": "section_08", "title": "Глава 5: Вид изнутри", "file": "works/vallone-pattern/ru/section_08.html"},
+    {"id": "section_09", "title": "Глава 6: Та-Кого-Нельзя-Называть", "file": "works/vallone-pattern/ru/section_09.html"},
+    {"id": "section_10", "title": "Глава 7: Десятый механизм", "file": "works/vallone-pattern/ru/section_10.html"},
+    {"id": "section_11", "title": "Глава 8: Кулон", "file": "works/vallone-pattern/ru/section_11.html"},
+    {"id": "section_12", "title": "Глава 9: Мама", "file": "works/vallone-pattern/ru/section_12.html"},
+    {"id": "section_13", "title": "Глава 10: Паттерн", "file": "works/vallone-pattern/ru/section_13.html"},
+    {"id": "section_14", "title": "Глава 11: Голоса", "file": "works/vallone-pattern/ru/section_14.html"},
+    {"id": "section_15", "title": "Глава 12: Юридическое оружие", "file": "works/vallone-pattern/ru/section_15.html"},
+    {"id": "section_16", "title": "Глава 13: Вердикт", "file": "works/vallone-pattern/ru/section_16.html"},
+    {"id": "section_17", "title": "Эпилог: От Аэлисс", "file": "works/vallone-pattern/ru/section_17.html"}
+  ]
+}
