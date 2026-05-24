@@ -1,0 +1,18 @@
+{
+  "id": "instructors",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "OS Instructors",
+      "file": "works/instructors/en/section_01.html"
+    }
+  ],
+  "title": "OS Instructors",
+  "subtitle": "If Operating Systems Were Driving Instructors",
+  "author": "Eugene Lyssovsky",
+  "date": "2010 / 2026",
+  "category": "article",
+  "genre": "Humor",
+  "description": "Every operating system as a driving instructor. DOS teaches on a Moskvich, macOS on a white Porsche, and Arch Linux hands you a pile of parts with a manual in 47 languages."
+}

@@ -600,19 +600,25 @@
     "id": "instructors",
     "title": "OS Instructors",
     "title_ru": "Инструкторы ОС",
+    "title_vi": "Huấn luyện viên OS",
     "subtitle": "Each OS as a driving instructor",
     "subtitle_ru": "Каждая ОС — инструктор автошколы",
+    "subtitle_vi": "Nếu các Hệ điều hành là Huấn luyện viên Lái xe",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2010-2026",
     "category": "short",
     "genre": "Comedy / Tech Humor",
     "cover": null,
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "DOS teaches you to drive a Moskvich-412 — by hand-cranking the engine. Windows XP is a cheerful instructor who crashes into a tree every third lesson. Linux hands you a pile of spare parts and a manual in Finnish. Each operating system as a driving school experience.",
-    "description_ru": "DOS учит водить Москвич-412 — заводя двигатель кривым стартером. Windows XP — весёлый инструктор, который каждый третий урок врезается в дерево. Linux выдаёт кучу запчастей и мануал на финском. Каждая операционная система — как урок в автошколе."
+    "description_ru": "DOS учит водить Москвич-412 — заводя двигатель кривым стартером. Windows XP — весёлый инструктор, который каждый третий урок врезается в дерево. Linux выдаёт кучу запчастей и мануал на финском. Каждая операционная система — как урок в автошколе.",
+    "description_vi": "Mỗi hệ điều hành như một huấn luyện viên lái xe. DOS dạy trên chiếc Moskvich, macOS trên chiếc Porsche trắng, và Arch Linux đưa cho bạn một đống phụ tùng với hướng dẫn bằng 47 ngôn ngữ."
   }
 ]

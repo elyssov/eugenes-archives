@@ -1,0 +1,18 @@
+{
+  "id": "instructors",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Huấn luyện viên OS",
+      "file": "works/instructors/vi/section_01.html"
+    }
+  ],
+  "title": "Huấn luyện viên OS",
+  "subtitle": "Nếu các Hệ điều hành là Huấn luyện viên Lái xe",
+  "author": "Eugene Lyssovsky",
+  "date": "2010 / 2026",
+  "category": "article",
+  "genre": "Hài hước",
+  "description": "Mỗi hệ điều hành như một huấn luyện viên lái xe. DOS dạy trên chiếc Moskvich, macOS trên chiếc Porsche trắng, và Arch Linux đưa cho bạn một đống phụ tùng với hướng dẫn bằng 47 ngôn ngữ."
+}
