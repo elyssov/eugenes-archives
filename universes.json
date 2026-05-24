@@ -182,21 +182,25 @@
     "id": "muromec",
     "title": "Muromets",
     "title_ru": "Муромец",
+    "title_vi": "Muromets",
     "subtitle": "A girl's soul in a titan's body",
     "subtitle_ru": "Душа девочки в теле титана",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "novella",
     "genre": "Mech Sci-Fi",
     "cover": "images/muromec.jpg",
     "languages": [
+      "en",
       "ru",
-      "en"
+      "vi"
     ],
     "original_lang": "ru",
     "description": "1984. A test pilot dies inside an experimental exoskeleton. Thirty years later, a stalker in the Zone finds the suit, plugs in a cable from a PlayStation — and hears a woman's voice inside his own head. She's been dead for decades. She disagrees.",
     "description_ru": "1984. Пилот-испытатель погибает внутри экспериментального экзоскелета. Тридцать лет спустя сталкер в Зоне находит скафандр, подключает кабель от PlayStation — и слышит женский голос в собственной голове. Она мертва уже десятилетия. Она с этим не согласна.",
+    "description_vi": "1984. Một phi công thử nghiệm chết bên trong bộ giáp ngoài thử nghiệm. Ba mươi năm sau, một stalker cắm bộ đồ vào cáp PlayStation — và nghe giọng phụ nữ trong chính đầu mình.",
     "status": "draft"
   },
   {

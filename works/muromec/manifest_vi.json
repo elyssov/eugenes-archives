@@ -1,0 +1,16 @@
+{
+  "id": "muromec",
+  "lang": "vi",
+  "chapters": [
+    {"id": "section_01", "title": "Chương 1", "file": "works/muromec/vi/section_01.html"},
+    {"id": "section_02", "title": "Chương 2", "file": "works/muromec/vi/section_02.html"},
+    {"id": "section_03", "title": "Chương 3", "file": "works/muromec/vi/section_03.html"},
+    {"id": "section_04", "title": "Chương 4", "file": "works/muromec/vi/section_04.html"}
+  ],
+  "title": "Muromets",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "novella",
+  "genre": "Mech Sci-Fi",
+  "description": "1984. Một phi công thử nghiệm chết bên trong bộ giáp ngoài thử nghiệm. Ba mươi năm sau, một stalker cắm bộ đồ vào cáp PlayStation — và nghe giọng phụ nữ trong chính đầu mình."
+}
