@@ -575,20 +575,26 @@
     "id": "nevedomoe",
     "title": "The Unknown: A View from Inside",
     "title_ru": "Неведомое: Взгляд изнутри",
+    "title_vi": "Điều Không Biết: Cái Nhìn Từ Bên Trong",
     "subtitle": "Paranormal memoirs — dead serious",
     "subtitle_ru": "Паранормальные мемуары — без шуток",
+    "subtitle_vi": "hồi ký siêu nhiên",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2010-2016",
     "category": "short",
     "genre": "Horror / Memoir",
     "cover": null,
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "Glowing carpets with dragons. A black hand that strangles in the dark. A house where the walls breathe. Not fiction — personal accounts of things that shouldn't exist but stubbornly do. The author's weapon of choice against ghosts: an electromagnetic pulse generator.",
-    "description_ru": "Светящиеся ковры с драконами. Чёрная рука, которая душит в темноте. Дом, в котором стены дышат. Не выдумка — личные свидетельства о вещах, которых не должно быть, но которые упрямо есть. Оружие автора против призраков: генератор электромагнитного импульса."
+    "description_ru": "Светящиеся ковры с драконами. Чёрная рука, которая душит в темноте. Дом, в котором стены дышат. Не выдумка — личные свидетельства о вещах, которых не должно быть, но которые упрямо есть. Оружие автора против призраков: генератор электромагнитного импульса.",
+    "description_vi": "Hồi ký cá nhân của tác giả về các cuộc gặp với hiện tượng siêu nhiên — từ thảm sống lại lúc nhỏ đến đuổi tà bằng vodka tại làng Ryazan."
   },
   {
     "id": "antivirus",
