@@ -1,0 +1,18 @@
+{
+  "id": "viktoriya",
+  "title": "Victoria",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "description": "Victoria — Space Opera. Earth lost the war to fluffy six-legged kitten-bears with planetary boosters. Twenty years later, the Butcher who burned 18 billion of them sits in a Vienna café about to play a piano. Some keys don't open music — they open silos.",
+  "category": "novella",
+  "genre": "Space Opera",
+  "lang": "en",
+  "chapters": [
+    {"id": "section_01", "title": "THE PRICE OF HONOUR", "file": "works/viktoriya/en/section_01.html"},
+    {"id": "section_02", "title": "THE PRICE OF DISHONOUR", "file": "works/viktoriya/en/section_02.html"},
+    {"id": "section_03", "title": "THE PLAGUE-STRICKEN", "file": "works/viktoriya/en/section_03.html"},
+    {"id": "section_04", "title": "THE BEGINNING", "file": "works/viktoriya/en/section_04.html"},
+    {"id": "section_05", "title": "EMPIRE", "file": "works/viktoriya/en/section_05.html"},
+    {"id": "section_06", "title": "THE ALLEY", "file": "works/viktoriya/en/section_06.html"}
+  ]
+}

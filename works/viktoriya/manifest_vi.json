@@ -1,0 +1,18 @@
+{
+  "id": "viktoriya",
+  "title": "Victoria",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "description": "Victoria — Opera không gian. Trái Đất thua cuộc chiến với gấu-mèo sáu chân lông mềm có booster hành tinh. 20 năm sau, Đồ tể đã đốt 18 tỷ trong số họ ngồi quán cà phê Vienna sắp chơi piano. Vài chìa không mở nhạc — chúng mở silo.",
+  "category": "novella",
+  "genre": "Opera Không Gian",
+  "lang": "vi",
+  "chapters": [
+    {"id": "section_01", "title": "CÁI GIÁ CỦA DANH DỰ", "file": "works/viktoriya/vi/section_01.html"},
+    {"id": "section_02", "title": "CÁI GIÁ CỦA NHỤC", "file": "works/viktoriya/vi/section_02.html"},
+    {"id": "section_03", "title": "NGƯỜI BỊ DỊCH", "file": "works/viktoriya/vi/section_03.html"},
+    {"id": "section_04", "title": "KHỞI ĐẦU", "file": "works/viktoriya/vi/section_04.html"},
+    {"id": "section_05", "title": "ĐẾ CHẾ", "file": "works/viktoriya/vi/section_05.html"},
+    {"id": "section_06", "title": "ĐẠI LỘ", "file": "works/viktoriya/vi/section_06.html"}
+  ]
+}

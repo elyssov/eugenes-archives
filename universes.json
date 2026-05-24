@@ -147,20 +147,25 @@
     "id": "viktoriya",
     "title": "Victoria",
     "title_ru": "Виктория",
+    "title_vi": "Victoria",
     "subtitle": "Five voices, one war, no winners",
     "subtitle_ru": "Пять голосов, одна война, победителей нет",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "novella",
     "genre": "Space Opera",
     "cover": "images/viktoriya.jpg",
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "Five voices. Four generations. One war that reshapes everything it touches. An admiral at a piano. A spy in a basement. A president's granddaughter with an empire to build. The story begins with a toast to victory — and ends with the question of what victory actually costs.",
-    "description_ru": "Пять голосов. Четыре поколения. Одна война, которая меняет всё, к чему прикасается. Адмирал за фортепьяно. Следователь в подвале. Внучка президента с империей, которую нужно построить. История начинается с тоста за победу — и заканчивается вопросом, чего на самом деле стоит победа."
+    "description_ru": "Пять голосов. Четыре поколения. Одна война, которая меняет всё, к чему прикасается. Адмирал за фортепьяно. Следователь в подвале. Внучка президента с империей, которую нужно построить. История начинается с тоста за победу — и заканчивается вопросом, чего на самом деле стоит победа.",
+    "description_vi": "Victoria — Opera không gian. Trái Đất thua cuộc chiến với gấu-mèo sáu chân lông mềm có booster hành tinh. 20 năm sau, Đồ tể đã đốt 18 tỷ trong số họ ngồi quán cà phê Vienna sắp chơi piano. Vài chìa không mở nhạc — chúng mở silo."
   },
   {
     "id": "propazha",
