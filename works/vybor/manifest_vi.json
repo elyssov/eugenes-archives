@@ -1,0 +1,17 @@
+{
+  "id": "vybor",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Sự Lựa Chọn",
+      "file": "works/vybor/vi/section_01.html"
+    }
+  ],
+  "title": "Sự Lựa Chọn",
+  "author": "Eugene Lyssovsky",
+  "date": "2010-2016",
+  "category": "short",
+  "genre": "Sci-Fi",
+  "description": "Chỉ huy trạm vũ trụ xa phải quyết định: cứu chắc chắn 2.000 trẻ em hay liều vì 5.000."
+}

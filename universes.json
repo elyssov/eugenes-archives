@@ -439,20 +439,25 @@
     "id": "vybor",
     "title": "The Choice",
     "title_ru": "Выбор",
+    "title_vi": "Sự Lựa Chọn",
     "subtitle": "2000 children for certain, or gamble on 5000",
     "subtitle_ru": "2000 детей наверняка, или рискнуть ради 5000",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2010-2016",
     "category": "short",
     "genre": "Sci-Fi",
     "cover": "images/vybor.jpg",
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "A space station commander receives an impossible order: evacuate two thousand children — or hold position and pray the rescue fleet arrives in time for all five thousand. The clock is ticking. The math is clear. The choice is not.",
-    "description_ru": "Командир орбитальной станции получает невозможный приказ: эвакуировать две тысячи детей наверняка — или держать позицию и молиться, что спасательный флот успеет ко всем пяти тысячам. Часы тикают. Математика ясна. Выбор — нет."
+    "description_ru": "Командир орбитальной станции получает невозможный приказ: эвакуировать две тысячи детей наверняка — или держать позицию и молиться, что спасательный флот успеет ко всем пяти тысячам. Часы тикают. Математика ясна. Выбор — нет.",
+    "description_vi": "Chỉ huy trạm vũ trụ xa phải quyết định: cứu chắc chắn 2.000 trẻ em hay liều vì 5.000."
   },
   {
     "id": "prodavtsy-lyubvi",
