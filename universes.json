@@ -610,20 +610,26 @@
     "id": "antivirus",
     "title": "Antivirus",
     "title_ru": "Антивирус",
+    "title_vi": "Antivirus",
     "subtitle": "NOD32 sleeps, Kaspersky interrogates, Dr.Web drinks",
     "subtitle_ru": "НОД спит, Касперский допрашивает, Доктор Веб пьёт",
+    "subtitle_vi": "Vở kịch-ảo tưởng với prolog, ba màn và epilog",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2010-2026",
     "category": "short",
     "genre": "Comedy",
     "cover": "images/antivirus.jpg",
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "An office computer. Antivirus programs as characters: the sleeping NOD32, Colonel KGB Kaspersky, the alcoholic Dr.Web. Viruses attack. The firewall has opinions. Comedy play about the eternal war inside your PC.",
-    "description_ru": "Офисный компьютер. Антивирусы как персонажи: спящий НОД32, полковник-КГБшник Касперский, алкоголик Доктор Веб. Вирусы атакуют. У файрвола есть мнение. Комедийная пьеса о вечной войне внутри вашего ПК."
+    "description_ru": "Офисный компьютер. Антивирусы как персонажи: спящий НОД32, полковник-КГБшник Касперский, алкоголик Доктор Веб. Вирусы атакуют. У файрвола есть мнение. Комедийная пьеса о вечной войне внутри вашего ПК.",
+    "description_vi": "Người Dùng, Windows Seven, và diễu hành antivirus — từ lính dũng Avast đến Đại tá KGB Kaspersky — chiến vì một máy văn phòng khốn khổ."
   },
   {
     "id": "instructors",

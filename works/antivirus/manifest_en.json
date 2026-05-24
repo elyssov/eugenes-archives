@@ -1,0 +1,18 @@
+{
+  "id": "antivirus",
+  "lang": "en",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Antivirus",
+      "file": "works/antivirus/en/section_01.html"
+    }
+  ],
+  "title": "Antivirus",
+  "subtitle": "A play-phantasmagoria with prologue, three acts and epilogue",
+  "author": "Eugene Lyssovsky",
+  "date": "2010 / 2026",
+  "category": "play",
+  "genre": "Humor",
+  "description": "A User, Windows Seven, and a parade of antiviruses — from brave soldier Avast to KGB Colonel Kaspersky — battle for one miserable office computer."
+}

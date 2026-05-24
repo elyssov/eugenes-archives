@@ -1,0 +1,18 @@
+{
+  "id": "antivirus",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Antivirus",
+      "file": "works/antivirus/vi/section_01.html"
+    }
+  ],
+  "title": "Antivirus",
+  "subtitle": "Vở kịch-ảo tưởng với prolog, ba màn và epilog",
+  "author": "Eugene Lyssovsky",
+  "date": "2010 / 2026",
+  "category": "play",
+  "genre": "Hài hước",
+  "description": "Người Dùng, Windows Seven, và diễu hành antivirus — từ lính dũng Avast đến Đại tá KGB Kaspersky — chiến vì một máy văn phòng khốn khổ."
+}
