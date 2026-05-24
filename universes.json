@@ -414,16 +414,20 @@
     "id": "arkhivy-shpenglera",
     "title": "The von Sphengler Archives: Kaschei",
     "title_ru": "Архивы фон Шпенглера: Кащей",
+    "title_vi": "Hồ sơ von Spengler: Kashchey",
     "subtitle": "A wizard, his angel, and the darkest fairy tale",
     "subtitle_ru": "Волшебник, его ангел и самая тёмная сказка",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "novel",
     "genre": "Urban Fantasy / Cozy Horror",
     "cover": "images/arkhivy-shpenglera.jpg",
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "Gerhard von Sphengler writes horror novels for a living. He also does other things — the kind you don't put on a business card. A Russian oligarch hires him to find his daughter. She was last seen near a forest that local fairy tales say you shouldn't enter. The fairy tales, as it turns out, undersell the problem considerably.",

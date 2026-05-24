@@ -1,0 +1,17 @@
+{
+  "id": "arkhivy-shpenglera",
+  "lang": "vi",
+  "chapters": [
+    {"id": "section_01", "title": "Boogie", "file": "works/arkhivy-shpenglera/vi/section_01.html"},
+    {"id": "section_02", "title": "Mặt dây chuyền", "file": "works/arkhivy-shpenglera/vi/section_02.html"},
+    {"id": "section_03", "title": "Nephilim", "file": "works/arkhivy-shpenglera/vi/section_03.html"},
+    {"id": "section_04", "title": "Dấu ấn", "file": "works/arkhivy-shpenglera/vi/section_04.html"},
+    {"id": "section_05", "title": "Kashchey", "file": "works/arkhivy-shpenglera/vi/section_05.html"},
+    {"id": "section_06", "title": "Ba tháng sau", "file": "works/arkhivy-shpenglera/vi/section_06.html"}
+  ],
+  "title": "Hồ sơ von Spengler: Kashchey",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "novel",
+  "genre": "Fantasy đô thị / kinh dị ấm áp"
+}

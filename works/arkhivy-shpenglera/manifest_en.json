@@ -1,0 +1,17 @@
+{
+  "id": "arkhivy-shpenglera",
+  "lang": "en",
+  "chapters": [
+    {"id": "section_01", "title": "Boogie", "file": "works/arkhivy-shpenglera/en/section_01.html"},
+    {"id": "section_02", "title": "Pendant", "file": "works/arkhivy-shpenglera/en/section_02.html"},
+    {"id": "section_03", "title": "Nephilim", "file": "works/arkhivy-shpenglera/en/section_03.html"},
+    {"id": "section_04", "title": "The Seal", "file": "works/arkhivy-shpenglera/en/section_04.html"},
+    {"id": "section_05", "title": "Kashchey", "file": "works/arkhivy-shpenglera/en/section_05.html"},
+    {"id": "section_06", "title": "Three Months Later", "file": "works/arkhivy-shpenglera/en/section_06.html"}
+  ],
+  "title": "Von Spengler Archives: Kashchey",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "novel",
+  "genre": "Urban fantasy / cozy horror"
+}
