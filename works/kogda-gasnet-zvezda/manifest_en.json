@@ -1,0 +1,18 @@
+{
+  "id": "kogda-gasnet-zvezda",
+  "lang": "en",
+  "chapters": [
+    {"id": "section_01", "title": "Chapter 1", "file": "works/kogda-gasnet-zvezda/en/section_01.html"},
+    {"id": "section_02", "title": "Chapter 2", "file": "works/kogda-gasnet-zvezda/en/section_02.html"},
+    {"id": "section_03", "title": "Chapter 3", "file": "works/kogda-gasnet-zvezda/en/section_03.html"},
+    {"id": "section_04", "title": "Chapter 4", "file": "works/kogda-gasnet-zvezda/en/section_04.html"},
+    {"id": "section_05", "title": "Chapter 5", "file": "works/kogda-gasnet-zvezda/en/section_05.html"},
+    {"id": "section_06", "title": "Chapter 6", "file": "works/kogda-gasnet-zvezda/en/section_06.html"}
+  ],
+  "title": "When a Star Goes Out",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "novella",
+  "genre": "Hard SF",
+  "description": "The Sun begins to dim. World governments secretly select the survivors for underground cities while telling the public it's only a precaution. A small Russian girl wants a winter coat. A cult thinks God ordered humanity to die quietly."
+}
