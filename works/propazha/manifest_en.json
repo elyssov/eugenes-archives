@@ -1,0 +1,27 @@
+{
+  "id": "propazha",
+  "title": "The Disappearance",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "description": "Vlad wakes up in Moscow to find everyone gone — clothes left in heaps where people stood. A post-apocalyptic novella about love, survival, and what the dead hand left ticking.",
+  "category": "novella",
+  "genre": "Post-apocalypse",
+  "lang": "en",
+  "chapters": [
+    {"id": "section_01", "title": "Chapter 1", "file": "works/propazha/en/section_01.html"},
+    {"id": "section_02", "title": "Chapter 2", "file": "works/propazha/en/section_02.html"},
+    {"id": "section_03", "title": "Chapter 3", "file": "works/propazha/en/section_03.html"},
+    {"id": "section_04", "title": "Chapter 4", "file": "works/propazha/en/section_04.html"},
+    {"id": "section_05", "title": "Chapter 5", "file": "works/propazha/en/section_05.html"},
+    {"id": "section_06", "title": "Chapter 6", "file": "works/propazha/en/section_06.html"},
+    {"id": "section_07", "title": "Chapter 7", "file": "works/propazha/en/section_07.html"},
+    {"id": "section_08", "title": "Chapter 8", "file": "works/propazha/en/section_08.html"},
+    {"id": "section_09", "title": "Chapter 9", "file": "works/propazha/en/section_09.html"},
+    {"id": "section_10", "title": "Chapter 10", "file": "works/propazha/en/section_10.html"},
+    {"id": "section_11", "title": "Chapter 11", "file": "works/propazha/en/section_11.html"},
+    {"id": "section_12", "title": "Chapter 12", "file": "works/propazha/en/section_12.html"},
+    {"id": "section_13", "title": "Chapter 13", "file": "works/propazha/en/section_13.html"},
+    {"id": "section_14", "title": "Chapter 14", "file": "works/propazha/en/section_14.html"},
+    {"id": "section_15", "title": "Chapter 15", "file": "works/propazha/en/section_15.html"}
+  ]
+}

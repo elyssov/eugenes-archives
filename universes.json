@@ -166,20 +166,25 @@
     "id": "propazha",
     "title": "The Disappearance",
     "title_ru": "Пропажа",
+    "title_vi": "Sự Biến Mất",
     "subtitle": "Last man in Moscow",
     "subtitle_ru": "Последний человек в Москве",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "novella",
     "genre": "Post-Apocalypse",
     "cover": "images/propazha.jpg",
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "One morning, everyone disappears. Clothes in neat piles. Dental implants on the floor. A medical student, his cat, and a thirteen-year-old girl with braces are among the few still standing in an empty Moscow. Across the ocean, a mother in Los Angeles watches her family vanish. Something is counting down.",
     "description_ru": "Однажды утром все исчезают. Одежда — аккуратными кучками. Зубные протезы — на полу. Студент-медик, его кот и тринадцатилетняя девчонка с брекетами — среди немногих оставшихся в опустевшей Москве. На другом конце океана мать в Лос-Анджелесе смотрит, как исчезает её семья. Что-то ведёт обратный отсчёт.",
+    "description_vi": "Vlad thức dậy ở Moskva và phát hiện mọi người đã biến mất — quần áo còn đống nơi người từng đứng. Một tiểu thuyết hậu tận thế về tình yêu, sống sót, và những gì tay chết để lại còn đập.",
     "status": "draft"
   },
   {
