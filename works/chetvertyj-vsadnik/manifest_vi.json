@@ -1,0 +1,21 @@
+{
+  "id": "chetvertyj-vsadnik",
+  "lang": "vi",
+  "chapters": [
+    {"id": "section_01", "title": "Chương 1", "file": "works/chetvertyj-vsadnik/vi/section_01.html"},
+    {"id": "section_02", "title": "Chương 2", "file": "works/chetvertyj-vsadnik/vi/section_02.html"},
+    {"id": "section_03", "title": "Chương 3", "file": "works/chetvertyj-vsadnik/vi/section_03.html"},
+    {"id": "section_04", "title": "Chương 4", "file": "works/chetvertyj-vsadnik/vi/section_04.html"},
+    {"id": "section_05", "title": "Chương 5", "file": "works/chetvertyj-vsadnik/vi/section_05.html"},
+    {"id": "section_06", "title": "Chương 6", "file": "works/chetvertyj-vsadnik/vi/section_06.html"},
+    {"id": "section_07", "title": "Chương 7", "file": "works/chetvertyj-vsadnik/vi/section_07.html"},
+    {"id": "section_08", "title": "Chương 8", "file": "works/chetvertyj-vsadnik/vi/section_08.html"},
+    {"id": "section_09", "title": "Chương 9", "file": "works/chetvertyj-vsadnik/vi/section_09.html"}
+  ],
+  "title": "Kỵ sĩ thứ tư",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "novella",
+  "genre": "Bio-Thriller",
+  "description": "Một nhà di truyền học Nhật đang cố cứu con trai. Trợ lý phòng thí nghiệm Mỹ của ông đang cố cứu thế giới. Một con khỉ cắn cô. Cô lên máy bay."
+}

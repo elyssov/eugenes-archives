@@ -230,21 +230,25 @@
     "id": "chetvertyj-vsadnik",
     "title": "The Fourth Horseman",
     "title_ru": "Четвёртый всадник",
+    "title_vi": "Kỵ sĩ thứ tư",
     "subtitle": "Love is literally contagious",
     "subtitle_ru": "Любовь — это буквально заразно",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "novella",
     "genre": "Bio-Thriller",
     "cover": null,
     "languages": [
+      "en",
       "ru",
-      "en"
+      "vi"
     ],
     "original_lang": "ru",
     "description": "A Japanese geneticist is trying to save his son. His American lab assistant is trying to save the world. A monkey bites her. She catches a cold. She boards a plane. The rest is a love story — in the most clinical sense of the word.",
-    "description_ru": "Японский генетик пытается спасти сына. Его американская ассистентка пытается спасти мир. Обезьяна её кусает. Она простужается. Она садится в самолёт. Дальше — история любви. В самом клиническом смысле этого слова."
+    "description_ru": "Японский генетик пытается спасти сына. Его американская ассистентка пытается спасти мир. Обезьяна её кусает. Она простужается. Она садится в самолёт. Дальше — история любви. В самом клиническом смысле этого слова.",
+    "description_vi": "Một nhà di truyền học Nhật đang cố cứu con trai. Trợ lý phòng thí nghiệm Mỹ của ông đang cố cứu thế giới. Một con khỉ cắn cô. Cô lên máy bay."
   },
   {
     "id": "parazit",
