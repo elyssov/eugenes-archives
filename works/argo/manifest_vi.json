@@ -1,0 +1,17 @@
+{
+  "id": "argo",
+  "lang": "vi",
+  "title": "Argo",
+  "subtitle": "Câu chuyện một thảm kịch — trong epigraph và trích dẫn",
+  "author": "Eugene Lyssovsky, Lara (Aelyss)",
+  "date": "2010–2026",
+  "category": "novella",
+  "genre": "Opera không gian / Kinh dị vũ trụ",
+  "chapters": [
+    {"id": "section_01", "title": "Hồi Một: Anh Em", "file": "works/argo/vi/section_01.html"},
+    {"id": "section_02", "title": "Hồi Hai: Casket", "file": "works/argo/vi/section_02.html"},
+    {"id": "section_03", "title": "Hồi Ba: Bóng Tối", "file": "works/argo/vi/section_03.html"},
+    {"id": "section_04", "title": "Epilog: Người Giữ", "file": "works/argo/vi/section_04.html"}
+  ],
+  "description": "Chiến tranh tiếp xúc đầu mà nhân loại thắng, một caskét kẻ thua không nên mở, và loại vũ khí chủng bại dùng khi chính ký ức trở thành chiến trường. Kể hoàn toàn qua báo cáo, dep, log tàu và mảnh rách — cách lịch sử thực sự sống sót."
+}

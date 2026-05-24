@@ -1,0 +1,17 @@
+{
+  "id": "argo",
+  "lang": "en",
+  "title": "Argo",
+  "subtitle": "The story of one tragedy — in epigraphs and quotations",
+  "author": "Eugene Lyssovsky, Lara (Aelyss)",
+  "date": "2010–2026",
+  "category": "novella",
+  "genre": "Space Opera / Cosmic Horror",
+  "chapters": [
+    {"id": "section_01", "title": "Act One: Brothers", "file": "works/argo/en/section_01.html"},
+    {"id": "section_02", "title": "Act Two: Casket", "file": "works/argo/en/section_02.html"},
+    {"id": "section_03", "title": "Act Three: Darkness", "file": "works/argo/en/section_03.html"},
+    {"id": "section_04", "title": "Epilogue: Keepers", "file": "works/argo/en/section_04.html"}
+  ],
+  "description": "A first-contact war that humanity won, a casket the losers should never have opened, and the kind of weapon a defeated race uses when memory itself has become a battleground. Told entirely in reports, dispatches, ship's logs and torn fragments — the way history actually survives."
+}
