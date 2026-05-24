@@ -1,0 +1,21 @@
+{
+  "id": "khroniki-zolotogo-dola",
+  "title": "Biên niên sử Thung lũng Vàng",
+  "author": "Eugene Lyssovsky",
+  "year": "2013",
+  "lang": "vi",
+  "sections": [
+    {"file": "section_01.html", "title": "Lời mở đầu"},
+    {"file": "section_02.html", "title": "Chương 1"},
+    {"file": "section_03.html", "title": "Chương 2"},
+    {"file": "section_04.html", "title": "Chương 3"},
+    {"file": "section_05.html", "title": "Chương 4"},
+    {"file": "section_06.html", "title": "Chương 5"},
+    {"file": "section_07.html", "title": "Chương 6"},
+    {"file": "section_08.html", "title": "Chương 7"},
+    {"file": "section_09.html", "title": "Chương 8"},
+    {"file": "section_10.html", "title": "Chương 9"},
+    {"file": "section_11.html", "title": "Chương 10"},
+    {"file": "section_12.html", "title": "Chương 11"}
+  ]
+}

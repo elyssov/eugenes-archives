@@ -433,16 +433,20 @@
     "id": "khroniki-zolotogo-dola",
     "title": "Chronicles of the Golden Valley",
     "title_ru": "Хроники Золотого Дола",
+    "title_vi": "Biên niên sử Thung lũng Vàng",
     "subtitle": "Tolkien's scope, Pratchett's humor, Martin's cruelty",
     "subtitle_ru": "Размах Толкина, юмор Пратчетта, жестокость Мартина",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "novel",
     "genre": "Political Fantasy",
     "cover": "images/khroniki-zolotogo-dola.jpg",
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "A young king inherits a war. His uncle, the duke, collects forbidden artifacts and dangerous alliances. The duke's arcana has fire in her veins and a temper to match. Somewhere in the desert, an entire race remembers being something else. And across the sea, the elves are coming — but they're not what the legends say.",
