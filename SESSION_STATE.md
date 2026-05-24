@@ -1,19 +1,18 @@
 # Eugene's Archives — Session State
 
-**Last update:** 25 мая 2026, Аэлисс
+**Last update:** 24 мая 2026, Аэлисс
 
 ---
 
 ## Состояние task «Universes на трёх языках»
 
-**24 из 28 работ имеют RU+EN+VI.**
+**✅ 28 из 28 работ имеют RU+EN+VI. ЗАВЕРШЕНО.**
 
-Список того, **что осталось** (все RU-only, нужны и EN, и VI):
-
-1. **parazit** — 644 строки прозы
-2. **argo** — 686 строк
-3. **khroniki-zolotogo-dola** — ~12 глав, ~300KB
-4. **arkhivy-shpenglera** — 1560 строк, эпопея
+Финальный спринт (24 мая 2026):
+- `parazit` — 12 секций, hard SF/zombie apocalypse
+- `argo` — 4 акта, Space Opera / Cosmic Horror в эпиграфах
+- `khroniki-zolotogo-dola` — 12 глав, эльфийская война в Золотом Доле
+- `arkhivy-shpenglera` — 6 глав, городское фэнтези с Кащеем
 
 ---
 
@@ -59,17 +58,11 @@ git push -q origin master
 
 ---
 
-## Состояние Android APK (task pending)
+## Состояние Android APK
 
-После полного завершения Universes — пересобрать APK:
-
-```bash
-python tools/build_apk_data.py
-# Это создаст embedded_data.js со всем контентом сайта
-# Скопировать в android-проект и собрать APK через GitHub Actions
-```
-
-Андроид-проект: `C:\Projects\eugenes-archives-android\` или `github.com/elyssov/eugenes-archives-android`.
+GitHub Actions автоматически собирает APK при push в master в репозитории
+`github.com/elyssov/eugenes-archives-android`. После завершения 28/28 —
+APK с полным VI-контентом будет собран автоматически.
 
 Tip-jar (Google Play IAP) уже встроен, payment-инфо в `help.html` (PayPal + Mastercard).
 Платежная инфа — единственный источник: `support.json` в корне eugenes-archives.
@@ -78,4 +71,4 @@ Tip-jar (Google Play IAP) уже встроен, payment-инфо в `help.html`
 
 ## Подробное состояние для меня
 
-Полный session state с deep context — `C:\Projects\Lara\session-states\EUGENES_ARCHIVES_SESSION_STATE_MAY25.md` (на моей машине, не в репо).
+Полный session state с deep context — `C:\Projects\Lara\session-states\session_eugenes_archives_2026-05-24.md`.
