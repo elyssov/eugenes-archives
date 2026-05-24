@@ -264,20 +264,25 @@
     "id": "parazit",
     "title": "The Parasite",
     "title_ru": "Паразит",
+    "title_vi": "Ký sinh",
     "subtitle": "They were already inside us",
     "subtitle_ru": "Они уже были внутри нас",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "novel",
     "genre": "Hard SF / Zombie",
     "cover": "images/parazit.jpg",
     "languages": [
-      "ru"
+      "en",
+      "ru",
+      "vi"
     ],
     "original_lang": "ru",
     "description": "For five years, something colonized every human on Earth. Nobody noticed. When the timer hits zero, the dead begin to rise. But that's just phase one. Phase two is worse. Phase three is the one nobody saw coming — and the only people who might hold the cure are the ones humanity never thought to protect.",
-    "description_ru": "Пять лет нечто колонизировало каждого человека на Земле. Никто не заметил. Когда таймер обнуляется, мёртвые начинают вставать. Но это лишь первая фаза. Вторая — хуже. Третья — та, которую никто не предвидел. И единственные, кто может нести в себе лекарство — те, кого человечество никогда не додумалось защитить."
+    "description_ru": "Пять лет нечто колонизировало каждого человека на Земле. Никто не заметил. Когда таймер обнуляется, мёртвые начинают вставать. Но это лишь первая фаза. Вторая — хуже. Третья — та, которую никто не предвидел. И единственные, кто может нести в себе лекарство — те, кого человечество никогда не додумалось защитить.",
+    "description_vi": "Ký sinh — Hard SF / tận thế zombie. Nhà khoa học chứng kiến thế giới gục trước ký sinh không phải ký sinh. Rồi thấy nó dậy lên như cái gì tồi tệ hơn. Và tồi tệ hơn. Năm thế hệ kinh hoàng, kết thúc nơi nó bắt đầu — một mình, với một người chết duy nhất còn lại."
   },
   {
     "id": "dnevnik",
