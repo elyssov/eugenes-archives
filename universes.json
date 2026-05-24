@@ -75,21 +75,25 @@
     "id": "igra",
     "title": "The Game",
     "title_ru": "Игра",
+    "title_vi": "Trò chơi",
     "subtitle": "Airsoft turns real in a haunted asylum",
     "subtitle_ru": "Страйкбол становится реальностью в заброшенной психбольнице",
     "author": "Eugene Lyssovsky",
     "author_ru": "Евгений Лисовский",
+    "author_vi": "Eugene Lyssovsky",
     "date": "2020-2024",
     "category": "novella",
     "genre": "Survival Horror",
     "cover": "images/igra.jpg",
     "languages": [
+      "en",
       "ru",
-      "en"
+      "vi"
     ],
     "original_lang": "ru",
     "description": "An airsoft team enters an abandoned asylum for a weekend exercise. The rules are simple: plastic BBs, honour kills, last man standing buys beer. By midnight, the rules have changed. The walls are bleeding. And the man they call \"The Cat\" discovers his toy gun works just fine — against things that have no business existing.",
-    "description_ru": "Страйкбольная команда заходит в заброшенную психбольницу на выходные. Правила простые: пластиковые шарики, честные поражения, проигравший ставит пиво. К полуночи правила меняются. Стены кровоточат. И человек по кличке «Кот» обнаруживает, что его игрушечное оружие прекрасно работает — против того, чего не должно существовать."
+    "description_ru": "Страйкбольная команда заходит в заброшенную психбольницу на выходные. Правила простые: пластиковые шарики, честные поражения, проигравший ставит пиво. К полуночи правила меняются. Стены кровоточат. И человек по кличке «Кот» обнаруживает, что его игрушечное оружие прекрасно работает — против того, чего не должно существовать.",
+    "description_vi": "Một đội airsoft vào trại tâm thần bỏ hoang cho buổi tập cuối tuần. Đến nửa đêm, luật chơi đã thay đổi."
   },
   {
     "id": "kipyatok",

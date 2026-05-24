@@ -1,0 +1,17 @@
+{
+  "id": "igra",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Trò chơi",
+      "file": "works/igra/vi/section_01.html"
+    }
+  ],
+  "title": "Trò chơi",
+  "author": "Eugene Lyssovsky",
+  "date": "2020-2024",
+  "category": "novella",
+  "genre": "Survival Horror",
+  "description": "Một đội airsoft vào trại tâm thần bỏ hoang cho buổi tập cuối tuần. Đến nửa đêm, luật chơi đã thay đổi."
+}
