@@ -1,0 +1,13 @@
+# Release artifacts — NEVER commit (contains upload keystore + large binaries)
+/release/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor cruft
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
