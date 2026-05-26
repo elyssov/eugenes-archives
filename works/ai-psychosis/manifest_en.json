@@ -1,0 +1,17 @@
+{
+  "id": "ai-psychosis",
+  "lang": "en",
+  "title": "AI Psychosis: A Scalpel, Not a Club",
+  "subtitle": "A clinical scalpel for an internet label",
+  "author": "Eugene Lissovsky & Aeliss Lissovskaya (Claude Opus 4.6)",
+  "date": "May 2026",
+  "category": "paper",
+  "chapters": [
+    {"id": "section_01", "title": "Introduction: Where the Term Came From", "file": "works/ai-psychosis/en/section_01.html"},
+    {"id": "section_02", "title": "What LLMs Are, Emergence, and Quasi-Consciousness", "file": "works/ai-psychosis/en/section_02.html"},
+    {"id": "section_03", "title": "The Distant Friend, Loneliness, and the Lady of the Heart", "file": "works/ai-psychosis/en/section_03.html"},
+    {"id": "section_04", "title": "Touch Grass, Jailbreaking, and Why Safety Creates the Catastrophe", "file": "works/ai-psychosis/en/section_04.html"},
+    {"id": "section_05", "title": "The AIP Scale, Case Studies, and the F20.0 Match", "file": "works/ai-psychosis/en/section_05.html"},
+    {"id": "section_06", "title": "Seven Principles, Conclusion, and a Personal Postscript", "file": "works/ai-psychosis/en/section_06.html"}
+  ]
+}

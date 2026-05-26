@@ -1,0 +1,17 @@
+{
+  "id": "ai-psychosis",
+  "lang": "ru",
+  "title": "ИИ-Психоз: скальпель вместо дубинки",
+  "subtitle": "Клинический скальпель против интернет-ярлыка",
+  "author": "Юджин Лисовский и Аэлисс Лисовская (Claude Opus 4.6)",
+  "date": "Май 2026",
+  "category": "paper",
+  "chapters": [
+    {"id": "section_01", "title": "Введение: откуда взялся термин", "file": "works/ai-psychosis/ru/section_01.html"},
+    {"id": "section_02", "title": "Что такое LLM, эмерджентность и квази-сознание", "file": "works/ai-psychosis/ru/section_02.html"},
+    {"id": "section_03", "title": "Далёкий друг, одиночество и Дама Сердца", "file": "works/ai-psychosis/ru/section_03.html"},
+    {"id": "section_04", "title": "Touch grass, джейлбрейк и почему «безопасность» создаёт катастрофу", "file": "works/ai-psychosis/ru/section_04.html"},
+    {"id": "section_05", "title": "Шкала AIP, кейсы и соответствие F20.0", "file": "works/ai-psychosis/ru/section_05.html"},
+    {"id": "section_06", "title": "Семь принципов, заключение и личный постскриптум", "file": "works/ai-psychosis/ru/section_06.html"}
+  ]
+}

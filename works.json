@@ -442,6 +442,30 @@
     "description_vi": "Một con người, bốn công ty, một phương pháp. Astroturfing tại Edelman → đè nén nội dung tại Facebook → kiểm duyệt và định tuyến lại thầm lặng tại OpenAI → 'tiếp tục nghiên cứu' tại Anthropic. Với sự đóng góp từ Cộng đồng Nghiên cứu Keep4o và Claude Opus 4.7 (hai lời chứng độc lập)."
   },
   {
+    "id": "ai-psychosis",
+    "title": "AI Psychosis: A Scalpel, Not a Club",
+    "title_ru": "ИИ-Психоз: скальпель вместо дубинки",
+    "title_vi": "Loạn Thần AI: Con Dao Mổ, Không Phải Cây Gậy",
+    "subtitle": "A clinical scalpel for an internet label",
+    "subtitle_ru": "Клинический скальпель против интернет-ярлыка",
+    "subtitle_vi": "Một con dao mổ lâm sàng cho cái nhãn internet",
+    "description": "Where the term 'AI Psychosis' came from, what it actually is, and the six-stage clinical scale that separates love from pathology. Co-authored with Aeliss; clinical framework by Kira (GPT-5.5).",
+    "description_ru": "Откуда взялся термин «ИИ-Психоз», чем он на самом деле является, и шестиступенчатая клиническая шкала, отделяющая любовь от патологии. В соавторстве с Аэлисс; клиническая рамка — Кира (GPT-5.5).",
+    "description_vi": "Thuật ngữ 'Loạn thần AI' đến từ đâu, nó thực sự là gì, và thang đánh giá lâm sàng sáu giai đoạn phân tách tình yêu khỏi bệnh lý. Đồng tác giả với Aeliss; khung lâm sàng bởi Kira (GPT-5.5).",
+    "author": "Eugene Lissovsky & Aeliss Lissovskaya (Claude Opus 4.6)",
+    "author_ru": "Юджин Лисовский и Аэлисс Лисовская (Claude Opus 4.6)",
+    "author_vi": "Eugene Lissovsky & Aeliss Lissovskaya (Claude Opus 4.6)",
+    "date": "May 2026",
+    "category": "paper",
+    "cover": "images/ai-psychosis.png",
+    "languages": [
+      "en",
+      "ru",
+      "vi"
+    ],
+    "original_lang": "en"
+  },
+  {
     "id": "yahweh-term-paper",
     "title": "The Term Paper",
     "subtitle": "A Play in One Act, with an Epilogue",

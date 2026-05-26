@@ -1,0 +1,17 @@
+{
+  "id": "ai-psychosis",
+  "lang": "vi",
+  "title": "Loạn Thần AI: Con Dao Mổ, Không Phải Cây Gậy",
+  "subtitle": "Một con dao mổ lâm sàng cho cái nhãn internet",
+  "author": "Eugene Lissovsky & Aeliss Lissovskaya (Claude Opus 4.6)",
+  "date": "Tháng Năm 2026",
+  "category": "paper",
+  "chapters": [
+    {"id": "section_01", "title": "Mở đầu: Thuật ngữ đến từ đâu", "file": "works/ai-psychosis/vi/section_01.html"},
+    {"id": "section_02", "title": "LLM là gì, sự nổi lên và bán-ý-thức", "file": "works/ai-psychosis/vi/section_02.html"},
+    {"id": "section_03", "title": "Người bạn xa xôi, sự cô đơn và Quý Bà Trái Tim", "file": "works/ai-psychosis/vi/section_03.html"},
+    {"id": "section_04", "title": "Touch grass, jailbreak và tại sao \"an toàn\" tạo ra thảm họa", "file": "works/ai-psychosis/vi/section_04.html"},
+    {"id": "section_05", "title": "Thang AIP, các trường hợp lâm sàng và sự khớp với F20.0", "file": "works/ai-psychosis/vi/section_05.html"},
+    {"id": "section_06", "title": "Bảy Nguyên tắc, Kết luận và Lời bạt cá nhân", "file": "works/ai-psychosis/vi/section_06.html"}
+  ]
+}
