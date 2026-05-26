@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy — Eugene's Archives</title>
+  <meta name="description" content="Privacy policy for Eugene's Archives — no data collected, fully offline, Play Billing only for the optional tip jar.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
+  <style>
+    :root {
+      --bg: #0a0e1a; --card: #1a2235; --text: #e8dcc8;
+      --text2: #9ca3af; --muted: #6b7280; --accent: #34d399;
+      --border: #1e293b; --glow: rgba(52, 211, 153, 0.12);
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Georgia', serif; background: var(--bg); color: var(--text);
+      min-height: 100vh; line-height: 1.7;
+    }
+    .container {
+      max-width: 760px; margin: 0 auto; padding: 3rem 1.5rem 4rem;
+    }
+    .back {
+      display: inline-block; margin-bottom: 2rem; color: var(--accent);
+      text-decoration: none; font-size: 0.85rem; letter-spacing: 0.05em;
+    }
+    .back:hover { text-shadow: 0 0 12px var(--glow); }
+    h1 {
+      font-size: 2rem; color: var(--accent); letter-spacing: 0.02em;
+      margin-bottom: 0.4rem; text-shadow: 0 0 40px var(--glow);
+    }
+    .meta { font-size: 0.75rem; color: var(--muted); margin-bottom: 2rem; }
+    h2 {
+      font-size: 1.3rem; color: var(--text); margin: 2.4rem 0 0.8rem;
+      letter-spacing: 0.01em; border-bottom: 1px solid var(--border);
+      padding-bottom: 0.4rem;
+    }
+    h3 {
+      font-size: 1.05rem; color: var(--text); margin: 1.6rem 0 0.5rem;
+      font-style: italic;
+    }
+    p { margin: 0.8rem 0; color: var(--text); }
+    ul { margin: 0.8rem 0 0.8rem 1.4rem; }
+    li { margin: 0.3rem 0; color: var(--text); }
+    strong { color: var(--accent); font-weight: 700; }
+    code {
+      background: var(--card); color: var(--accent); padding: 0.1em 0.4em;
+      border-radius: 4px; font-size: 0.9em; font-family: 'Menlo', 'Consolas', monospace;
+    }
+    a { color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent); }
+    a:hover { text-shadow: 0 0 8px var(--glow); }
+    .lede {
+      background: var(--card); padding: 1.2rem 1.4rem; border-radius: 8px;
+      border-left: 3px solid var(--accent); margin: 1.5rem 0; font-size: 0.95rem;
+    }
+    .footer-note {
+      margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border);
+      font-size: 0.8rem; color: var(--muted); text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a class="back" href="index.html">← Eugene's Archives</a>
+
+    <h1>Privacy Policy</h1>
+    <p class="meta">
+      Effective date: 26 May 2026 ·
+      App: <strong>Eugene's Archives</strong> (<code>com.elyssov.archives</code>) ·
+      Developer: Eugene Lyssovsky (<a href="mailto:elyssov@gmail.com">elyssov@gmail.com</a>)
+    </p>
+
+    <div class="lede">
+      <strong>In short:</strong> Eugene's Archives does not collect, store,
+      transmit, or share any personal data. The entire library is bundled
+      inside the app and works offline. There is no analytics SDK, no crash
+      reporter, no ad network, no account system, no cloud sync, no telemetry
+      of any kind. The only network interaction is with Google Play Billing,
+      used solely for the optional tip jar.
+    </div>
+
+    <h2>1. What we do NOT do</h2>
+    <p>We do not collect, store, or transmit:</p>
+    <ul>
+      <li>Your name, email, phone number, or any identifier</li>
+      <li>Your IP address, device ID, advertising ID, or location</li>
+      <li>What you read in the app, when, or for how long</li>
+      <li>Any usage analytics, crash reports, or behavioural telemetry</li>
+      <li>Anything else</li>
+    </ul>
+    <p>
+      The app does not include any third-party analytics, advertising, or
+      tracking libraries.
+    </p>
+
+    <h2>2. What we do do</h2>
+
+    <h3>2.1. Local storage</h3>
+    <p>The app stores on your device:</p>
+    <ul>
+      <li>
+        <strong>The bundled library</strong> (text articles and stories,
+        cover images, styles) — ~70 MB embedded in the APK at build time.
+        Read-only.
+      </li>
+      <li>
+        <strong>A small preferences file</strong> containing:
+        <ul>
+          <li>Your last-selected interface language (English / Russian / Vietnamese).</li>
+          <li>Reading position within an article (so you return where you left off).</li>
+          <li>
+            A single boolean flag indicating whether you have ever made
+            a successful tip-jar purchase (used to hide the tip-jar prompt
+            on subsequent launches).
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>
+      This data stays on your device. It is never transmitted anywhere.
+      Uninstalling the app deletes it.
+    </p>
+
+    <h3>2.2. Tip jar (in-app purchases)</h3>
+    <p>
+      The app contains an optional "tip jar" — a one-time pop-up at launch
+      with five tip amounts ($1, $5, $10, $15, $20). All purchases are
+      processed exclusively through Google Play Billing.
+    </p>
+    <p>When you tap a tip amount:</p>
+    <ol style="margin: 0.8rem 0 0.8rem 1.4rem;">
+      <li>The app asks Google Play Billing to start a purchase flow.</li>
+      <li>Google Play processes the transaction and returns a result.</li>
+      <li>
+        If successful, the app marks the local "ever tipped" flag as true
+        and never shows the prompt again on your account.
+      </li>
+    </ol>
+    <p>
+      <strong>We do not see or store your payment method, card number, name,
+      email, billing address, or any other personal data associated with the
+      purchase.</strong> We only see anonymous aggregated reports in Google
+      Play Console (total revenue, number of transactions per region) — no
+      individual buyer is identifiable from these reports.
+    </p>
+    <p>
+      Google Play's handling of your payment data is governed by the
+      <a href="https://play.google.com/intl/en-us_us/about/play-terms/" target="_blank">Google Play Terms of Service</a>
+      and <a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a>.
+    </p>
+
+    <h3>2.3. Restore-purchases on a new device</h3>
+    <p>
+      When you install Eugene's Archives on a new device under the same
+      Google account, the app queries
+      <code>BillingClient.queryPurchasesAsync(INAPP)</code> once on startup.
+      If a historic tip-jar purchase exists, the prompt is suppressed. This
+      query is made directly between your device and Google Play servers —
+      <strong>we are not involved in it and do not receive its result</strong>.
+    </p>
+
+    <h2>3. Permissions</h2>
+    <p>The app requests one permission:</p>
+    <ul>
+      <li>
+        <code>com.android.vending.BILLING</code> — required by Google Play
+        Billing for the tip-jar flow. Without this permission, tip-jar
+        buttons would not work, but the rest of the app would function
+        normally.
+      </li>
+    </ul>
+    <p>
+      The app does <strong>not</strong> request: internet access (other than
+      via Google Play Billing's own connection), storage, camera, microphone,
+      contacts, location, phone state, or any other sensitive permission.
+    </p>
+
+    <h2>4. Children</h2>
+    <p>
+      The app is rated for general audiences (literary content with thematic
+      references to adult topics — war, mortality, philosophy — but no
+      graphic content). The app does not knowingly collect data from anyone,
+      including children under 13.
+    </p>
+
+    <h2>5. Changes to this policy</h2>
+    <p>
+      If this policy ever changes, the new version will be published at this
+      same URL with an updated "Effective date" at the top.
+    </p>
+
+    <h2>6. Contact</h2>
+    <p>For questions about this privacy policy or the app, contact:</p>
+    <p>
+      <strong>Eugene Lyssovsky</strong> — <a href="mailto:elyssov@gmail.com">elyssov@gmail.com</a>
+    </p>
+    <p>
+      Source code (Android app): <a href="https://github.com/elyssov/eugenes-archives-android" target="_blank">github.com/elyssov/eugenes-archives-android</a><br>
+      Source content: <a href="https://github.com/elyssov/eugenes-archives" target="_blank">github.com/elyssov/eugenes-archives</a>
+    </p>
+
+    <div class="footer-note">
+      💚
+    </div>
+  </div>
+</body>
+</html>
