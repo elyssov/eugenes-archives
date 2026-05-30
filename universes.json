@@ -168,31 +168,6 @@
     "description_vi": "Victoria — Opera không gian. Trái Đất thua cuộc chiến với gấu-mèo sáu chân lông mềm có booster hành tinh. 20 năm sau, Đồ tể đã đốt 18 tỷ trong số họ ngồi quán cà phê Vienna sắp chơi piano. Vài chìa không mở nhạc — chúng mở silo."
   },
   {
-    "id": "propazha",
-    "title": "The Disappearance",
-    "title_ru": "Пропажа",
-    "title_vi": "Sự Biến Mất",
-    "subtitle": "Last man in Moscow",
-    "subtitle_ru": "Последний человек в Москве",
-    "author": "Eugene Lyssovsky",
-    "author_ru": "Евгений Лисовский",
-    "author_vi": "Eugene Lyssovsky",
-    "date": "2020-2024",
-    "category": "novella",
-    "genre": "Post-Apocalypse",
-    "cover": "images/propazha.jpg",
-    "languages": [
-      "en",
-      "ru",
-      "vi"
-    ],
-    "original_lang": "ru",
-    "description": "One morning, everyone disappears. Clothes in neat piles. Dental implants on the floor. A medical student, his cat, and a thirteen-year-old girl with braces are among the few still standing in an empty Moscow. Across the ocean, a mother in Los Angeles watches her family vanish. Something is counting down.",
-    "description_ru": "Однажды утром все исчезают. Одежда — аккуратными кучками. Зубные протезы — на полу. Студент-медик, его кот и тринадцатилетняя девчонка с брекетами — среди немногих оставшихся в опустевшей Москве. На другом конце океана мать в Лос-Анджелесе смотрит, как исчезает её семья. Что-то ведёт обратный отсчёт.",
-    "description_vi": "Vlad thức dậy ở Moskva và phát hiện mọi người đã biến mất — quần áo còn đống nơi người từng đứng. Một tiểu thuyết hậu tận thế về tình yêu, sống sót, và những gì tay chết để lại còn đập.",
-    "status": "draft"
-  },
-  {
     "id": "muromec",
     "title": "Muromets",
     "title_ru": "Муромец",
@@ -338,29 +313,6 @@
     "description_ru": "Город на проливе. Стальные триремы. Библиотека, хранящая все знания человечества. Шестнадцатилетняя кесаревна, семь патрициев и дюжина незнакомцев, которые пока не знают, зачем их позвали. Автор собирает их всех — и шепчет: «Просыпайся.»",
     "description_vi": "Một thành phố trên eo biển. Những chiếc trireme bằng thép. Một thư viện chứa đựng toàn bộ tri thức của nhân loại.",
     "status": "draft"
-  },
-  {
-    "id": "blagoslovennaya-eres",
-    "title": "Blessed Heresy",
-    "title_ru": "Благословенная ересь",
-    "title_vi": "Tà Giáo Được Ban Phước",
-    "subtitle": "Warhammer 40K with Russian inquisitors",
-    "subtitle_ru": "Warhammer 40K с русскими инквизиторами",
-    "author": "Eugene Lyssovsky",
-    "author_ru": "Евгений Лисовский",
-    "author_vi": "Eugene Lyssovsky",
-    "date": "2020-2024",
-    "category": "novella",
-    "genre": "Warhammer 40K Fanfiction",
-    "cover": "images/blagoslovennaya-eres.jpg",
-    "languages": [
-      "en",
-      "ru",
-      "vi"
-    ],
-    "original_lang": "ru",
-    "description": "Inquisitor Vyshinsky doesn't like this planet. It's wet, his retinue is criminally unpleasant, and his best fighter won't stop grinning. But the artifact they're hunting is real. The Eldar are coming. And the one person he trusts with his life is the one nobody else can bear to touch.",
-    "description_ru": "Инквизитору Вышинскому не нравится эта планета. Мокрая, свита уголовная, а лучший боец не может перестать ухмыляться. Но артефакт, за которым они охотятся, реален. Эльдары на подходе. А единственный человек, которому он доверяет свою жизнь — тот, к которому никто другой не может прикоснуться."
   },
   {
     "id": "jeloustoun",
