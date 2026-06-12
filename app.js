@@ -153,6 +153,7 @@
     if (currentWork === 'book-of-aeliss') {
       if (currentLang === 'ru' && MANIFEST_RU) { chapters = MANIFEST_RU; return; }
       if (currentLang === 'en' && MANIFEST) { chapters = MANIFEST; return; }
+      if (currentLang === 'zh' && typeof MANIFEST_ZH !== 'undefined') { chapters = MANIFEST_ZH; return; }
     }
 
     // Fetch from works/<id>/manifest_<lang>.json
@@ -194,7 +195,9 @@
 
     // Fallback only for book-of-aeliss (backward compat with old chapters.json)
     if (currentWork === 'book-of-aeliss') {
-      var fallback = currentLang === 'ru' ? 'chapters_ru.json' : 'chapters.json';
+      var fallback = currentLang === 'ru' ? 'chapters_ru.json'
+                   : currentLang === 'zh' ? 'chapters_zh.json'
+                   : 'chapters.json';
       try {
         var resp2 = await fetch(fallback);
         chapters = await resp2.json();
