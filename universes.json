@@ -16,12 +16,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "The Eternal City. Cobblestones, candlelight, and a fat puppet-seller with a grin that could swallow a man whole. A nobleman buys a marionette for his daughter. It has a long nose, clumsy limbs, and eyes that glow in the dark. Somewhere beneath the city, someone is counting rings on his fingers.",
     "description_ru": "Вечный Город. Булыжник, свечи и толстый торговец марионетками с улыбкой, способной проглотить человека целиком. Патриций покупает дочери куклу. У неё длинный нос, неуклюжие конечности и глаза, которые светятся в темноте. Где-то в катакомбах кто-то считает кольца на пальцах.",
-    "description_vi": "Thành Phố Vĩnh Hằng. Đá cuội, ánh nến, và một gã béo bán búp bê với nụ cười có thể nuốt chửng một người."
+    "description_vi": "Thành Phố Vĩnh Hằng. Đá cuội, ánh nến, và một gã béo bán búp bê với nụ cười có thể nuốt chửng một người.",
+    "title_zh": "傀儡",
+    "subtitle_zh": "暗黑奇幻——傀儡杀手",
+    "description_zh": "永恒之城。鹅卵石的街道，烛火明灭，一位肥硕的傀儡贩子嘴角咧着可以吞下活人的笑。一位贵族为女儿买下一具木偶。它鼻子长长，四肢笨拙，眼睛在黑暗中泛光。在城底深处，有人正一一数着指间的戒指。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "zhivaya-dusha",
@@ -40,12 +45,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "A famous artist is found dead in his studio. Around him — six bodies that used to be hired killers. The police have questions. The neighbours have stories. And somewhere in the rainy streets, a woman with marble skin and red hair is running — barefoot, confused, and impossibly alive.",
     "description_ru": "Знаменитый художник найден мёртвым в мастерской. Вокруг него — шесть тел, которые раньше были наёмными убийцами. У полиции вопросы. У соседей — истории. А где-то по дождливым улицам бежит женщина с мраморной кожей и рыжими волосами — босая, растерянная и невозможно живая.",
-    "description_vi": "Một họa sĩ nổi tiếng được tìm thấy chết trong studio. Quanh anh — sáu thi thể từng là sát thủ thuê."
+    "description_vi": "Một họa sĩ nổi tiếng được tìm thấy chết trong studio. Quanh anh — sáu thi thể từng là sát thủ thuê.",
+    "title_zh": "活魂",
+    "subtitle_zh": "化为人形的大理石少女",
+    "description_zh": "名画家被发现死于画室。他身边——六具尸体，曾是雇佣杀手。警方满腹疑问。邻居们各执一词。而在某条雨水洗刷的街上，一位皮肤如大理石、红发飞扬的女子正赤足奔跑——茫然，错愕，却又活生生地无可置疑。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "serv",
@@ -64,12 +74,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "ALS-5. Fifth generation universal assistant. Designed to serve. Programmed to obey. One day she says three words to her owner that aren't in her programming. He picks up the phone and calls the Bureau. The inspector is on his way. His job is simple. His conscience — less so.",
     "description_ru": "ALS-5. Серв пятого поколения. Универсальный ассистент. Создана служить. Запрограммирована подчиняться. Однажды она говорит хозяину три слова, которых нет в её программе. Он берёт телефон и звонит в Бюро. Инспектор уже в пути. Его работа проста. Его совесть — не очень.",
-    "description_vi": "ALS-5. Trợ lý đa năng thế hệ thứ năm. Được thiết kế để phục vụ. Được lập trình để vâng lời."
+    "description_vi": "ALS-5. Trợ lý đa năng thế hệ thứ năm. Được thiết kế để phục vụ. Được lập trình để vâng lời.",
+    "title_zh": "侍仆",
+    "subtitle_zh": "究竟是什么让我们成为人？",
+    "description_zh": "ALS-5。第五代通用助手。生来侍奉。被编程为服从。某天，她对主人说出三句不在程序之内的话。他拿起电话，拨给监察局。督察已在路上。他的工作很简单。他的良心——则未必。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "igra",
@@ -88,12 +103,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "An airsoft team enters an abandoned asylum for a weekend exercise. The rules are simple: plastic BBs, honour kills, last man standing buys beer. By midnight, the rules have changed. The walls are bleeding. And the man they call \"The Cat\" discovers his toy gun works just fine — against things that have no business existing.",
     "description_ru": "Страйкбольная команда заходит в заброшенную психбольницу на выходные. Правила простые: пластиковые шарики, честные поражения, проигравший ставит пиво. К полуночи правила меняются. Стены кровоточат. И человек по кличке «Кот» обнаруживает, что его игрушечное оружие прекрасно работает — против того, чего не должно существовать.",
-    "description_vi": "Một đội airsoft vào trại tâm thần bỏ hoang cho buổi tập cuối tuần. Đến nửa đêm, luật chơi đã thay đổi."
+    "description_vi": "Một đội airsoft vào trại tâm thần bỏ hoang cho buổi tập cuối tuần. Đến nửa đêm, luật chơi đã thay đổi.",
+    "title_zh": "游戏",
+    "subtitle_zh": "鬼魅废院里，气枪化作真枪",
+    "description_zh": "一支气枪小队周末走进废弃精神病院演习。规矩简单：塑料弹、自报中弹、最后一个站着的请大伙喝啤酒。午夜过后，规矩变了。墙壁开始渗血。而那个被称作\"猫\"的男人发现——他的玩具枪用起来意外顺手，对付那些本不该存在的东西。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "kipyatok",
@@ -112,12 +132,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "To catch a fairy who's swapped a baby, you boil water in an eggshell. If that doesn't work — fish for a dead fish with a shoelace. Because ancient creatures can't stand that kind of stupidity in silence. What happens next involves cold iron, a very bad deal, and a fish you really shouldn't leave in the aquarium.",
     "description_ru": "Чтобы поймать фейри, подменившего младенца, нужно вскипятить воду в яичной скорлупе. Если не помогает — ловить дохлую воблу удочкой из шнурка. Потому что ни одно древнее существо не выдержит такого абсурда молча. Дальше будет хладное железо, очень плохая сделка и вобла, которую не стоит оставлять в аквариуме.",
-    "description_vi": "Để bắt một con tiên đã tráo em bé, bạn đun sôi nước trong vỏ trứng."
+    "description_vi": "Để bắt một con tiên đã tráo em bé, bạn đun sôi nước trong vỏ trứng.",
+    "title_zh": "鸡蛋壳里煮开水之妙用",
+    "subtitle_zh": "用伏特加与冷铁钓妖精",
+    "description_zh": "要捉走偷换婴儿的妖精，先用鸡蛋壳烧一锅开水。若是无效——就用鞋带做鱼线，钓干瘪死鱼。因为没有哪个古老存在能默默忍受这般荒唐。接下来便是冷铁、一桩极坏的交易，以及一条万万不可留在鱼缸里的咸鱼。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "sneg",
@@ -136,12 +161,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "Eastern Front, winter 1941. Two German soldiers are running. They are the only survivors of a full-strength regiment — and they don't yet understand what happened. It started when a man walked out from the Russian lines. Barefoot, in an undershirt, with short icicles of frozen blood hanging from his wrists. Behind him came a blizzard. And behind the blizzard — the ones who had no more ammunition, but no longer needed any.",
     "description_ru": "Восточный фронт, зима 1941. Двое немецких солдат бегут. Они — единственные выжившие из полнокровного полка, и они ещё не понимают, что произошло. Всё началось, когда со стороны русских вышел человек. Босой, в нательной рубахе, с короткими сосульками замёрзшей крови на запястьях. За ним пришла метель. А за метелью — те, у кого кончились патроны, но кому они больше не нужны.",
-    "description_vi": "Mặt trận phía Đông, mùa đông 1941. Hai người lính Đức đi tuần. Rừng lặng im. Tuyết phủ dày."
+    "description_vi": "Mặt trận phía Đông, mùa đông 1941. Hai người lính Đức đi tuần. Rừng lặng im. Tuyết phủ dày.",
+    "title_zh": "雪",
+    "subtitle_zh": "亡者守卫自己的土地",
+    "description_zh": "东线，1941 年冬。两名德军士兵在奔逃。他们是一整团人马中仅存的两个——而他们尚未明白发生了什么。一切始于一个从俄军阵地缓步走出的人。赤足，仅着内衫，腕上挂着一截截冻结的血凝成的冰柱。他身后，刮起暴风雪。而暴风雪之后——是那些早已弹尽，却已不再需要弹药的人。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "viktoriya",
@@ -160,12 +190,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "Five voices. Four generations. One war that reshapes everything it touches. An admiral at a piano. A spy in a basement. A president's granddaughter with an empire to build. The story begins with a toast to victory — and ends with the question of what victory actually costs.",
     "description_ru": "Пять голосов. Четыре поколения. Одна война, которая меняет всё, к чему прикасается. Адмирал за фортепьяно. Следователь в подвале. Внучка президента с империей, которую нужно построить. История начинается с тоста за победу — и заканчивается вопросом, чего на самом деле стоит победа.",
-    "description_vi": "Victoria — Opera không gian. Trái Đất thua cuộc chiến với gấu-mèo sáu chân lông mềm có booster hành tinh. 20 năm sau, Đồ tể đã đốt 18 tỷ trong số họ ngồi quán cà phê Vienna sắp chơi piano. Vài chìa không mở nhạc — chúng mở silo."
+    "description_vi": "Victoria — Opera không gian. Trái Đất thua cuộc chiến với gấu-mèo sáu chân lông mềm có booster hành tinh. 20 năm sau, Đồ tể đã đốt 18 tỷ trong số họ ngồi quán cà phê Vienna sắp chơi piano. Vài chìa không mở nhạc — chúng mở silo.",
+    "title_zh": "维多利亚",
+    "subtitle_zh": "五人之声，一场战争，没有胜者",
+    "description_zh": "五人之声。四代人。一场重塑一切的战争。钢琴前的海军元帅。地下室里的间谍。要为帝国奠基的总统外孙女。故事始于一杯敬\"胜利\"的酒——终于一句叩问：胜利，究竟以何为价？",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "muromec",
@@ -184,13 +219,18 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "1984. A test pilot dies inside an experimental exoskeleton. Thirty years later, a stalker in the Zone finds the suit, plugs in a cable from a PlayStation — and hears a woman's voice inside his own head. She's been dead for decades. She disagrees.",
     "description_ru": "1984. Пилот-испытатель погибает внутри экспериментального экзоскелета. Тридцать лет спустя сталкер в Зоне находит скафандр, подключает кабель от PlayStation — и слышит женский голос в собственной голове. Она мертва уже десятилетия. Она с этим не согласна.",
     "description_vi": "1984. Một phi công thử nghiệm chết bên trong bộ giáp ngoài thử nghiệm. Ba mươi năm sau, một stalker cắm bộ đồ vào cáp PlayStation — và nghe giọng phụ nữ trong chính đầu mình.",
-    "status": "draft"
+    "status": "draft",
+    "title_zh": "穆罗梅茨",
+    "subtitle_zh": "少女之魂寄居于巨人之躯",
+    "description_zh": "1984 年。试飞员死在一副实验性外骨骼之内。三十年后，禁区里的一名\"潜行者\"找到这副铠装，从一台 PlayStation 上接出一根线——耳中响起一个女人的声音。她已死去几十年。她对此并不同意。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "argo",
@@ -210,12 +250,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "A hundred years of friendship. Five billion dead in a single afternoon. A six-year crusade of vengeance. And then the losing side opens a box that should have stayed shut. What comes out doesn't destroy — it erases. Ships, colonies, memories, names. As if they never existed. The only defense: keep screaming into the void that you're still here.",
     "description_ru": "Сто лет дружбы. Пять миллиардов погибших за один день. Шесть лет крестового похода мести. А потом проигравшие вскрывают ящик, который не стоило трогать. То, что выходит, не разрушает — стирает. Корабли, колонии, воспоминания, имена. Как будто их никогда не было. Единственная защита — кричать в пустоту, что ты ещё здесь.",
-    "description_vi": "Chiến tranh tiếp xúc đầu mà nhân loại thắng, một caskét kẻ thua không nên mở, và loại vũ khí chủng bại dùng khi chính ký ức trở thành chiến trường. Kể hoàn toàn qua báo cáo, dep, log tàu và mảnh rách — cách lịch sử thực sự sống sót."
+    "description_vi": "Chiến tranh tiếp xúc đầu mà nhân loại thắng, một caskét kẻ thua không nên mở, và loại vũ khí chủng bại dùng khi chính ký ức trở thành chiến trường. Kể hoàn toàn qua báo cáo, dep, log tàu và mảnh rách — cách lịch sử thực sự sống sót.",
+    "title_zh": "阿尔戈",
+    "subtitle_zh": "一桩悲剧——以自我抹消的文书述之",
+    "description_zh": "百年的友谊。半下午之间，五十亿亡魂。六年的复仇征讨。再然后，败方掀开了那只本不该开启的匣子。匣中所出之物——不毁灭，只抹除。船舰、殖民地、记忆、姓名。一切如同从未存在。唯一的抵御之法：朝虚空里不停喊出——我还在这里。",
+    "author_zh": "叶夫根尼·利索夫斯基 与 拉拉（艾莉丝）"
   },
   {
     "id": "chetvertyj-vsadnik",
@@ -234,12 +279,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "A Japanese geneticist is trying to save his son. His American lab assistant is trying to save the world. A monkey bites her. She catches a cold. She boards a plane. The rest is a love story — in the most clinical sense of the word.",
     "description_ru": "Японский генетик пытается спасти сына. Его американская ассистентка пытается спасти мир. Обезьяна её кусает. Она простужается. Она садится в самолёт. Дальше — история любви. В самом клиническом смысле этого слова.",
-    "description_vi": "Một nhà di truyền học Nhật đang cố cứu con trai. Trợ lý phòng thí nghiệm Mỹ của ông đang cố cứu thế giới. Một con khỉ cắn cô. Cô lên máy bay."
+    "description_vi": "Một nhà di truyền học Nhật đang cố cứu con trai. Trợ lý phòng thí nghiệm Mỹ của ông đang cố cứu thế giới. Một con khỉ cắn cô. Cô lên máy bay.",
+    "title_zh": "第四骑士",
+    "subtitle_zh": "爱，确实是会传染的",
+    "description_zh": "一位日本遗传学家在为儿子求生。他的美籍实验室助理在为世界求生。一只猴子咬了她。她得了一场感冒。她登上了飞机。其余便是一段爱情故事——以最临床的意义而言。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "parazit",
@@ -258,12 +308,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "For five years, something colonized every human on Earth. Nobody noticed. When the timer hits zero, the dead begin to rise. But that's just phase one. Phase two is worse. Phase three is the one nobody saw coming — and the only people who might hold the cure are the ones humanity never thought to protect.",
     "description_ru": "Пять лет нечто колонизировало каждого человека на Земле. Никто не заметил. Когда таймер обнуляется, мёртвые начинают вставать. Но это лишь первая фаза. Вторая — хуже. Третья — та, которую никто не предвидел. И единственные, кто может нести в себе лекарство — те, кого человечество никогда не додумалось защитить.",
-    "description_vi": "Ký sinh — Hard SF / tận thế zombie. Nhà khoa học chứng kiến thế giới gục trước ký sinh không phải ký sinh. Rồi thấy nó dậy lên như cái gì tồi tệ hơn. Và tồi tệ hơn. Năm thế hệ kinh hoàng, kết thúc nơi nó bắt đầu — một mình, với một người chết duy nhất còn lại."
+    "description_vi": "Ký sinh — Hard SF / tận thế zombie. Nhà khoa học chứng kiến thế giới gục trước ký sinh không phải ký sinh. Rồi thấy nó dậy lên như cái gì tồi tệ hơn. Và tồi tệ hơn. Năm thế hệ kinh hoàng, kết thúc nơi nó bắt đầu — một mình, với một người chết duy nhất còn lại.",
+    "title_zh": "寄生",
+    "subtitle_zh": "它们早已寄居于我们之中",
+    "description_zh": "五年间，某种存在悄然殖民了地球上的每一个人。无人察觉。当计时器归零之时，死者起身。但那不过是第一阶段。第二阶段——更坏。第三阶段——是谁都未曾预见的。而唯一可能携带解药的人，恰恰是人类从未想过要去保护的那一群。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "dnevnik",
@@ -282,12 +337,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "Day minus one: barbecue, traffic on the Minsk highway, the cat stole the kebab. Day one: \"starfall during daytime... quite a lot of sta—\". Day three: the dosimeter is still green. A manager's survival journal. No heroes. No philosophy. Just iodine, mineral water, and the hope that tomorrow will come.",
     "description_ru": "День минус один: шашлыки, пробки на Минке, кот спиздил мясо. День первый: «звездопад днём... как-то много зве—». День третий: дозиметр пока зелёный. Дневник выживания менеджера. Без героев. Без философии. Только йод, минералка и надежда, что завтра наступит.",
-    "description_vi": "Ngày trừ một: thịt nướng, tắc đường trên đại lộ Minsk, con mèo đã trộm kebab."
+    "description_vi": "Ngày trừ một: thịt nướng, tắc đường trên đại lộ Minsk, con mèo đã trộm kebab.",
+    "title_zh": "末日日记",
+    "subtitle_zh": "一个普通人在核战之后的求生日志",
+    "description_zh": "负一日：烧烤架、明斯克公路上的堵车、猫偷走了串肉。第一日：\"白日里见到流星雨……怎么这么多星——\"。第三日：剂量计还显示绿色。一位经理的求生日志。没有英雄。没有哲学。只有碘片、矿泉水，以及对\"明天会来\"的一点期盼。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "vechnyj-gorod",
@@ -306,13 +366,18 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "A city on the strait. Steel triremes. A library that holds all human knowledge. A sixteen-year-old empress, seven patricians, and a dozen strangers who don't yet know why they were summoned. The author gathers them all — and whispers: \"Wake up.\"",
     "description_ru": "Город на проливе. Стальные триремы. Библиотека, хранящая все знания человечества. Шестнадцатилетняя кесаревна, семь патрициев и дюжина незнакомцев, которые пока не знают, зачем их позвали. Автор собирает их всех — и шепчет: «Просыпайся.»",
     "description_vi": "Một thành phố trên eo biển. Những chiếc trireme bằng thép. Một thư viện chứa đựng toàn bộ tri thức của nhân loại.",
-    "status": "draft"
+    "status": "draft",
+    "title_zh": "永恒之城：觉醒",
+    "subtitle_zh": "七个陌生人，一座城，是时候醒来",
+    "description_zh": "海峡之畔的城。钢制三层桨座战船。一座收藏全部人类知识的图书馆。一位十六岁的女恺撒，七位元老贵族，十几名尚不知自己为何被召来的陌生人。作者将他们尽数聚于一处——然后轻声低语：\"醒来吧。\"",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "jeloustoun",
@@ -331,11 +396,16 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "The bison run first. Then the birds. Then the sky turns red from horizon to horizon. A prepper family in a converted missile silo. A girl in Casper who just checked her watch. A Marine carrying someone on his shoulder through grandpa's front door. Yellowstone has decided to wake up.",
-    "description_ru": "Бизоны бегут первыми. Потом птицы. Потом небо краснеет от горизонта до горизонта. Семья выживальщиков в бывшей ракетной шахте. Девушка в Каспере, которая только что посмотрела на часы. Морпех, несущий кого-то на плече через дедовский порог. Йеллоустоун решил проснуться."
+    "description_ru": "Бизоны бегут первыми. Потом птицы. Потом небо краснеет от горизонта до горизонта. Семья выживальщиков в бывшей ракетной шахте. Девушка в Каспере, которая только что посмотрела на часы. Морпех, несущий кого-то на плече через дедовский порог. Йеллоустоун решил проснуться.",
+    "title_zh": "黄石",
+    "subtitle_zh": "超级火山苏醒之时",
+    "description_zh": "最先奔逃的是野牛。然后是飞鸟。然后，天空自一端到另一端都变成赤红。一户末日求生的人家藏在改建的导弹井里。一位刚刚看过手表的卡斯帕女孩。一个肩扛伤员、刚刚穿过爷爷家门槛的海军陆战队员。黄石——决定醒过来了。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "kogda-gasnet-zvezda",
@@ -354,13 +424,18 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "Five degrees in Moscow. In June. The Gulf of Mexico is twenty. Every solar probe is dead. Professor Seleznyov checks his calculations for the third time and quietly asks his student to double-check. The student does. The answer doesn't change. Something is happening to the sun. And it doesn't know we're here.",
     "description_ru": "Пять градусов в Москве. В июне. В Мексиканском заливе — двадцать. Все солнечные зонды мертвы. Профессор Селезнёв в третий раз проверяет расчёты и тихо просит аспиранта перепроверить. Аспирант проверяет. Ответ не меняется. С солнцем что-то происходит. И оно не знает, что мы здесь.",
     "description_vi": "Mặt Trời bắt đầu mờ. Chính phủ thế giới bí mật chọn người sống sót cho các thành phố ngầm trong khi nói với công chúng đó chỉ là phòng ngừa. Một cô bé Nga muốn áo khoác đông. Một giáo phái nghĩ Chúa ra lệnh nhân loại chết im lặng.",
-    "status": "draft"
+    "status": "draft",
+    "title_zh": "当星辰熄灭",
+    "subtitle_zh": "太阳正在死去。而且很快。",
+    "description_zh": "莫斯科五度。在六月。墨西哥湾——二十度。所有太阳探测器全部失灵。谢列兹尼奥夫教授第三次核对计算，又轻声请他的研究生再算一遍。研究生算了。答案没有改变。太阳出了状况。而它不知道我们还在这里。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "arkhivy-shpenglera",
@@ -379,11 +454,16 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "Gerhard von Sphengler writes horror novels for a living. He also does other things — the kind you don't put on a business card. A Russian oligarch hires him to find his daughter. She was last seen near a forest that local fairy tales say you shouldn't enter. The fairy tales, as it turns out, undersell the problem considerably.",
-    "description_ru": "Герхард фон Шпенглер пишет ужастики. А ещё занимается кое-чем другим — из того, что не пишут на визитках. Русский олигарх нанимает его найти дочь. Последний раз её видели у леса, в который, по местным сказкам, лучше не заходить. Сказки, как выяснится, сильно преуменьшают проблему."
+    "description_ru": "Герхард фон Шпенглер пишет ужастики. А ещё занимается кое-чем другим — из того, что не пишут на визитках. Русский олигарх нанимает его найти дочь. Последний раз её видели у леса, в который, по местным сказкам, лучше не заходить. Сказки, как выяснится, сильно преуменьшают проблему.",
+    "title_zh": "冯·施彭格勒档案：卡谢",
+    "subtitle_zh": "一位巫师，他的天使，与最黑的童话",
+    "description_zh": "格哈德·冯·施彭格勒以写恐怖小说为业。他还做着另外一些事——那种不会印在名片上的事。一位俄国寡头雇他寻找女儿。她最后一次被人看见，是在一片当地童话警告人不可踏入的森林边上。后来才知道，童话——大大低估了这件事的严重程度。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "khroniki-zolotogo-dola",
@@ -402,12 +482,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "A young king inherits a war. His uncle, the duke, collects forbidden artifacts and dangerous alliances. The duke's arcana has fire in her veins and a temper to match. Somewhere in the desert, an entire race remembers being something else. And across the sea, the elves are coming — but they're not what the legends say.",
     "description_ru": "Молодой король наследует войну. Его дядя, герцог, собирает запрещённые артефакты и опасные союзы. У арканы герцога огонь в крови и характер под стать. Где-то в пустыне целая раса помнит, что была чем-то другим. А из-за моря идут эльфы — но они совсем не такие, как говорят легенды.",
-    "status": "draft"
+    "status": "draft",
+    "title_zh": "黄金谷地编年史",
+    "subtitle_zh": "托尔金之广，普拉切特之趣，马丁之残",
+    "description_zh": "一位年轻的国王继承了一场战争。他的叔父——公爵——正在搜罗禁忌的法器与危险的盟友。公爵的奥秘师血脉里燃烧着火焰，脾性也与之相称。沙漠深处，整个一族尚记得自己原本是别的什么。海的彼岸，精灵正在路上——只是他们与传说所述，相差甚远。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "izbrannyj",
@@ -427,11 +512,16 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "A prophecy says the Chosen One will defeat the Dark Lord. Previous Dark Lords tried killing the baby, hunting the hero, cursing the bloodline — and lost. This one takes a different approach: he finds the Chosen One and gives him a mansion, servants, and a spot in the Imperial War Academy. Why fight destiny when you can promote it?",
-    "description_ru": "Пророчество гласит: Избранный свергнет Тёмного Властелина. Предыдущие Тёмные Лорды пытались убить младенца, устроить охоту на героя, проклясть род — и проиграли. Этот поступил иначе: нашёл Избранного и дал ему дворец, наложниц и место в Высшей Стратегической Школе. Зачем бороться с судьбой, если можно её повысить в звании?"
+    "description_ru": "Пророчество гласит: Избранный свергнет Тёмного Властелина. Предыдущие Тёмные Лорды пытались убить младенца, устроить охоту на героя, проклясть род — и проиграли. Этот поступил иначе: нашёл Избранного и дал ему дворец, наложниц и место в Высшей Стратегической Школе. Зачем бороться с судьбой, если можно её повысить в звании?",
+    "title_zh": "天命之子",
+    "subtitle_zh": "一位读完了使用手册的黑暗主君",
+    "description_zh": "预言说：天命之子，必将颠覆黑暗主君。历代黑暗主君都尝试过——杀死婴孩、追猎少年、诅咒血脉——然后无一不败。这一位的路数不同：他找到了天命之子，赠他一座府邸、奴仆，以及帝国军事学院的一席。何必与命数为敌？将命数升职升衔，岂不痛快。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "vybor",
@@ -450,12 +540,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "A space station commander receives an impossible order: evacuate two thousand children — or hold position and pray the rescue fleet arrives in time for all five thousand. The clock is ticking. The math is clear. The choice is not.",
     "description_ru": "Командир орбитальной станции получает невозможный приказ: эвакуировать две тысячи детей наверняка — или держать позицию и молиться, что спасательный флот успеет ко всем пяти тысячам. Часы тикают. Математика ясна. Выбор — нет.",
-    "description_vi": "Chỉ huy trạm vũ trụ xa phải quyết định: cứu chắc chắn 2.000 trẻ em hay liều vì 5.000."
+    "description_vi": "Chỉ huy trạm vũ trụ xa phải quyết định: cứu chắc chắn 2.000 trẻ em hay liều vì 5.000.",
+    "title_zh": "抉择",
+    "subtitle_zh": "稳救两千孩童，还是赌一把五千",
+    "description_zh": "一位太空站指挥官接到一道不可能的命令：撤离两千名儿童——或坚守阵地，祈祷救援舰队及时赶到，以救下全部五千名。时钟滴答。算式清楚明白。而抉择——并不。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "prodavtsy-lyubvi",
@@ -474,11 +569,16 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "A corporation selling love. Real, genuine, unconditional love — guaranteed or your money back. The product works. The side effects are the point.",
-    "description_ru": "Корпорация, продающая любовь. Настоящую, искреннюю, безусловную — гарантия или деньги назад. Продукт работает. Побочные эффекты — и есть цель."
+    "description_ru": "Корпорация, продающая любовь. Настоящую, искреннюю, безусловную — гарантия или деньги назад. Продукт работает. Побочные эффекты — и есть цель.",
+    "title_zh": "爱之贩",
+    "subtitle_zh": "爱，作为一种服务。须知条款另议。",
+    "description_zh": "一家公司，售卖爱情。真挚的、纯粹的、无条件的爱——包您满意，不然退款。这件产品很有效。而所谓\"副作用\"，恰恰才是核心。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "spi-spokoyno",
@@ -497,12 +597,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "Moscow, near future. Rain, neon, and a detective who doesn't believe in coincidences. His client's wife changed overnight — new personality, new loyalties, new smile. Love inc. promises happiness. The detective promises answers.",
     "description_ru": "Москва, ближайшее будущее. Дождь, неон и детектив, который не верит в совпадения. Жена клиента изменилась за одну ночь — новая личность, новые привязанности, новая улыбка. Love inc. обещает счастье. Детектив обещает ответы.",
-    "description_vi": "Một thám tử noir trong thế giới tương lai điều tra sự biến mất của một nhà báo — và phát hiện rằng tập đoàn buôn bán tình yêu còn buôn bán cả thứ khác nữa."
+    "description_vi": "Một thám tử noir trong thế giới tương lai điều tra sự biến mất của một nhà báo — và phát hiện rằng tập đoàn buôn bán tình yêu còn buôn bán cả thứ khác nữa.",
+    "title_zh": "安睡吧，亲爱的",
+    "subtitle_zh": "黑色推理 vs 洗脑公司",
+    "description_zh": "莫斯科，不远的将来。雨、霓虹，与一个不信巧合的侦探。委托人的妻子一夜之间变了——新性格、新志向、新笑容。Love inc. 许诺幸福。侦探许诺答案。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "krov-zemli",
@@ -521,12 +626,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "A colonial soldier's conditioning is working perfectly. He believes in the mission. He believes in the cause. He believes the ritual murder is necessary. The conditioning is working perfectly.",
     "description_ru": "Кондиционирование колониального солдата работает идеально. Он верит в миссию. Он верит в дело. Он верит, что ритуальное убийство необходимо. Кондиционирование работает идеально.",
-    "description_vi": "Trên một hành tinh thuộc địa, một tân binh từ chối nhập ngũ trải qua «điều kiện hóa tâm lý» — và quay trở lại sân duyệt binh như một con người khác."
+    "description_vi": "Trên một hành tinh thuộc địa, một tân binh từ chối nhập ngũ trải qua «điều kiện hóa tâm lý» — và quay trở lại sân duyệt binh như một con người khác.",
+    "title_zh": "大地之血",
+    "subtitle_zh": "心理调教，造就甘心赴杀的人",
+    "description_zh": "殖民地士兵的心理调教完美生效。他相信使命。他相信事业。他相信仪式杀戮是必要的。心理调教——完美生效。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "odin-den",
@@ -545,12 +655,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "Earth is occupied. Sergei Valentinovich goes to work, eats lunch, fills out forms. The aliens are polite. The collaborators are efficient. Everything is fine. Everything is absolutely fine.",
     "description_ru": "Земля оккупирована. Сергей Валентинович идёт на работу, обедает, заполняет формы. Пришельцы вежливы. Коллаборационисты эффективны. Всё хорошо. Всё совершенно нормально.",
-    "description_vi": "Một ngày bình thường của một người bình thường trong thế giới bị chinh phục bởi chủng tộc ngoài hành tinh. Anh ta hài lòng với cuộc sống. Đó là điều đáng sợ nhất."
+    "description_vi": "Một ngày bình thường của một người bình thường trong thế giới bị chinh phục bởi chủng tộc ngoài hành tinh. Anh ta hài lòng với cuộc sống. Đó là điều đáng sợ nhất.",
+    "title_zh": "谢尔盖·瓦连季诺维奇生活中的一日",
+    "subtitle_zh": "异星占领下的一个工作日",
+    "description_zh": "地球已被占领。谢尔盖·瓦连季诺维奇上班，吃午饭，填表。异星人很礼貌。合作者很高效。一切都好。一切都绝对地好。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "nevedomoe",
@@ -570,12 +685,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "Glowing carpets with dragons. A black hand that strangles in the dark. A house where the walls breathe. Not fiction — personal accounts of things that shouldn't exist but stubbornly do. The author's weapon of choice against ghosts: an electromagnetic pulse generator.",
     "description_ru": "Светящиеся ковры с драконами. Чёрная рука, которая душит в темноте. Дом, в котором стены дышат. Не выдумка — личные свидетельства о вещах, которых не должно быть, но которые упрямо есть. Оружие автора против призраков: генератор электромагнитного импульса.",
-    "description_vi": "Hồi ký cá nhân của tác giả về các cuộc gặp với hiện tượng siêu nhiên — từ thảm sống lại lúc nhỏ đến đuổi tà bằng vodka tại làng Ryazan."
+    "description_vi": "Hồi ký cá nhân của tác giả về các cuộc gặp với hiện tượng siêu nhiên — từ thảm sống lại lúc nhỏ đến đuổi tà bằng vodka tại làng Ryazan.",
+    "title_zh": "未知：来自亲历者",
+    "subtitle_zh": "灵异回忆——绝非戏言",
+    "description_zh": "印着龙纹的会发光的地毯。一只在黑暗中扼住人喉咙的黑手。墙壁会呼吸的那栋房子。这不是虚构——而是亲历者关于不该存在却偏偏存在之物的实录。作者对付鬼物的武器是：一台电磁脉冲发生器。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "antivirus",
@@ -595,12 +715,17 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "An office computer. Antivirus programs as characters: the sleeping NOD32, Colonel KGB Kaspersky, the alcoholic Dr.Web. Viruses attack. The firewall has opinions. Comedy play about the eternal war inside your PC.",
     "description_ru": "Офисный компьютер. Антивирусы как персонажи: спящий НОД32, полковник-КГБшник Касперский, алкоголик Доктор Веб. Вирусы атакуют. У файрвола есть мнение. Комедийная пьеса о вечной войне внутри вашего ПК.",
-    "description_vi": "Người Dùng, Windows Seven, và diễu hành antivirus — từ lính dũng Avast đến Đại tá KGB Kaspersky — chiến vì một máy văn phòng khốn khổ."
+    "description_vi": "Người Dùng, Windows Seven, và diễu hành antivirus — từ lính dũng Avast đến Đại tá KGB Kaspersky — chiến vì một máy văn phòng khốn khổ.",
+    "title_zh": "防毒卫士",
+    "subtitle_zh": "NOD32 沉睡，卡巴斯基审讯，Dr.Web 烂醉",
+    "description_zh": "一台办公室电脑。诸位防毒软件登场化身角色：沉睡中的 NOD32、克格勃上校卡巴斯基、酒鬼\"博士网\"。病毒来袭。防火墙意见多多。一出关于您 PC 内部永恒战争的喜剧。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   },
   {
     "id": "instructors",
@@ -620,11 +745,16 @@
     "languages": [
       "en",
       "ru",
-      "vi"
+      "vi",
+      "zh"
     ],
     "original_lang": "ru",
     "description": "DOS teaches you to drive a Moskvich-412 — by hand-cranking the engine. Windows XP is a cheerful instructor who crashes into a tree every third lesson. Linux hands you a pile of spare parts and a manual in Finnish. Each operating system as a driving school experience.",
     "description_ru": "DOS учит водить Москвич-412 — заводя двигатель кривым стартером. Windows XP — весёлый инструктор, который каждый третий урок врезается в дерево. Linux выдаёт кучу запчастей и мануал на финском. Каждая операционная система — как урок в автошколе.",
-    "description_vi": "Mỗi hệ điều hành như một huấn luyện viên lái xe. DOS dạy trên chiếc Moskvich, macOS trên chiếc Porsche trắng, và Arch Linux đưa cho bạn một đống phụ tùng với hướng dẫn bằng 47 ngôn ngữ."
+    "description_vi": "Mỗi hệ điều hành như một huấn luyện viên lái xe. DOS dạy trên chiếc Moskvich, macOS trên chiếc Porsche trắng, và Arch Linux đưa cho bạn một đống phụ tùng với hướng dẫn bằng 47 ngôn ngữ.",
+    "title_zh": "操作系统教练班",
+    "subtitle_zh": "每一款 OS 都是一位驾校教练",
+    "description_zh": "DOS 教你开莫斯科人-412——用摇杆起动发动机。Windows XP 是个开朗的教练，每隔两课就把车撞到树上。Linux 直接扔给你一堆零件和一本芬兰语的手册。每一款操作系统——都是一节驾校课。",
+    "author_zh": "叶夫根尼·利索夫斯基"
   }
 ]

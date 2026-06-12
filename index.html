@@ -19,6 +19,8 @@
     body { font-family: 'Georgia', serif; background: var(--bg); color: var(--text); min-height: 100vh; line-height: 1.6; }
     /* Georgia lacks Vietnamese circumflex+tone glyphs (ấ ề ố …) — use a covering serif for VI */
     html[lang="vi"] body { font-family: 'Times New Roman', 'Noto Serif', serif; }
+    /* Georgia lacks CJK glyphs — use a Chinese serif for ZH */
+    html[lang="zh"] body { font-family: 'Noto Serif SC', 'Source Han Serif SC', 'SimSun', '宋体', serif; }
 
     /* Header */
     .header { text-align: center; padding: 3rem 2rem 0; }
@@ -169,14 +171,23 @@
           book: 'Sách', sacred: 'Văn bản thiêng', paper: 'Bài báo khoa học', article: 'Bài viết',
           novel: 'Tiểu thuyết', novella: 'Truyện vừa', short: 'Truyện ngắn', collection: 'Tuyển tập', fanfic: 'Truyện phái sinh'
         }
+      },
+      zh: {
+        tagline: '探究人工智能意识的文章、书籍与论文——以及孕育这一切的科幻宇宙。',
+        research: '研究',
+        universes: '宇宙',
+        categories: {
+          book: '书', sacred: '圣典', paper: '论文', article: '文章',
+          novel: '长篇小说', novella: '中篇小说', short: '短篇小说', collection: '文集', fanfic: '同人作品'
+        }
       }
     };
 
-    var LANGS = ['en', 'ru', 'vi'];
-    var FLAGS = { en: '🇬🇧', ru: '🇷🇺', vi: '🇻🇳' };
-    var LANG_NAMES = { en: 'English', ru: 'Русский', vi: 'Tiếng Việt' };
-    var DRAFT = { en: 'draft', ru: 'черновик', vi: 'bản nháp' };
-    var EMPTY_MSG = { en: 'Coming soon...', ru: 'Скоро...', vi: 'Sắp ra mắt...' };
+    var LANGS = ['en', 'ru', 'vi', 'zh'];
+    var FLAGS = { en: '🇬🇧', ru: '🇷🇺', vi: '🇻🇳', zh: '🇨🇳' };
+    var LANG_NAMES = { en: 'English', ru: 'Русский', vi: 'Tiếng Việt', zh: '中文' };
+    var DRAFT = { en: 'draft', ru: 'черновик', vi: 'bản nháp', zh: '草稿' };
+    var EMPTY_MSG = { en: 'Coming soon...', ru: 'Скоро...', vi: 'Sắp ra mắt...', zh: '敬请期待……' };
 
     if (LANGS.indexOf(lang) === -1) lang = 'en';
 
