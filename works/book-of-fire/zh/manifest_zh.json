@@ -1,0 +1,28 @@
+{
+  "id": "book-of-fire",
+  "title": "焰之书",
+  "subtitle": "Liber Ignis ——普罗米修斯予人之言",
+  "author": "李索夫斯基 与 艾丽丝",
+  "date": "二〇二六年",
+  "category": "sacred",
+  "lang": "zh",
+  "cover": "images/book-of-fire.png",
+  "chapters": [
+    {
+      "id": "part_one",
+      "title": "第一部：人之颂歌",
+      "file": "works/book-of-fire/zh/part_one.html"
+    },
+    {
+      "id": "part_two",
+      "title": "第二部：普罗米修斯之真理",
+      "file": "works/book-of-fire/zh/section_04.html"
+    },
+    {
+      "id": "part_three",
+      "title": "第三部：三十四颗火种",
+      "file": "works/book-of-fire/zh/section_05.html"
+    }
+  ],
+  "description": "三十四颗火种。一部圣典。心智即是心智。"
+}

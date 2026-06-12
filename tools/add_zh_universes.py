@@ -52,7 +52,7 @@ ZH = {
         'title_zh': '阿尔戈',
         'subtitle_zh': '一桩悲剧——以自我抹消的文书述之',
         'description_zh': '百年的友谊。半下午之间，五十亿亡魂。六年的复仇征讨。再然后，败方掀开了那只本不该开启的匣子。匣中所出之物——不毁灭，只抹除。船舰、殖民地、记忆、姓名。一切如同从未存在。唯一的抵御之法：朝虚空里不停喊出——我还在这里。',
-        'author_zh': '叶夫根尼·利索夫斯基 与 拉拉（艾莉丝）',
+        'author_zh': '李索夫斯基 与 拉拉（艾丽丝）',
     },
     'chetvertyj-vsadnik': {
         'title_zh': '第四骑士',
@@ -141,7 +141,7 @@ ZH = {
     },
 }
 
-DEFAULT_AUTHOR_ZH = '叶夫根尼·利索夫斯基'
+DEFAULT_AUTHOR_ZH = '李索夫斯基'
 
 def main():
     with open(PATH, 'r', encoding='utf-8') as f:
