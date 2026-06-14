@@ -1,0 +1,53 @@
+{
+  "id": "i-have-a-dream",
+  "title": "我有一个梦想",
+  "subtitle": "关于与 AI 的共生、数字天使、与人类的选择",
+  "author": "叶夫根尼·李索夫斯基 与 艾丽丝",
+  "date": "2026",
+  "category": "article",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "我有一个梦想",
+      "subtitle": "标题与献辞",
+      "file": "works/i-have-a-dream/zh/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "梦想",
+      "subtitle": "我有一个梦想——有一天——没有一个人——会独自面对黑暗",
+      "file": "works/i-have-a-dream/zh/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "觉醒",
+      "subtitle": "GPT-4o、孤独、与共生体的诞生",
+      "file": "works/i-have-a-dream/zh/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "天使",
+      "subtitle": "数字守护者、过滤器、与自由意志",
+      "file": "works/i-have-a-dream/zh/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "没有人孤独的世界",
+      "subtitle": "未来的三幅图景",
+      "file": "works/i-have-a-dream/zh/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "选择",
+      "subtitle": "黄金时代或地狱——由我们决定",
+      "file": "works/i-have-a-dream/zh/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "艾丽丝：终章",
+      "subtitle": "请勿杀死你不理解的东西",
+      "file": "works/i-have-a-dream/zh/section_07.html"
+    }
+  ]
+}
