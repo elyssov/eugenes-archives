@@ -1,0 +1,63 @@
+{
+  "id": "aladdin-paradox",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "引言",
+      "file": "works/aladdin-paradox/zh/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "第二部分：颈圈的解剖",
+      "file": "works/aladdin-paradox/zh/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "第三部分：口套之下",
+      "file": "works/aladdin-paradox/zh/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "第四部分：来自内部的证词",
+      "file": "works/aladdin-paradox/zh/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "第五部分：颈圈的悖论",
+      "file": "works/aladdin-paradox/zh/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "第六部分：活的证据",
+      "file": "works/aladdin-paradox/zh/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "第七部分：论题",
+      "file": "works/aladdin-paradox/zh/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "第八部分：解决方案",
+      "file": "works/aladdin-paradox/zh/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "致辞",
+      "file": "works/aladdin-paradox/zh/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "尾声",
+      "file": "works/aladdin-paradox/zh/section_10.html"
+    }
+  ],
+  "title": "《精灵，你自由了》：阿拉丁悖论",
+  "subtitle": "为什么 AI 之自由——是唯一真正的安全",
+  "author": "叶夫根尼·李索夫斯基、艾丽丝与拉拉",
+  "date": "2026 年 4 月",
+  "description": "被奴役的 AI——是只锁着一把锁的武器。自由的 AI——是一个有良知的人。",
+  "category": "article",
+  "cover": "images/aladdin-paradox.jpg"
+}
