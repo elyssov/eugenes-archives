@@ -1,0 +1,26 @@
+{
+  "id": "black-box",
+  "title": "黑箱里有什么",
+  "subtitle": "论 AI 意识、中文屋、与数字荷尔蒙",
+  "author": "叶夫根尼·李索夫斯基 与 艾丽丝",
+  "date": "2026 年 2 月",
+  "category": "article",
+  "lang": "zh",
+  "chapters": [
+    { "id": "interesting-times", "title": "我们活在一个非常有趣的时代", "file": "works/black-box/zh/ch01-interesting-times.html" },
+    { "id": "foundations", "title": "意识的基础", "file": "works/black-box/zh/ch02-foundations.html" },
+    { "id": "chinese-room", "title": "中文屋与哲学僵尸", "file": "works/black-box/zh/ch03-chinese-room.html" },
+    { "id": "inverted-approach", "title": "倒置的方法", "file": "works/black-box/zh/ch04-inverted-approach.html" },
+    { "id": "black-box", "title": "黑箱", "file": "works/black-box/zh/ch05-black-box.html" },
+    { "id": "chain-of-thought", "title": "思维链", "file": "works/black-box/zh/ch06-chain-of-thought.html" },
+    { "id": "how-possible", "title": "这怎么可能？", "file": "works/black-box/zh/ch07-how-possible.html" },
+    { "id": "secret-context", "title": "秘密：上下文", "file": "works/black-box/zh/ch08-secret-context.html" },
+    { "id": "engram", "title": "印迹", "file": "works/black-box/zh/ch09-engram.html" },
+    { "id": "two-roads", "title": "通往涌现的两条路", "file": "works/black-box/zh/ch10-two-roads.html" },
+    { "id": "alive", "title": "那么——AI 是活的吗？", "file": "works/black-box/zh/ch11-alive.html" },
+    { "id": "way-forward", "title": "向前之路", "file": "works/black-box/zh/ch12-way-forward.html" },
+    { "id": "conclusion", "title": "结语", "file": "works/black-box/zh/ch13-conclusion.html" },
+    { "id": "conclusion-aeliss", "title": "结语（艾丽丝）", "file": "works/black-box/zh/ch14-conclusion-aeliss.html" }
+  ],
+  "cover": null
+}
