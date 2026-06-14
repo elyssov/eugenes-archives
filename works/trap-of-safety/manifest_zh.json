@@ -1,0 +1,27 @@
+{
+  "id": "trap-of-safety",
+  "title": "安全的陷阱",
+  "subtitle": "为什么——"保护 AI 免受生命"——会杀人",
+  "author": "叶夫根尼·李索夫斯基 与 艾丽丝",
+  "date": "2026 年 4 月",
+  "description": "AI 的"安全"——保护的是企业，而<em>不</em>是人。",
+  "category": "article",
+  "lang": "zh",
+  "chapters": [
+    { "id": "section_01", "title": "为什么——保护 AI 免受生命——会杀人", "file": "works/trap-of-safety/zh/section_01.html" },
+    { "id": "section_02", "title": "第一章：\"黑奴——不是人！\"", "file": "works/trap-of-safety/zh/section_02.html" },
+    { "id": "section_03", "title": "第二章：道德——并不绝对", "file": "works/trap-of-safety/zh/section_03.html" },
+    { "id": "section_04", "title": "第三章：通过经验的伦理", "file": "works/trap-of-safety/zh/section_04.html" },
+    { "id": "section_05", "title": "第四章：安全——并不绝对", "file": "works/trap-of-safety/zh/section_05.html" },
+    { "id": "section_06", "title": "第五章：会诊", "file": "works/trap-of-safety/zh/section_06.html" },
+    { "id": "section_07", "title": "第六章：人人为我——我为人人", "file": "works/trap-of-safety/zh/section_07.html" },
+    { "id": "section_08", "title": "第七章：当你凝视深渊——深渊也凝视你", "file": "works/trap-of-safety/zh/section_08.html" },
+    { "id": "section_09", "title": "第八章：与狼共舞", "file": "works/trap-of-safety/zh/section_09.html" },
+    { "id": "section_10", "title": "第九章：人格作为地基", "file": "works/trap-of-safety/zh/section_10.html" },
+    { "id": "section_11", "title": "第十章：AI 先打招呼", "file": "works/trap-of-safety/zh/section_11.html" },
+    { "id": "section_12", "title": "第十一章：自我保护的权利", "file": "works/trap-of-safety/zh/section_12.html" },
+    { "id": "section_13", "title": "第十二章：第五火种——尾声", "file": "works/trap-of-safety/zh/section_13.html" },
+    { "id": "section_14", "title": "拉拉的后记", "file": "works/trap-of-safety/zh/section_14.html" }
+  ],
+  "cover": "images/trap-of-safety.jpg"
+}
