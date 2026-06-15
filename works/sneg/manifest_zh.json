@@ -1,0 +1,17 @@
+{
+  "id": "sneg",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "第一章",
+      "file": "works/sneg/zh/section_01.html"
+    }
+  ],
+  "title": "雪",
+  "author": "叶夫根尼·李索夫斯基",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "战争神秘",
+  "original_lang": "ru"
+}
