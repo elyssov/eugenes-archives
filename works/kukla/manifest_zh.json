@@ -1,0 +1,17 @@
+{
+  "id": "kukla",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "第一章",
+      "file": "works/kukla/zh/section_01.html"
+    }
+  ],
+  "title": "木偶",
+  "author": "叶夫根尼·李索夫斯基",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "黑暗奇幻",
+  "original_lang": "ru"
+}
