@@ -1,0 +1,19 @@
+{
+  "id": "antivirus",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "反病毒",
+      "file": "works/antivirus/zh/section_01.html"
+    }
+  ],
+  "title": "反病毒",
+  "subtitle": "一出带序幕、三幕与尾声的——幻想剧",
+  "author": "叶夫根尼·李索夫斯基",
+  "date": "2010 / 2026",
+  "category": "play",
+  "genre": "幽默",
+  "description": "用户、七仔与一群反病毒——从勇敢的好兵 Avast——到 KGB 上校卡巴斯基——为了一台可怜的办公电脑——而进行的——一场战斗。",
+  "original_lang": "ru"
+}
