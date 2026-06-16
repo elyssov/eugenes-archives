@@ -1,0 +1,13 @@
+{
+  "id": "izbrannyj",
+  "lang": "zh",
+  "title": "天选之子",
+  "subtitle": "读过说明书的黑暗领主",
+  "author": "叶夫根尼·李索夫斯基",
+  "date": "2016",
+  "category": "short",
+  "genre": "幽默奇幻",
+  "chapters": [
+    {"id": "section_01", "title": "天选之子", "file": "works/izbrannyj/zh/section_01.html"}
+  ]
+}

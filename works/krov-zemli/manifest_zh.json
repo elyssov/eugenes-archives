@@ -1,0 +1,18 @@
+{
+  "id": "krov-zemli",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "大地之血",
+      "file": "works/krov-zemli/zh/section_01.html"
+    }
+  ],
+  "title": "大地之血",
+  "author": "叶夫根尼·李索夫斯基",
+  "date": "2010-2016",
+  "category": "short",
+  "genre": "Sci-Fi",
+  "description": "在一颗——殖民星球上——一名——拒绝服役的——新兵——经历了"心理矫正"——回到操场——已是——另一个人。",
+  "original_lang": "ru"
+}

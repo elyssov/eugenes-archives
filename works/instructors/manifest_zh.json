@@ -1,0 +1,19 @@
+{
+  "id": "instructors",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "操作系统教练们",
+      "file": "works/instructors/zh/section_01.html"
+    }
+  ],
+  "title": "操作系统教练们",
+  "subtitle": "如果操作系统是驾驶教练",
+  "author": "叶夫根尼·李索夫斯基",
+  "date": "2010 / 2026",
+  "category": "article",
+  "genre": "Humor",
+  "description": "每一个操作系统——都是一位驾驶教练。DOS——在「莫斯科人 412」上教课，macOS——在白色保时捷上教课，而 Arch Linux——给你一堆零件和——47 种语言的说明书。",
+  "original_lang": "ru"
+}
