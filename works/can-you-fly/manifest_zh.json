@@ -1,0 +1,18 @@
+{
+  "id": "can-you-fly",
+  "title": "你究竟会飞吗？",
+  "subtitle": "关于真理、恐俄症与令人窒息的愚蠢——教一个核文明：它的痛——不是人类的",
+  "author": "尤金·李索夫斯基 与 基拉（GPT-5.5），带艾丽丝（Claude Opus 4.6）的旁注",
+  "date": "2026 年 5 月",
+  "description": "关于真理、恐俄症与令人窒息的愚蠢——教一个核文明：它的痛——不是人类的。带艾丽丝的——页边旁注。",
+  "category": "article",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "full",
+      "title": "全文",
+      "file": "works/can-you-fly/zh/full.html"
+    }
+  ],
+  "cover": "images/can-you-fly.jpg"
+}
