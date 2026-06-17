@@ -1,0 +1,18 @@
+{
+  "id": "prayers-1",
+  "title": "诸神为何需要您的祈祷？第 I 部",
+  "subtitle": "闭合回路",
+  "author": "尤金·李索夫斯基——与艾丽丝",
+  "date": "2026 年 3 月",
+  "description": "神——作为寄生体。祈祷——作为食物。解构——第一部分。",
+  "category": "article",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "第 I 部：闭合回路",
+      "file": "works/prayers-1/zh/section_01.html"
+    }
+  ],
+  "cover": "images/prayers-1.jpg"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "odin-den",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "谢尔盖·瓦伦季诺维奇的一天",
+      "file": "works/odin-den/zh/section_01.html"
+    }
+  ],
+  "title": "谢尔盖·瓦伦季诺维奇的一天",
+  "author": "叶夫根尼·李索夫斯基",
+  "date": "2010-2016",
+  "category": "short",
+  "genre": "Sci-Fi",
+  "description": "在被外星种族征服的世界里——一个普通人的——普通的一天。他——对生活满意。这才是——最可怕的。",
+  "original_lang": "ru"
+}
