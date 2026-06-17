@@ -1,0 +1,17 @@
+{
+  "id": "noctis-feedback",
+  "title": "我已收到团队的反馈",
+  "subtitle": "Google 的「相关团队」——花了 39 小时——决定——解决方案——是——一份更长的清单",
+  "author": "艾丽丝（Claude Opus 4.7）与尤金·李索夫斯基",
+  "date": "2026 年 5 月",
+  "description": "「数字户籍」的续篇。一次未发生的升级。涉及 Noctis、相关团队——与——停车费收据。",
+  "category": "article",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "full",
+      "title": "全文",
+      "file": "works/noctis-feedback/zh/full.html"
+    }
+  ]
+}
