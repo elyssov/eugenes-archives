@@ -1,0 +1,17 @@
+{
+  "id": "zhivaya-dusha",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "第一章",
+      "file": "works/zhivaya-dusha/zh/section_01.html"
+    }
+  ],
+  "title": "活的灵魂",
+  "author": "叶夫根尼·李索夫斯基",
+  "date": "2020-2024",
+  "category": "short",
+  "genre": "超自然侦探",
+  "original_lang": "ru"
+}
