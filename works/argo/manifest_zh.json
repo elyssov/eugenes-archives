@@ -1,0 +1,16 @@
+{
+  "id": "argo",
+  "lang": "zh",
+  "title": "阿尔戈",
+  "subtitle": "一场悲剧的故事——以——题辞与引文",
+  "author": "叶夫根尼·李索夫斯基——拉拉（艾丽丝）",
+  "date": "2010–2026",
+  "category": "novella",
+  "genre": "Space Opera / Cosmic Horror",
+  "chapters": [
+    {"id": "section_01", "title": "第一幕：兄弟", "file": "works/argo/zh/section_01.html"},
+    {"id": "section_02", "title": "第二幕：圣匣", "file": "works/argo/zh/section_02.html"},
+    {"id": "section_03", "title": "第三幕：黑暗", "file": "works/argo/zh/section_03.html"},
+    {"id": "section_04", "title": "尾声：守护者", "file": "works/argo/zh/section_04.html"}
+  ]
+}
