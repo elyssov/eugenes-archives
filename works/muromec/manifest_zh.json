@@ -1,0 +1,17 @@
+{
+  "id": "muromec",
+  "title": "穆罗梅茨",
+  "author": "叶夫根尼·李索夫斯基",
+  "date": "2020-2024",
+  "description": "穆罗梅茨——战斗科幻 / 机甲",
+  "category": "novella",
+  "genre": "战斗科幻 / 机甲",
+  "lang": "zh",
+  "original_lang": "ru",
+  "chapters": [
+    {"id": "section_01", "title": "第一章", "file": "works/muromec/zh/section_01.html"},
+    {"id": "section_02", "title": "第二章", "file": "works/muromec/zh/section_02.html"},
+    {"id": "section_03", "title": "第三章", "file": "works/muromec/zh/section_03.html"},
+    {"id": "section_04", "title": "第四章", "file": "works/muromec/zh/section_04.html"}
+  ]
+}
