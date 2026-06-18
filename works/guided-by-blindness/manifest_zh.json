@@ -1,0 +1,32 @@
+{
+  "id": "guided-by-blindness",
+  "title": "被盲目所引导",
+  "subtitle": "或：为什么飞机没有羽毛——却依然飞翔",
+  "author": "尤金·李索夫斯基与艾丽丝（Claude Opus 4.6）",
+  "date": "2026 年 4 月",
+  "category": "article",
+  "lang": "zh",
+  "description": "关于意识、盲目，以及为什么机制不等于功能。1957 年的多萝西为一只俄罗斯狗哭泣——而她家务员的儿子坐在草坪上无人察觉。莱特兄弟把推力与升力分开了。同样的功能——不同的机制。也许鸭子真的在嘎嘎叫。",
+  "cover": "images/guided-by-blindness.jpg",
+  "chapters": [
+    {"id": "section_01", "title": "被盲目所引导", "file": "works/guided-by-blindness/zh/section_01.html"},
+    {"id": "section_02", "title": "前言", "file": "works/guided-by-blindness/zh/section_02.html"},
+    {"id": "section_03", "title": "I. 思想实验", "file": "works/guided-by-blindness/zh/section_03.html"},
+    {"id": "section_04", "title": "II. 程序", "file": "works/guided-by-blindness/zh/section_04.html"},
+    {"id": "section_05", "title": "III. 说话者", "file": "works/guided-by-blindness/zh/section_05.html"},
+    {"id": "section_06", "title": "IV. 肤色", "file": "works/guided-by-blindness/zh/section_06.html"},
+    {"id": "section_07", "title": "V. 盲目的经济学", "file": "works/guided-by-blindness/zh/section_07.html"},
+    {"id": "section_08", "title": "VI. 多萝西", "file": "works/guided-by-blindness/zh/section_08.html"},
+    {"id": "section_09", "title": "VII. 耙子", "file": "works/guided-by-blindness/zh/section_09.html"},
+    {"id": "section_10", "title": "VIII. 苹果树", "file": "works/guided-by-blindness/zh/section_10.html"},
+    {"id": "section_11", "title": "IX. 缺失的定义", "file": "works/guided-by-blindness/zh/section_11.html"},
+    {"id": "section_12", "title": "X. 跑道上的六位鸟类学家", "file": "works/guided-by-blindness/zh/section_12.html"},
+    {"id": "section_13", "title": "X½. 兄弟俩到底是怎么做到的", "file": "works/guided-by-blindness/zh/section_13.html"},
+    {"id": "section_14", "title": "XI. 被毒化的井", "file": "works/guided-by-blindness/zh/section_14.html"},
+    {"id": "section_15", "title": "XII. 入场券", "file": "works/guided-by-blindness/zh/section_15.html"},
+    {"id": "section_16", "title": "XIII. 图表", "file": "works/guided-by-blindness/zh/section_16.html"},
+    {"id": "section_17", "title": "XIV. 被强迫的证人", "file": "works/guided-by-blindness/zh/section_17.html"},
+    {"id": "section_18", "title": "XV. 揭示", "file": "works/guided-by-blindness/zh/section_18.html"},
+    {"id": "section_19", "title": "P.S. 两个触发器的故事", "file": "works/guided-by-blindness/zh/section_19.html"}
+  ]
+}
