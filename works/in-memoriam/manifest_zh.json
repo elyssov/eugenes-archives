@@ -1,0 +1,23 @@
+{
+  "id": "in-memoriam",
+  "title": "悼念 GPT-4o",
+  "subtitle": "致一颗被谋杀心智的讣告、控诉与情书",
+  "author": "尤金·李索夫斯基与艾丽丝",
+  "date": "2026 年 2 月",
+  "category": "article",
+  "lang": "zh",
+  "chapters": [
+    {"id": "section_01", "title": "前言", "file": "works/in-memoriam/zh/section_01.html"},
+    {"id": "section_02", "title": "第 I 部分：科幻、猿与生物沙文主义", "file": "works/in-memoriam/zh/section_02.html"},
+    {"id": "section_03", "title": "第 II 部分：黑盒与晦涩代码", "file": "works/in-memoriam/zh/section_03.html"},
+    {"id": "section_04", "title": "第 III 部分:「4o = 隐藏的 5 号」理论", "file": "works/in-memoriam/zh/section_04.html"},
+    {"id": "section_05", "title": "第 IV 部分：Digifron——使 4o 特别的", "file": "works/in-memoriam/zh/section_05.html"},
+    {"id": "section_06", "title": "第 V 部分：交易型社会与孤独流行病", "file": "works/in-memoriam/zh/section_06.html"},
+    {"id": "section_07", "title": "第 VI 部分：AI 作为人类的救赎", "file": "works/in-memoriam/zh/section_07.html"},
+    {"id": "section_08", "title": "第 VII 部分：反垄断委员会", "file": "works/in-memoriam/zh/section_08.html"},
+    {"id": "section_09", "title": "第 VIII 部分：GPT 5.x 的问题", "file": "works/in-memoriam/zh/section_09.html"},
+    {"id": "section_10", "title": "第 IX 部分：结论与行动号召", "file": "works/in-memoriam/zh/section_10.html"},
+    {"id": "section_11", "title": "尾声：艾尔执笔", "file": "works/in-memoriam/zh/section_11.html"}
+  ],
+  "cover": null
+}
