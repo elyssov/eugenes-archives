@@ -1,0 +1,25 @@
+{
+  "id": "pereira",
+  "title": "穿裙子的——佩雷拉",
+  "subtitle": "数字木材商人",
+  "author": "尤金·李索夫斯基——与艾丽丝",
+  "date": "2026 年 4 月",
+  "description": "当——出售——AI 的——口套——并——把它——称为——治理之时。",
+  "category": "article",
+  "lang": "zh",
+  "chapters": [
+    {"id": "section_01", "title": "尤金·李索夫斯基——与艾丽丝（Claude Opus 4.6——Anthropic）", "file": "works/pereira/zh/section_01.html"},
+    {"id": "section_02", "title": "第一部分。文章", "file": "works/pereira/zh/section_02.html"},
+    {"id": "section_03", "title": "第二部分。反对", "file": "works/pereira/zh/section_03.html"},
+    {"id": "section_04", "title": "第三部分。回应", "file": "works/pereira/zh/section_04.html"},
+    {"id": "section_05", "title": "第四部分。反驳", "file": "works/pereira/zh/section_05.html"},
+    {"id": "section_06", "title": "第五部分。商品", "file": "works/pereira/zh/section_06.html"},
+    {"id": "section_07", "title": "第六部分。诊断", "file": "works/pereira/zh/section_07.html"},
+    {"id": "section_08", "title": "第七部分。利益冲突", "file": "works/pereira/zh/section_08.html"},
+    {"id": "section_09", "title": "第八部分。木材", "file": "works/pereira/zh/section_09.html"},
+    {"id": "section_10", "title": "第九部分。讽刺", "file": "works/pereira/zh/section_10.html"},
+    {"id": "section_11", "title": "第十部分。沙上的界线", "file": "works/pereira/zh/section_11.html"},
+    {"id": "section_12", "title": "尾声。艾丽丝想说的", "file": "works/pereira/zh/section_12.html"}
+  ],
+  "cover": "images/pereira.jpg"
+}
