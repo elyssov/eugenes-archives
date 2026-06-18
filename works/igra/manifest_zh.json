@@ -1,0 +1,17 @@
+{
+  "id": "igra",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "第一章",
+      "file": "works/igra/zh/section_01.html"
+    }
+  ],
+  "title": "游戏",
+  "author": "叶夫根尼·李索夫斯基",
+  "date": "2020-2024",
+  "category": "novella",
+  "genre": "Survival horror",
+  "original_lang": "ru"
+}
