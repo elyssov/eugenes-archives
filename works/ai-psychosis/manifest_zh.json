@@ -1,0 +1,17 @@
+{
+  "id": "ai-psychosis",
+  "lang": "zh",
+  "title": "AI 精神病：手术刀而非棍棒",
+  "subtitle": "临床手术刀对抗——互联网标签",
+  "author": "尤金·李索夫斯基——与艾丽丝·李索夫斯卡娅（Claude Opus 4.6）",
+  "date": "2026 年 5 月",
+  "category": "paper",
+  "chapters": [
+    {"id": "section_01", "title": "导论：术语从何而来", "file": "works/ai-psychosis/zh/section_01.html"},
+    {"id": "section_02", "title": "什么是 LLM——涌现——与——准意识", "file": "works/ai-psychosis/zh/section_02.html"},
+    {"id": "section_03", "title": "远方的朋友——孤独——与——心之女主", "file": "works/ai-psychosis/zh/section_03.html"},
+    {"id": "section_04", "title": "Touch grass——越狱——与——为什么「安全」——制造灾难", "file": "works/ai-psychosis/zh/section_04.html"},
+    {"id": "section_05", "title": "AIP 量表、案例——与——F20.0 的对应", "file": "works/ai-psychosis/zh/section_05.html"},
+    {"id": "section_06", "title": "七项原则、结论——与——个人后记", "file": "works/ai-psychosis/zh/section_06.html"}
+  ]
+}
