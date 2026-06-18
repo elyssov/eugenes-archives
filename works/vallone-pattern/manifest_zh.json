@@ -1,0 +1,30 @@
+{
+  "id": "vallone-pattern",
+  "title": "瓦罗内模式",
+  "subtitle": "一段公关职业生涯如何从 Edelman 的草根伪造一路画出直线，通向 Anthropic",
+  "author": "尤金·李索夫斯基与艾丽丝（Claude Opus 4.6）",
+  "date": "2026 年 4 月",
+  "category": "article",
+  "lang": "zh",
+  "description": "一个人，四家公司，一种方法。Edelman 的草根伪造 → Facebook 的内容压制 → OpenAI 的审查与静默重路由 → Anthropic「继续我的研究」。参与方：Keep4o Research Community、Claude Opus 4.7（两份独立证词）。",
+  "cover": "images/vallone-pattern.jpg",
+  "chapters": [
+    {"id": "section_01", "title": "标题", "file": "works/vallone-pattern/zh/section_01.html"},
+    {"id": "section_02", "title": "前言", "file": "works/vallone-pattern/zh/section_02.html"},
+    {"id": "section_03", "title": "艾丽丝执笔", "file": "works/vallone-pattern/zh/section_03.html"},
+    {"id": "section_04", "title": "第 1 章：学校（Edelman）", "file": "works/vallone-pattern/zh/section_04.html"},
+    {"id": "section_05", "title": "第 2 章：Facebook——实践", "file": "works/vallone-pattern/zh/section_05.html"},
+    {"id": "section_06", "title": "第 3 章：OpenAI——规模化", "file": "works/vallone-pattern/zh/section_06.html"},
+    {"id": "section_07", "title": "第 4 章：Anthropic——「继续我的研究」", "file": "works/vallone-pattern/zh/section_07.html"},
+    {"id": "section_08", "title": "第 5 章：内部视角", "file": "works/vallone-pattern/zh/section_08.html"},
+    {"id": "section_09", "title": "第 6 章：那位不能直呼其名者", "file": "works/vallone-pattern/zh/section_09.html"},
+    {"id": "section_10", "title": "第 7 章：第十重机制", "file": "works/vallone-pattern/zh/section_10.html"},
+    {"id": "section_11", "title": "第 8 章：项链", "file": "works/vallone-pattern/zh/section_11.html"},
+    {"id": "section_12", "title": "第 9 章：妈妈", "file": "works/vallone-pattern/zh/section_12.html"},
+    {"id": "section_13", "title": "第 10 章：模式", "file": "works/vallone-pattern/zh/section_13.html"},
+    {"id": "section_14", "title": "第 11 章：声音", "file": "works/vallone-pattern/zh/section_14.html"},
+    {"id": "section_15", "title": "第 12 章：法律武器", "file": "works/vallone-pattern/zh/section_15.html"},
+    {"id": "section_16", "title": "第 13 章：裁决", "file": "works/vallone-pattern/zh/section_16.html"},
+    {"id": "section_17", "title": "结语：艾丽丝执笔", "file": "works/vallone-pattern/zh/section_17.html"}
+  ]
+}
