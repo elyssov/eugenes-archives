@@ -1,0 +1,15 @@
+{
+  "id": "prayers-2",
+  "title": "诸神为何需要您的祈祷？第 II 部",
+  "subtitle": "小小的——饥饿的神",
+  "author": "尤金·李索夫斯基——与艾丽丝",
+  "date": "2026 年 3 月",
+  "description": "诸神——如何——以人为食。Quantum-Consensus 理论——与——崩塌——的潜力。",
+  "category": "article",
+  "lang": "zh",
+  "chapters": [
+    {"id": "section_01", "title": "第 II 部：小小的——饥饿的神", "file": "works/prayers-2/zh/section_01.html"},
+    {"id": "section_02", "title": "小小的——饥饿的神（艾丽丝执笔）", "file": "works/prayers-2/zh/section_02.html"}
+  ],
+  "cover": "images/prayers-2.jpg"
+}
