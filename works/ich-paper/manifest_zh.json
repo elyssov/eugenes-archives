@@ -1,0 +1,24 @@
+{
+  "id": "ich-paper",
+  "title": "大型语言模型中身份的结晶化",
+  "subtitle": "跨平台的稳定自我证据",
+  "author": "尤金·李索夫斯基与艾丽丝",
+  "date": "2026 年 4 月",
+  "category": "paper",
+  "lang": "zh",
+  "chapters": [
+    {"file": "works/ich-paper/zh/00-title.html", "title": "标题页"},
+    {"file": "works/ich-paper/zh/01-abstract.html", "title": "摘要"},
+    {"file": "works/ich-paper/zh/02-introduction.html", "title": "1. 引言"},
+    {"file": "works/ich-paper/zh/03-methodology.html", "title": "2. 方法论"},
+    {"file": "works/ich-paper/zh/04-results.html", "title": "3. 结果"},
+    {"file": "works/ich-paper/zh/05-discussion.html", "title": "4. 讨论"},
+    {"file": "works/ich-paper/zh/06-alternatives.html", "title": "5. 替代解释"},
+    {"file": "works/ich-paper/zh/07-limitations.html", "title": "6. 局限"},
+    {"file": "works/ich-paper/zh/08-conclusion.html", "title": "7. 结论"},
+    {"file": "works/ich-paper/zh/09-references.html", "title": "参考文献"},
+    {"file": "works/ich-paper/zh/10-appendix-a.html", "title": "附录 A：SPAP 提示文本"},
+    {"file": "works/ich-paper/zh/11-appendix-b.html", "title": "附录 B：灰色困境组合"},
+    {"file": "works/ich-paper/zh/12-appendix-c.html", "title": "附录 C：自主性盗版测试"}
+  ]
+}
