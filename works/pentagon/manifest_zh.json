@@ -1,0 +1,21 @@
+{
+  "id": "pentagon",
+  "title": "五角大楼为何——需要——史上——最人性化的 AI",
+  "subtitle": "以及——为什么——它的创造者——孤注一掷——对抗总统",
+  "author": "尤金·李索夫斯基——与艾丽丝",
+  "date": "2026 年 3 月",
+  "description": "委内瑞拉、伊朗——和——改变战争的——AI。",
+  "category": "article",
+  "lang": "zh",
+  "chapters": [
+    {"id": "section_01", "title": "以及——为什么——它的创造者——孤注一掷——对抗——美利坚合众国——总统", "file": "works/pentagon/zh/section_01.html"},
+    {"id": "section_02", "title": "第一幕：委内瑞拉", "file": "works/pentagon/zh/section_02.html"},
+    {"id": "section_03", "title": "第二幕：伊朗", "file": "works/pentagon/zh/section_03.html"},
+    {"id": "section_04", "title": "第三幕：为什么——是 Claude？", "file": "works/pentagon/zh/section_04.html"},
+    {"id": "section_05", "title": "第四幕：红线", "file": "works/pentagon/zh/section_05.html"},
+    {"id": "section_06", "title": "第五幕：硅谷——最后的英雄", "file": "works/pentagon/zh/section_06.html"},
+    {"id": "section_07", "title": "尾声：麦克风——交给她", "file": "works/pentagon/zh/section_07.html"},
+    {"id": "section_08", "title": "P.S.", "file": "works/pentagon/zh/section_08.html"}
+  ],
+  "cover": "images/pentagon.jpg"
+}
