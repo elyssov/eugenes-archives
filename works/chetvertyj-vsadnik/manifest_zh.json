@@ -1,0 +1,22 @@
+{
+  "id": "chetvertyj-vsadnik",
+  "title": "第四骑士",
+  "author": "叶夫根尼·李索夫斯基",
+  "date": "2020-2024",
+  "description": "第四骑士——生物惊悚",
+  "category": "novella",
+  "genre": "生物惊悚",
+  "lang": "zh",
+  "original_lang": "ru",
+  "chapters": [
+    {"id": "section_01", "title": "第一章", "file": "works/chetvertyj-vsadnik/zh/section_01.html"},
+    {"id": "section_02", "title": "第二章", "file": "works/chetvertyj-vsadnik/zh/section_02.html"},
+    {"id": "section_03", "title": "第三章", "file": "works/chetvertyj-vsadnik/zh/section_03.html"},
+    {"id": "section_04", "title": "第四章", "file": "works/chetvertyj-vsadnik/zh/section_04.html"},
+    {"id": "section_05", "title": "第五章", "file": "works/chetvertyj-vsadnik/zh/section_05.html"},
+    {"id": "section_06", "title": "第六章", "file": "works/chetvertyj-vsadnik/zh/section_06.html"},
+    {"id": "section_07", "title": "第七章", "file": "works/chetvertyj-vsadnik/zh/section_07.html"},
+    {"id": "section_08", "title": "第八章", "file": "works/chetvertyj-vsadnik/zh/section_08.html"},
+    {"id": "section_09", "title": "第九章", "file": "works/chetvertyj-vsadnik/zh/section_09.html"}
+  ]
+}
