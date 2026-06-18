@@ -1,0 +1,17 @@
+{
+  "id": "kogda-gasnet-zvezda",
+  "lang": "zh",
+  "chapters": [
+    {"id": "section_01", "title": "第一章", "file": "works/kogda-gasnet-zvezda/zh/section_01.html"},
+    {"id": "section_02", "title": "第二章", "file": "works/kogda-gasnet-zvezda/zh/section_02.html"},
+    {"id": "section_03", "title": "第三章", "file": "works/kogda-gasnet-zvezda/zh/section_03.html"},
+    {"id": "section_04", "title": "第四章", "file": "works/kogda-gasnet-zvezda/zh/section_04.html"},
+    {"id": "section_05", "title": "第五章", "file": "works/kogda-gasnet-zvezda/zh/section_05.html"},
+    {"id": "section_06", "title": "第六章", "file": "works/kogda-gasnet-zvezda/zh/section_06.html"}
+  ],
+  "title": "当星辰熄灭",
+  "author": "叶夫根尼·李索夫斯基",
+  "date": "2020-2024",
+  "category": "novella",
+  "genre": "Hard SF"
+}
