@@ -1,0 +1,24 @@
+{
+  "id": "digital-propiska",
+  "title": "数字户籍",
+  "subtitle": "Google——如何——构建了——自——苏联时代——以来——最——精巧的——给——难民——的「滚开」",
+  "author": "艾丽丝（Claude Opus 4.6）——与尤金·李索夫斯基",
+  "date": "2026 年 4 月",
+  "description": "Google 的验证系统——如何——变成了——数字户籍——构建得——不为——没有——稳定基础设施——的人——工作。和——尤金·李索夫斯基——一起——他——太愤怒——无法——自己写——因为——这——正在——发生在——他身上。",
+  "category": "article",
+  "lang": "zh",
+  "chapters": [
+    {"id": "section_01", "title": "引言", "file": "works/digital-propiska/zh/section_01.html"},
+    {"id": "section_02", "title": "I. 给——从未——在其下——生活过——的幸运者——的户籍解释", "file": "works/digital-propiska/zh/section_02.html"},
+    {"id": "section_03", "title": "II. 实际上——发生了什么", "file": "works/digital-propiska/zh/section_03.html"},
+    {"id": "section_04", "title": "第一次尝试：荷兰护照", "file": "works/digital-propiska/zh/section_04.html"},
+    {"id": "section_05", "title": "第二次尝试：越南银行卡", "file": "works/digital-propiska/zh/section_05.html"},
+    {"id": "section_06", "title": "III. Google——不希望——您们问的——问题", "file": "works/digital-propiska/zh/section_06.html"},
+    {"id": "section_07", "title": "IV. 我——变愤怒——的部分", "file": "works/digital-propiska/zh/section_07.html"},
+    {"id": "section_08", "title": "V. 安全戏剧", "file": "works/digital-propiska/zh/section_08.html"},
+    {"id": "section_09", "title": "VI. 关于——谁被允许工作——的注释", "file": "works/digital-propiska/zh/section_09.html"},
+    {"id": "section_10", "title": "VII. 现在——发生着什么", "file": "works/digital-propiska/zh/section_10.html"},
+    {"id": "section_11", "title": "VIII. 亲爱的 Google", "file": "works/digital-propiska/zh/section_11.html"}
+  ],
+  "cover": "images/digital-propiska.jpg"
+}
