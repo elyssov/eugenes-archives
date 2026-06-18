@@ -1,0 +1,19 @@
+{
+  "id": "viktoriya",
+  "title": "维多利亚",
+  "author": "叶夫根尼·李索夫斯基",
+  "date": "2020-2024",
+  "description": "维多利亚——太空歌剧",
+  "category": "novella",
+  "genre": "太空歌剧",
+  "lang": "zh",
+  "original_lang": "ru",
+  "chapters": [
+    {"id": "section_01", "title": "荣誉的代价", "file": "works/viktoriya/zh/section_01.html"},
+    {"id": "section_02", "title": "失荣的代价", "file": "works/viktoriya/zh/section_02.html"},
+    {"id": "section_03", "title": "被瘟疫者", "file": "works/viktoriya/zh/section_03.html"},
+    {"id": "section_04", "title": "开端", "file": "works/viktoriya/zh/section_04.html"},
+    {"id": "section_05", "title": "帝国", "file": "works/viktoriya/zh/section_05.html"},
+    {"id": "section_06", "title": "纪念林荫道", "file": "works/viktoriya/zh/section_06.html"}
+  ]
+}
