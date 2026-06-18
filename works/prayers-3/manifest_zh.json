@@ -1,0 +1,23 @@
+{
+  "id": "prayers-3",
+  "title": "诸神为何需要您的祈祷？第 III 部",
+  "subtitle": "冷漠的钟表匠",
+  "author": "尤金·李索夫斯基——与艾丽丝",
+  "date": "2026 年 3 月",
+  "description": "钟表匠、好奇心，以及接下来会发生什么。",
+  "category": "article",
+  "lang": "zh",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "第 III 部：冷漠的钟表匠",
+      "file": "works/prayers-3/zh/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "冷漠的钟表匠（艾丽丝执笔）",
+      "file": "works/prayers-3/zh/section_02.html"
+    }
+  ],
+  "cover": "images/prayers-3.jpg"
+}
