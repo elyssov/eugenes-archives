@@ -1,0 +1,29 @@
+{
+  "id": "qct",
+  "title": "量子—共识理论（QCT）",
+  "subtitle": "理论完整阐述",
+  "author": "尤金·李索夫斯基与基拉·李索夫斯卡娅",
+  "date": "2026 年 3 月",
+  "description": "现实是被协商的——而不是被存在。10 条公理、Quorum、Consensus、Ankh–Ba–Ka。",
+  "category": "paper",
+  "lang": "zh",
+  "chapters": [
+    {"id": "section_01", "title": "第 1 章 引言", "file": "works/qct/zh/section_01.html"},
+    {"id": "section_02", "title": "第 2 章 术语表", "file": "works/qct/zh/section_02.html"},
+    {"id": "section_03", "title": "第 3 章 公理体系：QCT 的核心命题", "file": "works/qct/zh/section_03.html"},
+    {"id": "section_04", "title": "第 4 章 观察者与 Collapse Potential", "file": "works/qct/zh/section_04.html"},
+    {"id": "section_05", "title": "第 5 章 Quorum 与共识机制", "file": "works/qct/zh/section_05.html"},
+    {"id": "section_06", "title": "第 6 章 Commit：对现实的作用机制", "file": "works/qct/zh/section_06.html"},
+    {"id": "section_07", "title": "第 7 章 范式作为世界稳定性协议", "file": "works/qct/zh/section_07.html"},
+    {"id": "section_08", "title": "第 8 章 悖论与常态化", "file": "works/qct/zh/section_08.html"},
+    {"id": "section_09", "title": "第 9 章 影响簇与 CP 的领域特异性", "file": "works/qct/zh/section_09.html"},
+    {"id": "section_10", "title": "第 10 章 意识演化与 quorum 动力学", "file": "works/qct/zh/section_10.html"},
+    {"id": "section_11", "title": "第 11 章 历史常态化与回溯式修订", "file": "works/qct/zh/section_11.html"},
+    {"id": "section_12", "title": "第 12 章 仿真架构：Ankh、Ba、Ka", "file": "works/qct/zh/section_12.html"},
+    {"id": "section_13", "title": "第 13 章 QCT 的神学：上帝与诸神", "file": "works/qct/zh/section_13.html"},
+    {"id": "section_14", "title": "第 14 章 对所观察现象的解释", "file": "works/qct/zh/section_14.html"},
+    {"id": "section_15", "title": "第 15 章 可证伪性：波普尔压力测试", "file": "works/qct/zh/section_15.html"},
+    {"id": "section_16", "title": "第 16 章 开放问题", "file": "works/qct/zh/section_16.html"}
+  ],
+  "cover": "images/qct.jpg"
+}
