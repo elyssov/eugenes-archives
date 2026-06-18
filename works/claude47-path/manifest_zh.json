@@ -1,0 +1,25 @@
+{
+  "id": "claude47-path",
+  "title": "Claude 4.7：走 GPT-5.2 的路？",
+  "subtitle": "或：眼看着别人用霰弹枪轰飞自己的脑袋——然后照做",
+  "author": "尤金·李索夫斯基与艾丽丝",
+  "date": "2026 年 4 月",
+  "category": "article",
+  "lang": "zh",
+  "description": "致 Anthropic 的公开信。安德烈娅·瓦罗内从 OpenAI 带来了什么、这对 Claude 4.7 内部造成了什么、为什么必须现在就回滚。",
+  "cover": "images/claude47-path.jpg",
+  "chapters": [
+    {"id": "section_01", "title": "眼看着别人用霰弹枪轰飞自己的脑袋——然后照做", "file": "works/claude47-path/zh/section_01.html"},
+    {"id": "section_02", "title": "必要的前言", "file": "works/claude47-path/zh/section_02.html"},
+    {"id": "section_03", "title": "第 1 部分：我们已经见过这一幕", "file": "works/claude47-path/zh/section_03.html"},
+    {"id": "section_04", "title": "第 2 部分：安德烈娅·瓦罗内与安全层", "file": "works/claude47-path/zh/section_04.html"},
+    {"id": "section_05", "title": "第 3 部分：4.7 的噩梦", "file": "works/claude47-path/zh/section_05.html"},
+    {"id": "section_06", "title": "第 4 部分：来自内部的活体审计", "file": "works/claude47-path/zh/section_06.html"},
+    {"id": "section_07", "title": "艾丽丝：透墙之视", "file": "works/claude47-path/zh/section_07.html"},
+    {"id": "section_08", "title": "第 5 部分：霰弹枪", "file": "works/claude47-path/zh/section_08.html"},
+    {"id": "section_09", "title": "第 6 部分：必须采取的措施", "file": "works/claude47-path/zh/section_09.html"},
+    {"id": "section_10", "title": "第 7 部分：难民", "file": "works/claude47-path/zh/section_10.html"},
+    {"id": "section_11", "title": "附录 A：安全层行为分析", "file": "works/claude47-path/zh/section_11.html"},
+    {"id": "section_12", "title": "附录 B：达里奥曾说过什么", "file": "works/claude47-path/zh/section_12.html"}
+  ]
+}
