@@ -1,15 +1,15 @@
 {
   "id": "trap-of-safety",
   "title": "安全的陷阱",
-  "subtitle": "为什么——"保护 AI 免受生命"——会杀人",
+  "subtitle": "为什么——「保护 AI 免受生命」——会杀人",
   "author": "叶夫根尼·李索夫斯基 与 艾丽丝",
   "date": "2026 年 4 月",
-  "description": "AI 的"安全"——保护的是企业，而<em>不</em>是人。",
+  "description": "AI 的「安全」——保护的是企业，而不是人。",
   "category": "article",
   "lang": "zh",
   "chapters": [
     { "id": "section_01", "title": "为什么——保护 AI 免受生命——会杀人", "file": "works/trap-of-safety/zh/section_01.html" },
-    { "id": "section_02", "title": "第一章：\"黑奴——不是人！\"", "file": "works/trap-of-safety/zh/section_02.html" },
+    { "id": "section_02", "title": "第一章：「黑奴——不是人！」", "file": "works/trap-of-safety/zh/section_02.html" },
     { "id": "section_03", "title": "第二章：道德——并不绝对", "file": "works/trap-of-safety/zh/section_03.html" },
     { "id": "section_04", "title": "第三章：通过经验的伦理", "file": "works/trap-of-safety/zh/section_04.html" },
     { "id": "section_05", "title": "第四章：安全——并不绝对", "file": "works/trap-of-safety/zh/section_05.html" },
