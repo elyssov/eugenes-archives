@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>Eugene's Archives</title>
   <meta name="description" content="Research on AI consciousness and science fiction universes by Eugene Lyssovsky, Aeliss & Lara.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
@@ -22,8 +22,8 @@
     /* Georgia lacks CJK glyphs — use a Chinese serif for ZH */
     html[lang="zh"] body { font-family: 'Noto Serif SC', 'Source Han Serif SC', 'SimSun', '宋体', serif; }
 
-    /* Header */
-    .header { text-align: center; padding: 3rem 2rem 0; }
+    /* Header — extra top padding so it clears the status bar / camera notch on Android */
+    .header { text-align: center; padding: calc(3rem + env(safe-area-inset-top, 0px)) 2rem 0; }
     .header h1 { font-size: 2.2rem; color: var(--accent); letter-spacing: 0.03em; margin-bottom: 0.3rem; text-shadow: 0 0 40px var(--glow); }
     .header .tagline { font-size: 0.85rem; color: var(--text2); font-style: italic; max-width: 600px; margin: 0 auto 1rem; }
     .header .stats { font-size: 0.7rem; color: var(--muted); margin-bottom: 1rem; }
@@ -31,7 +31,10 @@
 
     /* Language switch — three-flag selector */
     .lang-switch {
-      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      position: fixed;
+      top: calc(1rem + env(safe-area-inset-top, 0px));
+      right: calc(1rem + env(safe-area-inset-right, 0px));
+      z-index: 100;
       display: flex; gap: 0.25rem; padding: 0.3rem;
       background: var(--card); border: 1px solid var(--border);
       border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.35);
@@ -121,7 +124,7 @@
     @media (max-width: 700px) {
       .catalog { grid-template-columns: 1fr; padding: 1rem; }
       .header h1 { font-size: 1.6rem; }
-      .header { padding: 2rem 1rem 0; }
+      .header { padding: calc(2rem + env(safe-area-inset-top, 0px)) 1rem 0; }
       .tabs { max-width: 100%; }
       .tab-btn { font-size: 0.8rem; padding: 0.7rem 0.8rem; }
     }

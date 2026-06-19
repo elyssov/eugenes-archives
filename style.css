@@ -126,7 +126,7 @@ html[lang="vi"] body {
 }
 
 .sidebar-header {
-  padding: 2rem 1.5rem 1rem;
+  padding: calc(2rem + env(safe-area-inset-top, 0px)) 1.5rem 1rem;
   border-bottom: 1px solid var(--border);
   flex-shrink: 0;
 }
@@ -253,7 +253,8 @@ html[lang="vi"] body {
 .hamburger {
   display: none;
   position: fixed;
-  top: 1rem; left: 1rem;
+  top: calc(1rem + env(safe-area-inset-top, 0px));
+  left: calc(1rem + env(safe-area-inset-left, 0px));
   z-index: 200;
   width: 44px; height: 44px;
   background: var(--bg-card);
