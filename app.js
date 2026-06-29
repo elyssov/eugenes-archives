@@ -108,7 +108,9 @@
     }
   };
 
-  const LANG_FLAGS = { en: '\uD83C\uDDEC\uD83C\uDDE7', ru: '\uD83C\uDDF7\uD83C\uDDFA', vi: '\uD83C\uDDFB\uD83C\uDDF3', zh: '\uD83C\uDDE8\uD83C\uDDF3' };
+  const DEFAULT_LANG = 'en';
+  const LANG_FLAGS = { en: '\uD83C\uDDFA\uD83C\uDDF8', ru: '\uD83C\uDDF7\uD83C\uDDFA', vi: '\uD83C\uDDFB\uD83C\uDDF3', zh: '\uD83C\uDDE8\uD83C\uDDF3' };
+  const LANG_LABELS = { en: '\uD83C\uDDFA\uD83C\uDDF8 EN', ru: '\uD83C\uDDF7\uD83C\uDDFA RU', vi: '\uD83C\uDDFB\uD83C\uDDF3 VN', zh: '\uD83C\uDDE8\uD83C\uDDF3 CN' };
   const LANG_NAMES = { en: 'English', ru: '\u0420\u0443\u0441\u0441\u043A\u0438\u0439', vi: 'Ti\u1EBFng Vi\u1EC7t', zh: '\u4E2D\u6587' };
   const LANG_ORDER = ['en', 'ru', 'vi', 'zh'];
 
@@ -118,9 +120,8 @@
     // Parse URL params
     var params = new URLSearchParams(window.location.search);
     if (params.get('work')) currentWork = params.get('work');
-    if (params.get('lang')) currentLang = params.get('lang');
-    try { if (!params.get('lang')) currentLang = localStorage.getItem('aeliss-lang') || 'en'; } catch(e) {}
-    if (LANG_ORDER.indexOf(currentLang) === -1) currentLang = 'en';
+    currentLang = params.get('lang') || DEFAULT_LANG;
+    if (LANG_ORDER.indexOf(currentLang) === -1) currentLang = DEFAULT_LANG;
     document.documentElement.lang = currentLang;
 
     await loadManifest();
@@ -360,7 +361,7 @@
     var avail = (workMeta && workMeta.languages && workMeta.languages.length) ? workMeta.languages : LANG_ORDER;
     box.innerHTML = LANG_ORDER.filter(function(l) { return avail.indexOf(l) !== -1; }).map(function(l) {
       return '<button class="lang-opt' + (l === currentLang ? ' active' : '') +
-        '" onclick="app.setLang(\'' + l + '\')" title="' + LANG_NAMES[l] + '">' + LANG_FLAGS[l] + '</button>';
+        '" onclick="app.setLang(\'' + l + '\')" title="' + LANG_NAMES[l] + '">' + LANG_LABELS[l] + '</button>';
     }).join('');
   }
 

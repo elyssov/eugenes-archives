@@ -41,8 +41,11 @@
     }
     .lang-opt {
       background: none; border: 2px solid transparent; border-radius: 7px;
-      cursor: pointer; font-size: 1.35rem; line-height: 1; padding: 0.2rem 0.35rem;
-      filter: grayscale(0.8); opacity: 0.5; transition: all 0.2s ease;
+      cursor: pointer; font-size: 0.8rem; line-height: 1; padding: 0.35rem 0.55rem;
+      color: var(--text); font-weight: 800; letter-spacing: 0.04em;
+      filter: grayscale(0.35); opacity: 0.75; transition: all 0.2s ease;
+      display: inline-flex; align-items: center; gap: 0.25rem; min-width: 4rem;
+      justify-content: center;
     }
     .lang-opt:hover { filter: grayscale(0); opacity: 1; transform: scale(1.12); }
     .lang-opt.active { filter: grayscale(0); opacity: 1; border-color: var(--accent); background: var(--glow); }
@@ -174,7 +177,9 @@
   </div>
 
   <script>
-    var lang = localStorage.getItem('archives-lang') || 'en';
+    var DEFAULT_LANG = 'en';
+    var params = new URLSearchParams(window.location.search);
+    var lang = params.get('lang') || DEFAULT_LANG;
     var currentTab = localStorage.getItem('archives-tab') || 'research';
     var works = [];
     var universes = [];
@@ -220,7 +225,8 @@
     };
 
     var LANGS = ['en', 'ru', 'vi', 'zh'];
-    var FLAGS = { en: '🇬🇧', ru: '🇷🇺', vi: '🇻🇳', zh: '🇨🇳' };
+    var FLAGS = { en: '🇺🇸', ru: '🇷🇺', vi: '🇻🇳', zh: '🇨🇳' };
+    var LANG_LABELS = { en: '🇺🇸 EN', ru: '🇷🇺 RU', vi: '🇻🇳 VN', zh: '🇨🇳 CN' };
     var LANG_NAMES = { en: 'English', ru: 'Русский', vi: 'Tiếng Việt', zh: '中文' };
     var DRAFT = { en: 'draft', ru: 'черновик', vi: 'bản nháp', zh: '草稿' };
     var EMPTY_MSG = { en: 'Coming soon...', ru: 'Скоро...', vi: 'Sắp ra mắt...', zh: '敬请期待……' };
@@ -252,7 +258,7 @@
       // Language selector \u2014 three flags, active one highlighted
       document.getElementById('langSwitch').innerHTML = LANGS.map(function(l) {
         return '<button class="lang-opt' + (l === lang ? ' active' : '') +
-          '" onclick="setLang(\'' + l + '\')" title="' + LANG_NAMES[l] + '">' + FLAGS[l] + '</button>';
+          '" onclick="setLang(\'' + l + '\')" title="' + LANG_NAMES[l] + '">' + LANG_LABELS[l] + '</button>';
       }).join('');
 
       document.getElementById('tagline').textContent = ui.tagline;
@@ -275,10 +281,10 @@
         var subtitle = loc(w, 'subtitle');
         var desc = loc(w, 'description');
         var cat = ui.categories[w.category] || w.category;
-        var origLang = w.original_lang || 'en';
+        var defaultLang = preferredReaderLang(w);
         var cardClass = isUniverse ? 'card universe-card' : 'card';
 
-        html += '<div class="' + cardClass + '" onclick="openWork(\'' + w.id + '\',\'' + origLang + '\')">';
+        html += '<div class="' + cardClass + '" onclick="openWork(\'' + w.id + '\',\'' + defaultLang + '\')">';
         if (w.cover) html += '<img class="card-cover" src="' + w.cover + '" alt="" loading="lazy">';
         html += '<div class="card-body">';
         html += '<div class="card-category">' + cat + '</div>';
@@ -304,6 +310,13 @@
 
     function openWork(id, readerLang) {
       window.location.href = 'reader.html?work=' + id + '&lang=' + readerLang;
+    }
+
+    function preferredReaderLang(w) {
+      var available = w.languages || [];
+      if (available.indexOf(lang) !== -1) return lang;
+      if (available.indexOf(DEFAULT_LANG) !== -1) return DEFAULT_LANG;
+      return w.original_lang || DEFAULT_LANG;
     }
 
     // Load both datasets
