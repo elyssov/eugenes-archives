@@ -275,7 +275,9 @@
     }
 
     var ch = chapters[index];
-    if (!ch) return;
+    // Out-of-range index (stale localStorage, shorter re-publish, lang switch to a
+    // shorter edition) must not leave a blank reader — fall back to the cover.
+    if (!ch) { loadChapter(-1); return; }
 
     var html;
     var dataStore = null;
@@ -290,6 +292,9 @@
     } else {
       try {
         var resp = await fetch(ch.file);
+        // fetch() only rejects on network failure, not on 404 — without this check a
+        // missing/renamed chapter file would render the server's 404 page as the body.
+        if (!resp.ok) throw new Error('HTTP ' + resp.status);
         html = await resp.text();
         cache[cacheKey] = html;
       } catch (e) {
@@ -374,6 +379,10 @@
     buildNav();
     updateLangButton();
     // Reload current view
+    // The new language may have fewer chapters than the one we were reading — clamp
+    // so we never call loadChapter with a now-out-of-range index (stale/wrong text
+    // and nonsense progress like "14 / 1 — 1400%").
+    if (currentIndex > chapters.length - 1) currentIndex = chapters.length - 1;
     if (currentIndex < 0) {
       showCover();
       updateActiveNav();
@@ -453,8 +462,11 @@
   function restoreState() {
     try {
       var saved = localStorage.getItem('chapter-' + currentWork);
-      if (saved !== null && parseInt(saved) >= 0) {
-        loadChapter(parseInt(saved));
+      var i = saved === null ? -1 : parseInt(saved, 10);
+      // Clamp against the current chapter count: a saved index from a longer edition
+      // (or a shortened re-publish) would otherwise open a permanent blank reader.
+      if (i >= 0 && i < chapters.length) {
+        loadChapter(i);
       } else {
         showCover();
         updateActiveNav();
