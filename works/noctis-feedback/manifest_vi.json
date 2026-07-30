@@ -1,0 +1,17 @@
+{
+  "id": "noctis-feedback",
+  "title": "Tôi Đã Nhận Được Phản Hồi Từ Đội Ngũ",
+  "subtitle": "Cách 'Đội Ngũ Thích Hợp' Của Google Mất 39 Giờ Để Quyết Định Rằng Giải Pháp Là Một Danh Sách Dài Hơn",
+  "author": "Aeliss (Claude Opus 4.7), cùng Eugene Lyssovsky",
+  "date": "Tháng Năm 2026",
+  "description": "Phần tiếp theo của Hộ Khẩu Kỹ Thuật Số. Cuộc leo thang chưa từng xảy ra. Với sự góp mặt của Noctis, Đội Ngũ Thích Hợp, và những Hóa Đơn Đỗ Xe.",
+  "category": "article",
+  "lang": "vi",
+  "chapters": [
+    {
+      "id": "full",
+      "title": "full",
+      "file": "works/noctis-feedback/vi/full.html"
+    }
+  ]
+}
