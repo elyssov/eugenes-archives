@@ -36,7 +36,8 @@ def main():
         work_id = data.get('id') or os.path.basename(os.path.dirname(mf))
         lang = data.get('lang', '')
         changed = False
-        for ch in data.get('chapters', []):
+        # Some manifests use 'chapters', others (khroniki и др.) use 'sections'.
+        for ch in data.get('chapters', []) + data.get('sections', []):
             fp = ch.get('file', '')
             full = os.path.join(ROOT, fp.replace('/', os.sep))
             if os.path.exists(full):
