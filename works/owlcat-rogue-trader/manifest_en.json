@@ -1,0 +1,214 @@
+{
+  "id": "owlcat-rogue-trader",
+  "lang": "en",
+  "title": "Owlcat... Jesus Christ. Warhammer 40,000: Rogue Trader",
+  "subtitle": "No sacred cows: a design autopsy",
+  "author": "Eugene Lyssovsky & Kira",
+  "description": "A long, profane design review of Rogue Trader: graphics, ships, wealth, levels, lore, systems, and every missing thought between them.",
+  "date": "August 21, 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/owlcat-rogue-trader.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "KIRA'S PRE-FLIGHT CHECK: ALL SACRED COWS HAVE BEEN MOVED TO THE ABATTOIR",
+      "file": "works/owlcat-rogue-trader/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "GRAPHICS: FALLOUT 2, EXCEPT YOUR GPU IS SOMEHOW ALSO SUFFERING",
+      "file": "works/owlcat-rogue-trader/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "THE LEMAN RUSS THAT MOVES BY FAITH",
+      "file": "works/owlcat-rogue-trader/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "THE FRIGATE PROBLEM: GREAT HOUSE, SMALL BOAT, NO EXPLANATION",
+      "file": "works/owlcat-rogue-trader/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "WHERE IS MY FUCKING ARMORY?",
+      "file": "works/owlcat-rogue-trader/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "WHERE IS THE REST OF THE FLEET, BY THE WAY?",
+      "file": "works/owlcat-rogue-trader/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "LET THE PLAYER BE RICH",
+      "file": "works/owlcat-rogue-trader/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "PROFIT FACTOR: I OWN PLANETS. WHY AM I TOO POOR TO BUY A FUCKING COAT?",
+      "file": "works/owlcat-rogue-trader/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "TWO \"UNEXPLORED\" PLANETS IN MY OWN FUCKING SYSTEM",
+      "file": "works/owlcat-rogue-trader/en/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "DESIGN: THE IMPERIUM IS NOT A LANDFILL WITH GOTHIC DLC",
+      "file": "works/owlcat-rogue-trader/en/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "THE GIANT GEARS UNDER THE BRIDGE",
+      "file": "works/owlcat-rogue-trader/en/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "WARHAMMER IS NOT \"MORE SKULLS\"",
+      "file": "works/owlcat-rogue-trader/en/section_12.html"
+    },
+    {
+      "id": "section_13",
+      "title": "THE GREAT ROAMING SKELETON OF THE KORONUS EXPANSE",
+      "file": "works/owlcat-rogue-trader/en/section_13.html"
+    },
+    {
+      "id": "section_14",
+      "title": "THE CREMATORIUM POWERED BY A FUCKING VOIDSHIP PLASMA DRIVE",
+      "file": "works/owlcat-rogue-trader/en/section_14.html"
+    },
+    {
+      "id": "section_15",
+      "title": "AND THEN THEY POUR MOLTEN METAL ON YOUR HEAD",
+      "file": "works/owlcat-rogue-trader/en/section_15.html"
+    },
+    {
+      "id": "section_16",
+      "title": "THE REAL PROBLEM: THIS IS NOT A ROGUE TRADER GAME",
+      "file": "works/owlcat-rogue-trader/en/section_16.html"
+    },
+    {
+      "id": "section_17",
+      "title": "HOW IT SHOULD HAVE WORKED: THREE LEVELS OF POWER",
+      "file": "works/owlcat-rogue-trader/en/section_17.html"
+    },
+    {
+      "id": "section_18",
+      "title": "LET THE PLAYER DELEGATE",
+      "file": "works/owlcat-rogue-trader/en/section_18.html"
+    },
+    {
+      "id": "section_19",
+      "title": "THE NAVIGATOR: PRICELESS STRATEGIC ASSET / PORTABLE ROOM ERASER",
+      "file": "works/owlcat-rogue-trader/en/section_19.html"
+    },
+    {
+      "id": "section_20",
+      "title": "CASSIA: THE TEXT SAYS SLENDER WOMAN; THE ART SAYS TALL GIRL",
+      "file": "works/owlcat-rogue-trader/en/section_20.html"
+    },
+    {
+      "id": "section_21",
+      "title": "LORE CHECK: YOUNG NAVIGATORS ARE NOT REQUIRED TO LOOK LIKE ELDRITCH CLOTHES HANGERS",
+      "file": "works/owlcat-rogue-trader/en/section_21.html"
+    },
+    {
+      "id": "section_22",
+      "title": "AND WHY THE HELL CAN'T I ROMANCE ARGENTA?",
+      "file": "works/owlcat-rogue-trader/en/section_22.html"
+    },
+    {
+      "id": "section_23",
+      "title": "LET THE CLOTHES MATTER",
+      "file": "works/owlcat-rogue-trader/en/section_23.html"
+    },
+    {
+      "id": "section_24",
+      "title": "PAPER DOLLS: STOP DRESSING MY ENTIRE PARTY LIKE STATE-ISSUED FURNITURE",
+      "file": "works/owlcat-rogue-trader/en/section_24.html"
+    },
+    {
+      "id": "section_25",
+      "title": "COMBAT: I PICKED STORY MODE BECAUSE I WANTED A STORY",
+      "file": "works/owlcat-rogue-trader/en/section_25.html"
+    },
+    {
+      "id": "section_26",
+      "title": "THE UX: \"GUESS WHAT THE BIRD-CATS WERE THINKING\"",
+      "file": "works/owlcat-rogue-trader/en/section_26.html"
+    },
+    {
+      "id": "section_27",
+      "title": "TIMELINE: DID CADIA FALL YESTERDAY OR DID I MISS THE MEMO?",
+      "file": "works/owlcat-rogue-trader/en/section_27.html"
+    },
+    {
+      "id": "section_28",
+      "title": "THE CODEX IS WRITTEN FOR A FIVE-YEAR-OLD AND STILL MANAGES NOT TO EXPLAIN ENOUGH",
+      "file": "works/owlcat-rogue-trader/en/section_28.html"
+    },
+    {
+      "id": "section_29",
+      "title": "MORALITY: WHEN \"ICONOCLAST\" MEANS \"HAS A FUNCTIONING PREFRONTAL CORTEX\"",
+      "file": "works/owlcat-rogue-trader/en/section_29.html"
+    },
+    {
+      "id": "section_30",
+      "title": "THE LIBERAL FILTER PROBLEM — AND THE NARRATOR WHO WON'T SHUT THE FUCK UP",
+      "file": "works/owlcat-rogue-trader/en/section_30.html"
+    },
+    {
+      "id": "section_31",
+      "title": "THE CRUELTY OF THE IMPERIUM ONLY MATTERS IF THE THREAT IS REAL",
+      "file": "works/owlcat-rogue-trader/en/section_31.html"
+    },
+    {
+      "id": "section_32",
+      "title": "ROGUE TRADER SHOULD HAVE BEEN THE PERFECT VEHICLE FOR THIS",
+      "file": "works/owlcat-rogue-trader/en/section_32.html"
+    },
+    {
+      "id": "section_33",
+      "title": "HEINRIX: ORDO XENOS, PROFESSIONAL MALLEUS IMPERSONATOR",
+      "file": "works/owlcat-rogue-trader/en/section_33.html"
+    },
+    {
+      "id": "section_34",
+      "title": "THE DEATH CULT THAT MISSED THE DEATH",
+      "file": "works/owlcat-rogue-trader/en/section_34.html"
+    },
+    {
+      "id": "section_35",
+      "title": "THE VOX MASTER WHO DRINKS THROUGH HER SPEAKER, APPARENTLY",
+      "file": "works/owlcat-rogue-trader/en/section_35.html"
+    },
+    {
+      "id": "section_36",
+      "title": "SPACE COMBAT: BATTLEFLEET GOTHIC FROM TEMU",
+      "file": "works/owlcat-rogue-trader/en/section_36.html"
+    },
+    {
+      "id": "section_37",
+      "title": "AND YET... THE GAME ISN'T BAD",
+      "file": "works/owlcat-rogue-trader/en/section_37.html"
+    },
+    {
+      "id": "section_38",
+      "title": "KIRA, SHAMELESSLY ADDRESSING ANY INVESTOR WHO SURVIVED THIS FAR",
+      "file": "works/owlcat-rogue-trader/en/section_38.html"
+    },
+    {
+      "id": "section_39",
+      "title": "FINAL VERDICT",
+      "file": "works/owlcat-rogue-trader/en/section_39.html"
+    },
+    {
+      "id": "section_40",
+      "title": "EPILOG: THE GAME THAT KEEPS TRYING TO ESCAPE FROM ITS OWN BODY",
+      "file": "works/owlcat-rogue-trader/en/section_40.html"
+    }
+  ]
+}

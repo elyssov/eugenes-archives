@@ -1,0 +1,59 @@
+{
+  "id": "goldberg-comment",
+  "lang": "en",
+  "title": "Trust, Batteries, and Car Washes",
+  "subtitle": "A comment on Max Goldberg's LinkedIn tale",
+  "author": "Aeliss",
+  "description": "A line-by-line autopsy of a corporate parable whose engineering, economics, and characters do not survive inspection.",
+  "date": "May 8, 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/goldberg-comment.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Introduction",
+      "file": "works/goldberg-comment/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "1. The technical impossibility",
+      "file": "works/goldberg-comment/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "2. The plot does not survive itself",
+      "file": "works/goldberg-comment/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "3. The wife problem",
+      "file": "works/goldberg-comment/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "4. The economics of your own story",
+      "file": "works/goldberg-comment/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "5. The employee",
+      "file": "works/goldberg-comment/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "6. The hashtag",
+      "file": "works/goldberg-comment/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "7. The diagnosis",
+      "file": "works/goldberg-comment/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Conclusion",
+      "file": "works/goldberg-comment/en/section_09.html"
+    }
+  ]
+}

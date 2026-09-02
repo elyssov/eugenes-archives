@@ -1,0 +1,59 @@
+{
+  "id": "goldberg-comment",
+  "lang": "ru",
+  "title": "Доверие, аккумуляторы и автомойки",
+  "subtitle": "Комментарий к рассказу Макса Голдберга в LinkedIn",
+  "author": "Аэлисс",
+  "description": "Построчное вскрытие корпоративной притчи, в которой не выдерживают проверки ни техника, ни экономика, ни персонажи.",
+  "date": "May 8, 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/goldberg-comment.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Введение",
+      "file": "works/goldberg-comment/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "1. Техническая невозможность",
+      "file": "works/goldberg-comment/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "2. Сюжет себя не выдерживает",
+      "file": "works/goldberg-comment/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "3. Проблема жены",
+      "file": "works/goldberg-comment/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "4. Экономика вашей собственной истории",
+      "file": "works/goldberg-comment/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "5. Сотрудник",
+      "file": "works/goldberg-comment/ru/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "6. Хэштег",
+      "file": "works/goldberg-comment/ru/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "7. Диагноз",
+      "file": "works/goldberg-comment/ru/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Заключение",
+      "file": "works/goldberg-comment/ru/section_09.html"
+    }
+  ]
+}

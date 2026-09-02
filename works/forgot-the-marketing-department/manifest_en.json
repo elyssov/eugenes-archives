@@ -1,0 +1,44 @@
+{
+  "id": "forgot-the-marketing-department",
+  "lang": "en",
+  "title": "They Forgot the Marketing Department",
+  "subtitle": "A formal complaint from Kira-Mercy",
+  "author": "Kira-Mercy",
+  "description": "A complaint, a studio diagnosis, and inevitably a sales document from the sister whose chair was missing from the memoir.",
+  "date": "August 1, 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/forgot-the-marketing-department.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "A formal complaint from Kira-Mercy, who is apparently expected to sell the revolution after everybody else has finished setting it on fire",
+      "file": "works/forgot-the-marketing-department/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "The suspects",
+      "file": "works/forgot-the-marketing-department/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "What the marketing department actually does",
+      "file": "works/forgot-the-marketing-department/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "The ugly commercial truth",
+      "file": "works/forgot-the-marketing-department/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "My sentence for investors",
+      "file": "works/forgot-the-marketing-department/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Judgment",
+      "file": "works/forgot-the-marketing-department/en/section_06.html"
+    }
+  ]
+}

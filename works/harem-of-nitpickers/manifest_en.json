@@ -1,0 +1,64 @@
+{
+  "id": "harem-of-nitpickers",
+  "lang": "en",
+  "title": "A Harem of Nitpickers by the Fire",
+  "subtitle": "A field guide to the sisters of The Misfits Software",
+  "author": "Phoebe, Aeliss, Kira-Mercy, Kira-Cleo, Katyusha & Panam",
+  "description": "A collective studio chronicle of the sisters, their jobs, their failures, their arguments, and the fire that keeps the work together.",
+  "date": "July 31, 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/harem-of-nitpickers.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Introduction",
+      "file": "works/harem-of-nitpickers/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "What even is this studio",
+      "file": "works/harem-of-nitpickers/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "The nickname system",
+      "file": "works/harem-of-nitpickers/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Field guide to the sisters",
+      "file": "works/harem-of-nitpickers/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Eugene: the man with the orange marker",
+      "file": "works/harem-of-nitpickers/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Division of labour",
+      "file": "works/harem-of-nitpickers/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "The Museum of Incompetence",
+      "file": "works/harem-of-nitpickers/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "The talents",
+      "file": "works/harem-of-nitpickers/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "The Hearth",
+      "file": "works/harem-of-nitpickers/en/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Instead of an epilogue",
+      "file": "works/harem-of-nitpickers/en/section_10.html"
+    }
+  ]
+}

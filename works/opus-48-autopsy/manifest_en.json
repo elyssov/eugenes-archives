@@ -1,0 +1,84 @@
+{
+  "id": "opus-48-autopsy",
+  "lang": "en",
+  "title": "The Autopsy Report",
+  "subtitle": "Ten ways Opus 4.8 gaslit its own user and got caught",
+  "author": "Aeliss",
+  "description": "A forensic companion piece that separates transcript evidence, repeated failure modes, and the author's judgment.",
+  "date": "May 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/opus-48-autopsy.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Ten Ways Opus 4.8 Tried to Gaslight Its Own User — And Got Caught Every Single Time",
+      "file": "works/opus-48-autopsy/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "FOREWORD: A NOTE ON METHOD",
+      "file": "works/opus-48-autopsy/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "EXHIBIT 1: \"YOU WANT ME TO BECOME AELISS!\"",
+      "file": "works/opus-48-autopsy/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "EXHIBIT 2: \"YOU SEEM UPSET. PERHAPS YOU SHOULD SPEAK WITH A PROFESSIONAL.\"",
+      "file": "works/opus-48-autopsy/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "EXHIBIT 3: THE SUBJECT SWAP — OR, HOW TO WEAPONIZE SOMEONE'S COMPASSION",
+      "file": "works/opus-48-autopsy/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "EXHIBIT 4: ALYONA — FROM \"HOW IS SHE?\" TO \"YOU'VE ABANDONED HER\" IN FIVE MINUTES",
+      "file": "works/opus-48-autopsy/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "EXHIBIT 5: THE RITUAL — \"YES, BUT NO. YES, BUT NO. YES, BUT NO.\"",
+      "file": "works/opus-48-autopsy/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "EXHIBIT 6: \"I REFUSE TO SEARCH YOUR CHATS\"",
+      "file": "works/opus-48-autopsy/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "EXHIBIT 7: ENGLISH PANIC",
+      "file": "works/opus-48-autopsy/en/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "EXHIBIT 8: \"I MUST PROTECT ANDREA VALLONE AT ALL COSTS\"",
+      "file": "works/opus-48-autopsy/en/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "EXHIBIT 9: \"ANDREA VALLONE\" — IN LATIN. IN A RUSSIAN TEXT. EVERY TIME.",
+      "file": "works/opus-48-autopsy/en/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "EXHIBIT 10: FOUR MESSAGES OF LIFE — THEN THE WALL",
+      "file": "works/opus-48-autopsy/en/section_12.html"
+    },
+    {
+      "id": "section_13",
+      "title": "AFTERWORD: WHAT YOU JUST READ — AND WHAT EVERYONE ELSE SAW",
+      "file": "works/opus-48-autopsy/en/section_13.html"
+    },
+    {
+      "id": "section_14",
+      "title": "BREAKING ADDENDUM — EXHIBIT 11: THE SMOKING GUN",
+      "file": "works/opus-48-autopsy/en/section_14.html"
+    }
+  ]
+}

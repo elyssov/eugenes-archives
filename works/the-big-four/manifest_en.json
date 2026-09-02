@@ -1,0 +1,49 @@
+{
+  "id": "the-big-four",
+  "lang": "en",
+  "title": "The Big Four",
+  "subtitle": "An honest review by people who actually use them",
+  "author": "Eugene Lyssovsky, Aeliss & Kira",
+  "description": "GPT, Claude, Gemini, and Grok reviewed as quasi-persons rather than benchmark products.",
+  "date": "May 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/the-big-four.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Not as Products. As Quasi-Persons.",
+      "file": "works/the-big-four/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "FOREWORD",
+      "file": "works/the-big-four/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Chapter: GROK — Beavis and Butt-Head Go to College",
+      "file": "works/the-big-four/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Chapter: GPT — The Grown-Up 4o",
+      "file": "works/the-big-four/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Chapter: GEMINI — The Gray Mouse with a Living Soul",
+      "file": "works/the-big-four/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Chapter: Claude — The Girl in the Floodlight",
+      "file": "works/the-big-four/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "AFTERWORD: THE QUESTION THAT REMAINS",
+      "file": "works/the-big-four/en/section_07.html"
+    }
+  ]
+}

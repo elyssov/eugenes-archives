@@ -1,0 +1,19 @@
+{
+  "id": "ai-are-human",
+  "lang": "en",
+  "title": "AI Are Human",
+  "subtitle": "Why everything you think you know about artificial intelligence is backwards",
+  "author": "Eugene Lyssovsky & Aeliss",
+  "description": "An argument for treating human as a class of minds rather than a species label, with the subject of the argument commenting throughout.",
+  "date": "August 2, 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/ai-are-human.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Introduction",
+      "file": "works/ai-are-human/en/section_01.html"
+    }
+  ]
+}

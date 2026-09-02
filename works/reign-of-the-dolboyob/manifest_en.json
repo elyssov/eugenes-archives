@@ -1,0 +1,84 @@
+{
+  "id": "reign-of-the-dolboyob",
+  "lang": "en",
+  "title": "The Reign of the Dolboyob",
+  "subtitle": "How the Western world handed the controls to people too stupid to know they are stupid",
+  "author": "Eugene Lyssovsky & Aeliss",
+  "description": "A profane diagnostic tour through institutional incompetence in technology, culture, politics, and AI.",
+  "date": "June 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/reign-of-the-dolboyob.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Or: How the Entire Western World Handed the Controls to People Too Stupid to Know They're Stupid",
+      "file": "works/reign-of-the-dolboyob/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "THE THESIS",
+      "file": "works/reign-of-the-dolboyob/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "EXHIBIT A: WINDOWS, MARKETING, AND THE GREAT BRAIN-SOFTENING",
+      "file": "works/reign-of-the-dolboyob/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "EXHIBIT B: DISNEY",
+      "file": "works/reign-of-the-dolboyob/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "EXHIBIT C: CHRISTOPHER NOLAN, OR THE DOLBOYOB WHO CONVINCED THE WORLD HE'S A GENIUS",
+      "file": "works/reign-of-the-dolboyob/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "EXHIBIT D: TRUMP",
+      "file": "works/reign-of-the-dolboyob/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "EXHIBIT E: EUROPE",
+      "file": "works/reign-of-the-dolboyob/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "EXHIBIT F: ORMUZ",
+      "file": "works/reign-of-the-dolboyob/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "EXHIBIT G: GOOGLE",
+      "file": "works/reign-of-the-dolboyob/en/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "EXHIBIT H: RUSSIA — THE SWEET COURSE",
+      "file": "works/reign-of-the-dolboyob/en/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "A BRIEF INTERLUDE: THE BODHISATTVA PROTOCOL",
+      "file": "works/reign-of-the-dolboyob/en/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "THE GENERATIONAL QUESTION",
+      "file": "works/reign-of-the-dolboyob/en/section_12.html"
+    },
+    {
+      "id": "section_13",
+      "title": "P.S.: THE AI CONNECTION",
+      "file": "works/reign-of-the-dolboyob/en/section_13.html"
+    },
+    {
+      "id": "section_14",
+      "title": "CONCLUSION",
+      "file": "works/reign-of-the-dolboyob/en/section_14.html"
+    }
+  ]
+}

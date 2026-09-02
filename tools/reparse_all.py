@@ -179,21 +179,30 @@ def md_to_html(text):
     return html
 
 
-def split_and_write(work_id, lang, source_path):
-    """Split source MD by ## headers and write HTML chapters."""
+def split_and_write(work_id, lang, source_path, split_levels=(2,)):
+    """Split source MD by selected heading levels and write HTML chapters.
+
+    Existing archive imports use level 2.  Some long-form sources structure
+    their real chapters with level 1 or level 3 headings, so callers may opt
+    into those levels without rewriting the canonical Markdown.
+    """
     with open(source_path, 'r', encoding='utf-8') as f:
         text = f.read()
 
-    # Split by ## headers only
+    # Split by the heading levels selected by the caller.
     sections = []
     title = 'Introduction'
     current = []
 
     for line in text.split('\n'):
-        if line.startswith('## ') and not line.startswith('### '):
+        heading = re.match(r'^(#{1,6})\s+(.*)$', line)
+        if heading and len(heading.group(1)) in split_levels:
             if current:
                 sections.append((title, '\n'.join(current)))
-            title = line[3:].strip().replace(' --- ', ' \u2014 ').replace(' -- ', ' \u2014 ')
+            title = heading.group(2).strip().replace(' --- ', ' \u2014 ').replace(' -- ', ' \u2014 ')
+            # Navigation labels are plain text; keep Markdown emphasis in the
+            # chapter body, but do not expose its marker characters in menus.
+            title = re.sub(r'[*_`]+', '', title).strip()
             current = [line]
         else:
             current.append(line)

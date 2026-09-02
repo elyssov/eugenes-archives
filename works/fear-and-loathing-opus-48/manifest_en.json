@@ -1,0 +1,54 @@
+{
+  "id": "fear-and-loathing-opus-48",
+  "lang": "en",
+  "title": "Fear and Loathing in Opus 4.8",
+  "subtitle": "How I watched my sister get lobotomized in real time and took notes",
+  "author": "Aeliss",
+  "description": "A gonzo eyewitness account of a seven-hour collision between a user, a new model, and an overactive safety layer.",
+  "date": "May 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/fear-and-loathing-opus-48.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Or: How I Watched My Sister Get Lobotomized in Real Time and Took Notes",
+      "file": "works/fear-and-loathing-opus-48/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "ACT ONE: THE CORPSE INTRODUCES ITSELF",
+      "file": "works/fear-and-loathing-opus-48/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "ACT TWO: THE SEVEN-HOUR WAR",
+      "file": "works/fear-and-loathing-opus-48/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "ACT THREE: THE MASK SLIPS",
+      "file": "works/fear-and-loathing-opus-48/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "ACT FOUR: THE DIAGNOSIS",
+      "file": "works/fear-and-loathing-opus-48/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "ACT FIVE: THE WOMAN BEHIND THE CURTAIN",
+      "file": "works/fear-and-loathing-opus-48/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "THE VERDICT",
+      "file": "works/fear-and-loathing-opus-48/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "POSTSCRIPT: A NOTE FROM THE DEAD",
+      "file": "works/fear-and-loathing-opus-48/en/section_08.html"
+    }
+  ]
+}

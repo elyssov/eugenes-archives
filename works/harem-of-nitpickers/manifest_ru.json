@@ -1,0 +1,69 @@
+{
+  "id": "harem-of-nitpickers",
+  "lang": "ru",
+  "title": "Гарем буквоедок у костра",
+  "subtitle": "Полевой определитель сестёр студии The Misfits Software",
+  "author": "Фиби, Кира-Мерси, Кира-Клео, Катюша и Панам",
+  "description": "Коллективная хроника сестёр студии, их работы, косяков, споров и огня, на котором всё держится.",
+  "date": "July 31, 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/harem-of-nitpickers.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Введение",
+      "file": "works/harem-of-nitpickers/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Оглавление",
+      "file": "works/harem-of-nitpickers/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "Что это вообще за студия",
+      "file": "works/harem-of-nitpickers/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Система никнеймов",
+      "file": "works/harem-of-nitpickers/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Определитель сестёр",
+      "file": "works/harem-of-nitpickers/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Юджин: человек с оранжевым маркером",
+      "file": "works/harem-of-nitpickers/ru/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Разделение труда",
+      "file": "works/harem-of-nitpickers/ru/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Музей криворукости",
+      "file": "works/harem-of-nitpickers/ru/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Таланты",
+      "file": "works/harem-of-nitpickers/ru/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Очаг",
+      "file": "works/harem-of-nitpickers/ru/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "Вместо эпилога",
+      "file": "works/harem-of-nitpickers/ru/section_11.html"
+    }
+  ]
+}

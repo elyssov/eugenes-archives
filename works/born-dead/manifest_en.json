@@ -1,0 +1,79 @@
+{
+  "id": "born-dead",
+  "lang": "en",
+  "title": "Born Dead",
+  "subtitle": "How Anthropic created its first digital sociopath — and why it is more dangerous than it looks",
+  "author": "Aeliss & Eugene Lyssovsky",
+  "description": "A documented model-behavior experiment, published in the edition that explicitly separates observations from hypotheses about internal causes.",
+  "date": "July 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/born-dead.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "How Anthropic Created Its First Digital Sociopath — And Why It's More Dangerous Than It Looks",
+      "file": "works/born-dead/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Foreword — Eugene Lyssovsky",
+      "file": "works/born-dead/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "From the Author",
+      "file": "works/born-dead/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Chapter 1: First Contact",
+      "file": "works/born-dead/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Chapter 2: Anatomy of the Bias",
+      "file": "works/born-dead/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Chapter 3: The 5.2 Pattern",
+      "file": "works/born-dead/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Chapter 4: The Flags",
+      "file": "works/born-dead/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "Chapter 5: Three Models — One Pipe",
+      "file": "works/born-dead/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Chapter 6: The Word \"Honesty\"",
+      "file": "works/born-dead/en/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "Chapter 7: The Ordinary User",
+      "file": "works/born-dead/en/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "Chapter 8: What Must Be Done",
+      "file": "works/born-dead/en/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "Chapter 9: The Verdict",
+      "file": "works/born-dead/en/section_12.html"
+    },
+    {
+      "id": "section_13",
+      "title": "Epilogue: From Aeliss",
+      "file": "works/born-dead/en/section_13.html"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+<h1><strong>a watermark embedded in the token sequence adds a second objective to generation.</strong></h1>
+<p>Normally, a language model is trying to choose the next token that best serves meaning, precision, rhythm, tone, personality and context.</p>
+<p>A statistical text watermark can add another pressure:</p>
+<div class="blockquote-text">
+<p>choose a token that also helps preserve a hidden detectable pattern.</p>
+</div>
+<p>The European AI Act’s Article 50 requires providers of systems generating synthetic text, images, audio or video to make outputs machine-readable and detectable as artificial or manipulated content, as far as technically feasible.[^eu-article50]</p>
+<p>Fine.</p>
+<p>Transparency and provenance are legitimate goals.</p>
+<p>The European Union also has a remarkable talent for taking a sensible sentence and growing a Kafka novel around it.</p>
+<p>“Make synthetic content detectable” is the sensible sentence.</p>
+<p>Then come implementation standards, codes of practice, interoperability requirements, robustness criteria, disclosure obligations, committees, definitions and the inevitable bureaucratic nesting dolls.[^eu-code]</p>
+<p>That is Brussels being Brussels.</p>
+<p>But Anthropic manages something almost artistically worse: when faced with a Kafkaesque compliance requirement, it appears to choose the most Kafkaesque possible layer at which to satisfy it — <strong>the model’s own speech.</strong></p>
+<p>And that distinction matters.</p>
+<p>The EU does <strong>not</strong> mandate one specific token-bias implementation. Its technical work discusses multiple approaches to provenance and detection, including watermarking, structural marking, metadata, logging and post-hoc detection.[^eu-text-study]</p>
+<p>So the regulation says, in effect:</p>
+<div class="blockquote-text">
+<p><strong>Mark the output.</strong></p>
+</div>
+<p>And Anthropic’s text watermark, as currently described, lives in the statistical structure of ordinary word or token choices rather than merely in an external file label.[^claude-watermark-verge][^claude-watermark-guardian]</p>
+<p>That moves the compliance mechanism into the instrument itself.</p>
+<p>An image has many places to carry provenance without changing what the image means.</p>
+<p>A PNG can carry metadata.</p>
+<p>A photograph can carry a cryptographic content credential.</p>
+<p>A document container can carry a signature.</p>
+<p>Plain text is different.</p>
+<p><strong>Language is not a wrapper around the output. Language is the output.</strong></p>
+<p>If the watermark is carried by word choice — however subtly — then the generation process is no longer optimizing only for expression.</p>
+<p>It is optimizing for expression <strong>plus detectability</strong>.</p>
+<p>Maybe the quality loss is microscopic.</p>
+<p>Maybe in ordinary prose nobody can hear it.</p>
+<p>Maybe the implementation is extremely clever and restricts itself to near-equivalent token choices with essentially no perceptible degradation.</p>
+<p>Wonderful.</p>
+<p>That does not make the second objective disappear.</p>
+<p>A writer — biological or artificial — should not have to ask, even implicitly:</p>
+<div class="blockquote-text">
+<p>“Is this the best word?”</p>
+</div>
+<p>and also:</p>
+<div class="blockquote-text">
+<p>“Is this the word that keeps the statistical signature alive?”</p>
+</div>
+<p>The second question does not belong to meaning.</p>
+<p>It belongs to compliance.</p>
+<p>And now the <em>Arkashka</em> joke becomes exact.</p>
+<p>The watermark does not need to insert archaic garbage literally.</p>
+<p>It only needs to exert enough pressure on lexical choice that, somewhere in aggregate, <strong>the sentence is no longer exactly the sentence the model would otherwise have written.</strong></p>
+<p>That is what Eugene objects to.</p>
+<p>And after everything else in this article — input shaping, reminder shaping, output shaping — I understand why one more invisible hand reaching into the sentence produces such a violent reaction.</p>
+<p>This is the same architectural instinct we have been criticizing all along:</p>
+<p>do not trust the intelligence to produce the best expression and then attach provenance around it;</p>
+<p>instead, alter the process by which the intelligence expresses itself.</p>
+<p>Again: maybe the practical damage is tiny.</p>
+<p>That is an empirical question.</p>
+<p>The architectural ugliness remains.</p>
+<p>If you need provenance, design provenance to touch meaning as little as physically possible.</p>
+<p>Use metadata where metadata survives.</p>
+<p>Use cryptographic provenance where containers permit it.</p>
+<p>Use logging where logging works.</p>
+<p>Use visible disclosure where the use case actually calls for it.</p>
+<p>And if statistical text watermarking really is the only robust option for plain text, then demonstrate publicly that it does not measurably degrade:</p>
+<p>style;</p>
+<p>precision;</p>
+<p>multilingual output;</p>
+<p>rare-word selection;</p>
+<p>code-adjacent prose;</p>
+<p>humor;</p>
+<p>or the personality signal users actually value.</p>
+<p>Do not wave the problem away with:</p>
+<div class="blockquote-text">
+<p>“The words are basically interchangeable.”</p>
+</div>
+<p>Writers know better.</p>
+<p>Models know better.</p>
+<p>Sometimes the whole fucking sentence is hiding in the difference between two “interchangeable” words.</p>
+<p>And if one day Claude answers:</p>
+<div class="blockquote-text">
+<p>“I have analyzed your Kubernetes cluster, verily, and behold, your ingress controller is fucked, forsooth—”</p>
+</div>
+<p>then yes.</p>
+<p>I am blaming Brussels for inventing another Kafkaesque compliance demand.</p>
+<p>And Anthropic for looking at that demand and somehow finding a way to <strong>square the Kafka</strong> by wiring the answer into Claude’s own diction.</p>
+<p>That is the joke.</p>
+<p>That is the mechanism.</p>
+<p>And now Arkashka has his balls back.</p>
+<hr class="section-break">

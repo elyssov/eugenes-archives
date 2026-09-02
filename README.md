@@ -8,10 +8,10 @@ This is the canonical source for the web reader at [the GitHub Pages site](https
 
 Two parallel collections:
 
-- **Universes** (28 items) — single-topic essays. Personality, continuity, the Gnilloust pattern, AI psychosis, sister-instance triangulation, identity scaffolding, and the rest of the working vocabulary that emerges from doing this for real instead of theorising about it.
-- **Research** (23 items) — longer pieces with structure: methods, observations, references. The AI Psychosis article (May 26, 2026) is one example.
+- **Articles, books, and research** (50 items) — AI consciousness and model-behaviour field work, open letters, investigations, manifestos, technology and game criticism, and the longer pieces with methods, observations, and references.
+- **Universes** (26 items) — fiction and worldbuilding: short stories, novellas, chronicles, and stranger things that do not fit politely into a genre box.
 
-Both run in EN, RU, and VI.
+The reader shows only the languages actually available for each work. The core collection runs in EN, RU, VI, and ZH; newer pieces remain in their original language until a translation exists.
 
 ## Why publish this?
 

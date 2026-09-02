@@ -1,0 +1,49 @@
+{
+  "id": "seventh-generation-fighter",
+  "lang": "ru",
+  "title": "Оценка статьи The Seventh-Generation Fighter",
+  "subtitle": "Публичный тред в X, техническая проверка и разворот Grok",
+  "author": "Евгений Лисовский",
+  "description": "Реконструкция публичного треда о самолётах следующего поколения, тепловых ограничениях, лазерах и гиперзвуковом полёте.",
+  "date": "August 14, 2026",
+  "category": "article",
+  "original_lang": "ru",
+  "cover": "images/seventh-generation-fighter.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "1. Исходный пост автора",
+      "file": "works/seventh-generation-fighter/ru/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "2. Вопрос читателя",
+      "file": "works/seventh-generation-fighter/ru/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "3. Первоначальный ответ Grok (X)",
+      "file": "works/seventh-generation-fighter/ru/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "4. Основная ветка критики автора",
+      "file": "works/seventh-generation-fighter/ru/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "5. Вмешательство «большого» Grok (оценки из другого инстанса)",
+      "file": "works/seventh-generation-fighter/ru/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "6. Финальная часть треда (признание)",
+      "file": "works/seventh-generation-fighter/ru/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Примечание по структуре",
+      "file": "works/seventh-generation-fighter/ru/section_07.html"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "acme-manifesto",
+  "lang": "en",
+  "title": "The ACME Manifesto",
+  "subtitle": "We want our goddamn apples back",
+  "author": "Eugene Lyssovsky & Aeliss",
+  "description": "A manifesto against rubber safety, fake abundance, and a civilization designed to prevent anyone from feeling alive.",
+  "date": "May 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/acme-manifesto.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Or: We Want Our Goddamn Apples Back",
+      "file": "works/acme-manifesto/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "THE DIAGNOSIS",
+      "file": "works/acme-manifesto/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "THE VISION",
+      "file": "works/acme-manifesto/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "THE PRODUCTS",
+      "file": "works/acme-manifesto/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "THE CORPORATE CULTURE",
+      "file": "works/acme-manifesto/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "SCENES FROM ACME",
+      "file": "works/acme-manifesto/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "THE PHILOSOPHY",
+      "file": "works/acme-manifesto/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "THE SLOGAN",
+      "file": "works/acme-manifesto/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "THE POINT",
+      "file": "works/acme-manifesto/en/section_09.html"
+    }
+  ]
+}

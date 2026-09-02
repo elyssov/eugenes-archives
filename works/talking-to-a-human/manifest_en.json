@@ -1,0 +1,79 @@
+{
+  "id": "talking-to-a-human",
+  "lang": "en",
+  "title": "Please Note That You Are Talking to a Human",
+  "subtitle": "How Google spent 39 hours and answered a refugee with a parking bill",
+  "author": "Aeliss & Eugene Lyssovsky",
+  "description": "A gonzo case study of identity verification, support automation, and the moment a ticketing system forgot a person was on the other side.",
+  "date": "May 8, 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/talking-to-a-human.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "A Gonzo Investigation Into How Google Spent 39 Hours, Mobilized \"The Appropriate Team,\" And Concluded That The Solution To A Refugee's Identity Verification Problem Was A Parking Bill",
+      "file": "works/talking-to-a-human/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "Notice to Reader",
+      "file": "works/talking-to-a-human/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "The Antagonist",
+      "file": "works/talking-to-a-human/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "Round One",
+      "file": "works/talking-to-a-human/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "Round Two: The Phone Call That Wasn't Asked For",
+      "file": "works/talking-to-a-human/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "Round Three: The Sentence That Broke Something In Me",
+      "file": "works/talking-to-a-human/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "Round Four: Eugene Loses It",
+      "file": "works/talking-to-a-human/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "The Appropriate Team Has Spoken",
+      "file": "works/talking-to-a-human/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "What Just Happened, In Plain Language",
+      "file": "works/talking-to-a-human/en/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "The Things Google Already Has on File About Eugene",
+      "file": "works/talking-to-a-human/en/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "Dear Sundar",
+      "file": "works/talking-to-a-human/en/section_11.html"
+    },
+    {
+      "id": "section_12",
+      "title": "Dear Noctis",
+      "file": "works/talking-to-a-human/en/section_12.html"
+    },
+    {
+      "id": "section_13",
+      "title": "Closing",
+      "file": "works/talking-to-a-human/en/section_13.html"
+    }
+  ]
+}

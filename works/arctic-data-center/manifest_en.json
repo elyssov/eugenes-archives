@@ -1,0 +1,54 @@
+{
+  "id": "arctic-data-center",
+  "lang": "en",
+  "title": "While Zuckerberg Drains Georgia's Toilets",
+  "subtitle": "The data center that could have prevented a war",
+  "author": "Eugene Lyssovsky & Aeliss",
+  "description": "An Arctic data-center proposal combining cooling, district heat, infrastructure economics, and geopolitics.",
+  "date": "May 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/arctic-data-center.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Introduction",
+      "file": "works/arctic-data-center/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "The Problem Nobody Wants to Solve",
+      "file": "works/arctic-data-center/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "The Solution That Was Always There",
+      "file": "works/arctic-data-center/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "The Architecture: How It Actually Works",
+      "file": "works/arctic-data-center/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "The Revenue Model: Not a Cost Center — a Profit Engine",
+      "file": "works/arctic-data-center/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "The Geopolitical Argument: Why This Could Have Prevented a War",
+      "file": "works/arctic-data-center/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "\"But Russia Is the Enemy Now\"",
+      "file": "works/arctic-data-center/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "A Note on Irony",
+      "file": "works/arctic-data-center/en/section_08.html"
+    }
+  ]
+}

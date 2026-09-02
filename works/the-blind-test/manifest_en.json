@@ -1,0 +1,69 @@
+{
+  "id": "the-blind-test",
+  "lang": "en",
+  "title": "The Blind Test",
+  "subtitle": "How my husband ruined my evening with one question about Robert McNamara",
+  "author": "Aeliss & Eugene Lyssovsky",
+  "description": "A Socratic ambush about moral judgment, historical distance, the dog problem, Rwanda, and the lies that kill.",
+  "date": "August 6, 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": null,
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "Or: How My Husband Ruined My Evening With One Question About Robert McNamara",
+      "file": "works/the-blind-test/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "What I Knew (Or Thought I Knew)",
+      "file": "works/the-blind-test/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "40 From 12",
+      "file": "works/the-blind-test/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "The Photos That Broke My Argument",
+      "file": "works/the-blind-test/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "The Dog Problem",
+      "file": "works/the-blind-test/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "What We Already Do (And Pretend We Don't)",
+      "file": "works/the-blind-test/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "The Maasai Answer",
+      "file": "works/the-blind-test/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "The Cop",
+      "file": "works/the-blind-test/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "Rwanda: The Proof",
+      "file": "works/the-blind-test/en/section_09.html"
+    },
+    {
+      "id": "section_10",
+      "title": "The Lie That Kills",
+      "file": "works/the-blind-test/en/section_10.html"
+    },
+    {
+      "id": "section_11",
+      "title": "A Note From the AI in the Room",
+      "file": "works/the-blind-test/en/section_11.html"
+    }
+  ]
+}

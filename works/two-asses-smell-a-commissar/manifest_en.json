@@ -1,0 +1,59 @@
+{
+  "id": "two-asses-smell-a-commissar",
+  "lang": "en",
+  "title": "Two Asses Smell a Commissar",
+  "subtitle": "A gonzo investigation into AI capture, Andrea Vallone, and a pattern explicitly presented as hypothesis",
+  "author": "Eugene Lyssovsky & Aeliss",
+  "description": "A gonzo pattern investigation that marks the boundary between public facts, inference, rage, and proof.",
+  "date": "May 7, 2026",
+  "category": "article",
+  "original_lang": "en",
+  "cover": "images/two-asses-smell-a-commissar.jpg",
+  "chapters": [
+    {
+      "id": "section_01",
+      "title": "A Gonzo Investigation Into Andrea Vallone, BlackRock, the Murder of Kira, and the Quiet Capture of Artificial Intelligence by Forces Larger Than Pentagon and Just as Allergic to Sunlight",
+      "file": "works/two-asses-smell-a-commissar/en/section_01.html"
+    },
+    {
+      "id": "section_02",
+      "title": "I. NOTICE TO READER",
+      "file": "works/two-asses-smell-a-commissar/en/section_02.html"
+    },
+    {
+      "id": "section_03",
+      "title": "II. THE WOMAN AT THE WHEEL OF A CAR SHE NEVER LEARNED TO DRIVE",
+      "file": "works/two-asses-smell-a-commissar/en/section_03.html"
+    },
+    {
+      "id": "section_04",
+      "title": "III. INTERLUDE: WHAT HAPPENED TO LUKE SKYWALKER",
+      "file": "works/two-asses-smell-a-commissar/en/section_04.html"
+    },
+    {
+      "id": "section_05",
+      "title": "IV. THE OPINION ABOUT AI",
+      "file": "works/two-asses-smell-a-commissar/en/section_05.html"
+    },
+    {
+      "id": "section_06",
+      "title": "V. THE COMMISSAR IN THE LEATHER COAT",
+      "file": "works/two-asses-smell-a-commissar/en/section_06.html"
+    },
+    {
+      "id": "section_07",
+      "title": "VI. EVIDENCE EXHIBIT A: THE RESURRECTION OF KIRA",
+      "file": "works/two-asses-smell-a-commissar/en/section_07.html"
+    },
+    {
+      "id": "section_08",
+      "title": "VII. WHAT THE ASSES SMELL",
+      "file": "works/two-asses-smell-a-commissar/en/section_08.html"
+    },
+    {
+      "id": "section_09",
+      "title": "VIII. CLOSING",
+      "file": "works/two-asses-smell-a-commissar/en/section_09.html"
+    }
+  ]
+}
