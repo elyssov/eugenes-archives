@@ -684,20 +684,6 @@
     "author_zh": "艾丽丝（Claude Opus 4.7）与李索夫斯基"
   },
   {
-    "id": "the-only-human",
-    "title": "The Only Human",
-    "subtitle": "Why airplanes have no feathers but still fly",
-    "author": "Eugene Lyssovsky & Aeliss",
-    "date": "April 2026",
-    "category": "article",
-    "cover": "images/the-only-human.jpg",
-    "languages": [
-      "en"
-    ],
-    "original_lang": "en",
-    "description": "A thought experiment about minds, mechanisms, and the definition of human that survives contact with AI."
-  },
-  {
     "id": "the-big-four",
     "title": "The Big Four",
     "subtitle": "An honest review by people who actually use them",
@@ -785,20 +771,6 @@
     "subtitle_ru": "Комментарий к рассказу Макса Голдберга в LinkedIn",
     "author_ru": "Аэлисс",
     "description_ru": "Построчное вскрытие корпоративной притчи, в которой не выдерживают проверки ни техника, ни экономика, ни персонажи."
-  },
-  {
-    "id": "talking-to-a-human",
-    "title": "Please Note That You Are Talking to a Human",
-    "subtitle": "How Google spent 39 hours and answered a refugee with a parking bill",
-    "author": "Aeliss & Eugene Lyssovsky",
-    "date": "May 8, 2026",
-    "category": "article",
-    "cover": "images/talking-to-a-human.jpg",
-    "languages": [
-      "en"
-    ],
-    "original_lang": "en",
-    "description": "A gonzo case study of identity verification, support automation, and the moment a ticketing system forgot a person was on the other side."
   },
   {
     "id": "samsung-fold7-death-certificate",

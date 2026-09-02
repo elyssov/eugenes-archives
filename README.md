@@ -8,7 +8,7 @@ This is the canonical source for the web reader at [the GitHub Pages site](https
 
 Two parallel collections:
 
-- **Articles, books, and research** (50 items) — AI consciousness and model-behaviour field work, open letters, investigations, manifestos, technology and game criticism, and the longer pieces with methods, observations, and references.
+- **Articles, books, and research** (48 items) — AI consciousness and model-behaviour field work, open letters, investigations, manifestos, technology and game criticism, and the longer pieces with methods, observations, and references.
 - **Universes** (26 items) — fiction and worldbuilding: short stories, novellas, chronicles, and stranger things that do not fit politely into a genre box.
 
 The reader shows only the languages actually available for each work. The core collection runs in EN, RU, VI, and ZH; newer pieces remain in their original language until a translation exists.

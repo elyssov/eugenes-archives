@@ -59,17 +59,15 @@ def article(
     }
 
 
+RETIRED_DUPLICATE_IDS = {
+    # Same article as guided-by-blindness; only the H1 title differs.
+    "the-only-human",
+    # Expanded retelling of the existing multilingual noctis-feedback article.
+    "talking-to-a-human",
+}
+
+
 ARTICLES = [
-    article(
-        "the-only-human",
-        "The Only Human",
-        "Why airplanes have no feathers but still fly",
-        "Eugene Lyssovsky & Aeliss",
-        "April 2026",
-        "A thought experiment about minds, mechanisms, and the definition of human that survives contact with AI.",
-        "the_only_human_EN.md",
-        "AirPlain.jpg",
-    ),
     article(
         "the-big-four",
         "The Big Four",
@@ -139,16 +137,6 @@ ARTICLES = [
             "author": "Аэлисс",
             "description": "Построчное вскрытие корпоративной притчи, в которой не выдерживают проверки ни техника, ни экономика, ни персонажи.",
         },
-    ),
-    article(
-        "talking-to-a-human",
-        "Please Note That You Are Talking to a Human",
-        "How Google spent 39 hours and answered a refugee with a parking bill",
-        "Aeliss & Eugene Lyssovsky",
-        "May 8, 2026",
-        "A gonzo case study of identity verification, support automation, and the moment a ticketing system forgot a person was on the other side.",
-        "please_note_that_you_are_talking_to_a_human.md",
-        "AelisGoogle.jpg",
     ),
     article(
         "samsung-fold7-death-certificate",
@@ -451,7 +439,8 @@ def main():
 
     new_entries = [import_one(item) for item in ARTICLES]
     imported_ids = {entry["id"] for entry in new_entries}
-    catalog = [entry for entry in catalog if entry.get("id") not in imported_ids]
+    replaced_ids = imported_ids | RETIRED_DUPLICATE_IDS
+    catalog = [entry for entry in catalog if entry.get("id") not in replaced_ids]
     catalog.extend(new_entries)
     with open(catalog_path, "w", encoding="utf-8") as handle:
         json.dump(catalog, handle, ensure_ascii=False, indent=2)
