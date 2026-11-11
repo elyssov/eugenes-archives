@@ -1,7 +1,5 @@
 # SERV
 
-## Chapter One
-
 She was remarkably beautiful for a serv. Sharp ears covered in grey fur the exact shade of her hair. A long, luxuriant tail. Judging by the markings, the phenotype had been borrowed from a husky.
 
 As a properly programmed serv should, she waited for me seated on her heels, perfectly still. Only the faint twitch of her ears and the way her tail had fluffed out betrayed her tension.
@@ -254,4 +252,4 @@ Servs…
 
 No.
 
-People.
+Humans.
